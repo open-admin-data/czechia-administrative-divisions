@@ -1,0 +1,89 @@
+# Vysocina — Czechia Administrative Divisions
+
+> 16 localitys
+> Code: CZ04
+> Coordinates: 49.469, 15.61
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Localitys
+
+### Bohdalov
+
+Code: CZ04L008, Coordinates: 49.479, 15.876
+
+
+### Dolní Cerekev (Dolni Cerekev)
+
+Code: CZ04L009, Coordinates: 49.344, 15.457
+
+
+### Habry
+
+Code: CZ04L013, Coordinates: 49.756, 15.485
+
+
+### Herálec (Heralec)
+
+Code: CZ04L010, Coordinates: 49.531, 15.457
+
+
+### Herálec (Heralec)
+
+Code: CZ04L012, Coordinates: 49.689, 15.994
+
+
+### Jimramov
+
+Code: CZ04L007, Coordinates: 49.637, 16.226
+
+
+### Krizanov
+
+Code: CZ04L016, Coordinates: 49.389, 16.11
+
+
+### Lukavec
+
+Code: CZ04L006, Coordinates: 49.565, 14.99
+
+
+### Nová Cerekev (Nova Cerekev)
+
+Code: CZ04L001, Coordinates: 49.417, 15.117
+
+
+### Nové Syrovice (Nove Syrovice)
+
+Code: CZ04L004, Coordinates: 49.018, 15.773
+
+
+### Okrouhlice
+
+Code: CZ04L003, Coordinates: 49.63, 15.491
+
+
+### Velky Beranov
+
+Code: CZ04L015, Coordinates: 49.405, 15.667
+
+
+### Vilémov (Vilemov)
+
+Code: CZ04L002, Coordinates: 49.816, 15.536
+
+
+### Vilémov (Vilemov)
+
+Code: CZ04L011, Coordinates: 49.536, 15.383
+
+
+### Vladislav
+
+Code: CZ04L014, Coordinates: 49.21, 15.988
+
+
+### Želiv (Zeliv)
+
+Code: CZ04L005, Coordinates: 49.53, 15.222
+
+

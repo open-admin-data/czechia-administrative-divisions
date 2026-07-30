@@ -1,0 +1,84 @@
+# Pardubice — Czechia Administrative Divisions
+
+> 15 localitys
+> Code: CZ07
+> Coordinates: 49.841, 16.328
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Localitys
+
+### Brněnec (Brnenec)
+
+Code: CZ07L014, Coordinates: 49.627, 16.522
+
+
+### Býšť (Byst)
+
+Code: CZ07L010, Coordinates: 50.132, 15.911
+
+
+### Chroustovice
+
+Code: CZ07L011, Coordinates: 49.956, 15.991
+
+
+### Dolní Roveň (Dolni Roven)
+
+Code: CZ07L001, Coordinates: 50.029, 15.968
+
+
+### Dolni Sloupnice
+
+Code: CZ07L013, Coordinates: 49.927, 16.294
+
+
+### Horní Čermná (Horni Cermna)
+
+Code: CZ07L009, Coordinates: 49.971, 16.608
+
+
+### Krouna
+
+Code: CZ07L006, Coordinates: 49.772, 16.027
+
+
+### Kunčina
+
+Code: CZ07L005, Coordinates: 49.795, 16.628
+
+
+### Kunvald
+
+Code: CZ07L007, Coordinates: 50.129, 16.5
+
+
+### Městečko Trnávka (Mestečko Trnavka)
+
+Code: CZ07L002, Coordinates: 49.709, 16.727
+
+
+### Miřetice (Miretice)
+
+Code: CZ07L008, Coordinates: 49.841, 15.885
+
+
+### Osík (Osik)
+
+Code: CZ07L012, Coordinates: 49.844, 16.285
+
+
+### Prosec
+
+Code: CZ07L015, Coordinates: 49.806, 16.116
+
+
+### Seč
+
+Code: CZ07L004, Coordinates: 49.847, 15.656
+
+
+### Zaholice
+
+Code: CZ07L003, Coordinates: 50.066, 15.986
+
+

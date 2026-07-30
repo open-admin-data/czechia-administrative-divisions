@@ -1,0 +1,45 @@
+{
+  "id": "CZ05L011",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Černošín",
+    "en": "Cernosin",
+    "slug": "cernosin-cz05l011"
+  },
+  "code": {
+    "id": "CZ05L011",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ05",
+    "level": 1,
+    "name": {
+      "local": "Plzeňský",
+      "en": "Plzeň",
+      "slug": "plzen-cz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.816",
+    "lon": "12.884"
+  },
+  "metadata": {},
+  "source": {}
+}

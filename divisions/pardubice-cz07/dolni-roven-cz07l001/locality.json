@@ -1,0 +1,45 @@
+{
+  "id": "CZ07L001",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Dolní Roveň",
+    "en": "Dolni Roven",
+    "slug": "dolni-roven-cz07l001"
+  },
+  "code": {
+    "id": "CZ07L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ07",
+    "level": 1,
+    "name": {
+      "local": "Pardubický",
+      "en": "Pardubice",
+      "slug": "pardubice-cz07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ07",
+      "level": 1,
+      "name": {
+        "local": "Pardubický",
+        "en": "Pardubice",
+        "slug": "pardubice-cz07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.029",
+    "lon": "15.968"
+  },
+  "metadata": {},
+  "source": {}
+}

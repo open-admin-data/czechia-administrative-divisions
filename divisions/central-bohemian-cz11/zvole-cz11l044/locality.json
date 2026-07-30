@@ -1,0 +1,45 @@
+{
+  "id": "CZ11L044",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Zvole",
+    "en": "Zvole",
+    "slug": "zvole-cz11l044"
+  },
+  "code": {
+    "id": "CZ11L044",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ11",
+    "level": 1,
+    "name": {
+      "local": "Středočeský",
+      "en": "Central Bohemian",
+      "slug": "central-bohemian-cz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.935",
+    "lon": "14.418"
+  },
+  "metadata": {},
+  "source": {}
+}

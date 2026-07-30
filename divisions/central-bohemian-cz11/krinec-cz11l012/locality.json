@@ -1,0 +1,45 @@
+{
+  "id": "CZ11L012",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Křinec",
+    "en": "Krinec",
+    "slug": "krinec-cz11l012"
+  },
+  "code": {
+    "id": "CZ11L012",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ11",
+    "level": 1,
+    "name": {
+      "local": "Středočeský",
+      "en": "Central Bohemian",
+      "slug": "central-bohemian-cz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.264",
+    "lon": "15.138"
+  },
+  "metadata": {},
+  "source": {}
+}

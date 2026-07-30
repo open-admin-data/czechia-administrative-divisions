@@ -1,0 +1,45 @@
+{
+  "id": "CZ14L013",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Janov nad Nisou",
+    "en": "Janov nad Nisou",
+    "slug": "janov-nad-nisou-cz14l013"
+  },
+  "code": {
+    "id": "CZ14L013",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ14",
+    "level": 1,
+    "name": {
+      "local": "Liberecký",
+      "en": "Liberec",
+      "slug": "liberec-cz14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ14",
+      "level": 1,
+      "name": {
+        "local": "Liberecký",
+        "en": "Liberec",
+        "slug": "liberec-cz14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.772",
+    "lon": "15.169"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CZ10L013",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Město Libavá",
+    "en": "Mesto Libava",
+    "slug": "mesto-libava-cz10l013"
+  },
+  "code": {
+    "id": "CZ10L013",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ10",
+    "level": 1,
+    "name": {
+      "local": "Olomoucký",
+      "en": "Olomouc",
+      "slug": "olomouc-cz10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.722",
+    "lon": "17.52"
+  },
+  "metadata": {},
+  "source": {}
+}

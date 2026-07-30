@@ -1,0 +1,45 @@
+{
+  "id": "CZ02L004",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Hvozdná",
+    "en": "Hvozdna",
+    "slug": "hvozdna-cz02l004"
+  },
+  "code": {
+    "id": "CZ02L004",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ02",
+    "level": 1,
+    "name": {
+      "local": "Zlínský",
+      "en": "Zlín",
+      "slug": "zlin-cz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ02",
+      "level": 1,
+      "name": {
+        "local": "Zlínský",
+        "en": "Zlín",
+        "slug": "zlin-cz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.248",
+    "lon": "17.752"
+  },
+  "metadata": {},
+  "source": {}
+}

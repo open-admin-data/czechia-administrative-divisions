@@ -1,0 +1,33 @@
+{
+  "id": "CZ12",
+  "level": 1,
+  "level_name": {
+    "local": "Kraj",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Královéhradecký",
+    "en": "Hradec Králové",
+    "slug": "hradec-kralove-cz12"
+  },
+  "code": {
+    "id": "CZ12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.415",
+    "lon": "15.868"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cz/regions/hradec-kralove-cz12/",
+    "api": "https://openadmindata.org/api/cz/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CZ11L022",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Hovorčovice",
+    "en": "Hovorčovice",
+    "slug": "hovorcovice-cz11l022"
+  },
+  "code": {
+    "id": "CZ11L022",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ11",
+    "level": 1,
+    "name": {
+      "local": "Středočeský",
+      "en": "Central Bohemian",
+      "slug": "central-bohemian-cz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.179",
+    "lon": "14.518"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CZ12L004",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Albrechtice nad Orlicí",
+    "en": "Albrechtice nad Orlici",
+    "slug": "albrechtice-nad-orlici-cz12l004"
+  },
+  "code": {
+    "id": "CZ12L004",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ12",
+    "level": 1,
+    "name": {
+      "local": "Královéhradecký",
+      "en": "Hradec Králové",
+      "slug": "hradec-kralove-cz12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.14",
+    "lon": "16.064"
+  },
+  "metadata": {},
+  "source": {}
+}

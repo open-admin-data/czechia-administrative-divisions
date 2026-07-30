@@ -1,0 +1,45 @@
+{
+  "id": "CZ09L020",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Branice",
+    "en": "Branice",
+    "slug": "branice-cz09l020"
+  },
+  "code": {
+    "id": "CZ09L020",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ09",
+    "level": 1,
+    "name": {
+      "local": "Moravskoslezský",
+      "en": "Moravian-Silesian",
+      "slug": "moravian-silesian-cz09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.064",
+    "lon": "17.629"
+  },
+  "metadata": {},
+  "source": {}
+}

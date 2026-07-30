@@ -1,0 +1,154 @@
+# South Bohemian — Czechia Administrative Divisions
+
+> 29 localitys
+> Code: CZ01
+> Coordinates: 49.078, 14.448
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Localitys
+
+### Benešov nad Černou (Benesov nad Cernou)
+
+Code: CZ01L021, Coordinates: 48.729, 14.627
+
+
+### Bernartice
+
+Code: CZ01L020, Coordinates: 49.369, 14.381
+
+
+### Boroviny
+
+Code: CZ01L008, Coordinates: 48.899, 14.642
+
+
+### Brloh
+
+Code: CZ01L006, Coordinates: 48.93, 14.219
+
+
+### Český Rudolec (Cesky Rudolec)
+
+Code: CZ01L009, Coordinates: 49.068, 15.324
+
+
+### Chotoviny
+
+Code: CZ01L013, Coordinates: 49.478, 14.677
+
+
+### Chyšky (Chysky)
+
+Code: CZ01L015, Coordinates: 49.523, 14.428
+
+
+### Čimelice (Cimelice)
+
+Code: CZ01L012, Coordinates: 49.466, 14.069
+
+
+### Dříteň (Driten)
+
+Code: CZ01L005, Coordinates: 49.143, 14.346
+
+
+### Dubné (Dubne)
+
+Code: CZ01L010, Coordinates: 48.976, 14.36
+
+
+### Hluboka nad Vltavou
+
+Code: CZ01L029, Coordinates: 49.052, 14.434
+
+
+### Horní Stropnice (Horni Stropnice)
+
+Code: CZ01L004, Coordinates: 48.761, 14.735
+
+
+### Jarošov nad Nežárkou (Jarosov nad Nezarkou)
+
+Code: CZ01L014, Coordinates: 49.19, 15.067
+
+
+### Jistebnice
+
+Code: CZ01L001, Coordinates: 49.486, 14.528
+
+
+### Kájov (Kajov)
+
+Code: CZ01L016, Coordinates: 48.811, 14.259
+
+
+### Kardasova Recice
+
+Code: CZ01L027, Coordinates: 49.185, 14.853
+
+
+### Kovářov (Kovarov)
+
+Code: CZ01L002, Coordinates: 49.518, 14.278
+
+
+### Litvínovice (Litvinovice)
+
+Code: CZ01L022, Coordinates: 48.962, 14.451
+
+
+### Malonty
+
+Code: CZ01L011, Coordinates: 48.686, 14.577
+
+
+### Mirotice
+
+Code: CZ01L003, Coordinates: 49.429, 14.037
+
+
+### Nove Hrady
+
+Code: CZ01L026, Coordinates: 48.79, 14.778
+
+
+### Opařany (Oparany)
+
+Code: CZ01L017, Coordinates: 49.397, 14.481
+
+
+### Petrovice
+
+Code: CZ01L025, Coordinates: 49.554, 14.337
+
+
+### Radomyšl (Radomysl)
+
+Code: CZ01L007, Coordinates: 49.316, 13.93
+
+
+### Sedlice
+
+Code: CZ01L024, Coordinates: 48.774, 14.391
+
+
+### Srubec
+
+Code: CZ01L023, Coordinates: 48.948, 14.541
+
+
+### Strunkovice nad Blanicí (Strunkovice nad Blanici)
+
+Code: CZ01L019, Coordinates: 49.084, 14.055
+
+
+### Suchdol nad Luznici
+
+Code: CZ01L028, Coordinates: 48.89, 14.877
+
+
+### Vacov
+
+Code: CZ01L018, Coordinates: 49.137, 13.729
+
+

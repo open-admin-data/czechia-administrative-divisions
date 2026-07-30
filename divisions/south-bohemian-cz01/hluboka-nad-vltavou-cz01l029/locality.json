@@ -1,0 +1,45 @@
+{
+  "id": "CZ01L029",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Hluboka nad Vltavou",
+    "en": "Hluboka nad Vltavou",
+    "slug": "hluboka-nad-vltavou-cz01l029"
+  },
+  "code": {
+    "id": "CZ01L029",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ01",
+    "level": 1,
+    "name": {
+      "local": "Jihočeský",
+      "en": "South Bohemian",
+      "slug": "south-bohemian-cz01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.052",
+    "lon": "14.434"
+  },
+  "metadata": {},
+  "source": {}
+}

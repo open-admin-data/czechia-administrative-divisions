@@ -1,0 +1,84 @@
+# Liberec — Czechia Administrative Divisions
+
+> 15 localitys
+> Code: CZ14
+> Coordinates: 50.735, 15.151
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Localitys
+
+### Benecko
+
+Code: CZ14L012, Coordinates: 50.666, 15.548
+
+
+### Brniště (Brniste)
+
+Code: CZ14L007, Coordinates: 50.729, 14.703
+
+
+### Harrachov
+
+Code: CZ14L008, Coordinates: 50.772, 15.431
+
+
+### Horni Branna
+
+Code: CZ14L014, Coordinates: 50.608, 15.571
+
+
+### Janov nad Nisou
+
+Code: CZ14L013, Coordinates: 50.772, 15.169
+
+
+### JosefÅ¯v DÅ¯l (JosefA¯v DA¯l)
+
+Code: CZ14L009, Coordinates: 50.782, 15.231
+
+
+### Kořenov (Korenov)
+
+Code: CZ14L006, Coordinates: 50.759, 15.365
+
+
+### Malá Skála (Mala Skala)
+
+Code: CZ14L001, Coordinates: 50.646, 15.195
+
+
+### Osečná (Osečna)
+
+Code: CZ14L011, Coordinates: 50.695, 14.921
+
+
+### Pěnčín (Penčin)
+
+Code: CZ14L010, Coordinates: 50.688, 15.236
+
+
+### Plavy
+
+Code: CZ14L004, Coordinates: 50.703, 15.317
+
+
+### Rokytnice nad Jizerou
+
+Code: CZ14L002, Coordinates: 50.726, 15.434
+
+
+### Straz pod Ralskem
+
+Code: CZ14L015, Coordinates: 50.703, 14.801
+
+
+### Višňová (Visnova)
+
+Code: CZ14L003, Coordinates: 50.967, 15.025
+
+
+### Vysoké nad Jizerou (Vysoke nad Jizerou)
+
+Code: CZ14L005, Coordinates: 50.686, 15.402
+
+

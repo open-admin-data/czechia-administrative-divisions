@@ -1,0 +1,45 @@
+{
+  "id": "CZ09L002",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Chotěbuz",
+    "en": "Chotebuz",
+    "slug": "chotebuz-cz09l002"
+  },
+  "code": {
+    "id": "CZ09L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ09",
+    "level": 1,
+    "name": {
+      "local": "Moravskoslezský",
+      "en": "Moravian-Silesian",
+      "slug": "moravian-silesian-cz09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.768",
+    "lon": "18.569"
+  },
+  "metadata": {},
+  "source": {}
+}

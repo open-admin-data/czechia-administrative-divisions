@@ -1,0 +1,45 @@
+{
+  "id": "CZ02L002",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Soláň",
+    "en": "Solan",
+    "slug": "solan-cz02l002"
+  },
+  "code": {
+    "id": "CZ02L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ02",
+    "level": 1,
+    "name": {
+      "local": "Zlínský",
+      "en": "Zlín",
+      "slug": "zlin-cz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ02",
+      "level": 1,
+      "name": {
+        "local": "Zlínský",
+        "en": "Zlín",
+        "slug": "zlin-cz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.396",
+    "lon": "18.246"
+  },
+  "metadata": {},
+  "source": {}
+}

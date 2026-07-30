@@ -1,0 +1,45 @@
+{
+  "id": "CZ13L001",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Staré Křečany",
+    "en": "Stare Krečany",
+    "slug": "stare-krecany-cz13l001"
+  },
+  "code": {
+    "id": "CZ13L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ13",
+    "level": 1,
+    "name": {
+      "local": "Ústecký",
+      "en": "Ústí nad Labem",
+      "slug": "usti-nad-labem-cz13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ13",
+      "level": 1,
+      "name": {
+        "local": "Ústecký",
+        "en": "Ústí nad Labem",
+        "slug": "usti-nad-labem-cz13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.95",
+    "lon": "14.496"
+  },
+  "metadata": {},
+  "source": {}
+}

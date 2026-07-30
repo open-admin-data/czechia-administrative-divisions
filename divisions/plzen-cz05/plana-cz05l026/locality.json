@@ -1,0 +1,45 @@
+{
+  "id": "CZ05L026",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Plana",
+    "en": "Plana",
+    "slug": "plana-cz05l026"
+  },
+  "code": {
+    "id": "CZ05L026",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ05",
+    "level": 1,
+    "name": {
+      "local": "Plzeňský",
+      "en": "Plzeň",
+      "slug": "plzen-cz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.868",
+    "lon": "12.744"
+  },
+  "metadata": {},
+  "source": {}
+}

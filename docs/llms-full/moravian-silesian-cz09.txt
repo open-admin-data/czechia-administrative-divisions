@@ -1,0 +1,179 @@
+# Moravian-Silesian — Czechia Administrative Divisions
+
+> 34 localitys
+> Code: CZ09
+> Coordinates: 49.759, 18.109
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Localitys
+
+### Ã… tramberk (A… tramberk)
+
+Code: CZ09L012, Coordinates: 49.592, 18.117
+
+
+### Branice
+
+Code: CZ09L020, Coordinates: 50.064, 17.629
+
+
+### Brezova
+
+Code: CZ09L027, Coordinates: 49.792, 17.866
+
+
+### Brumovice
+
+Code: CZ09L004, Coordinates: 50.015, 17.75
+
+
+### Chotbuz
+
+Code: CZ09L015, Coordinates: 49.768, 18.569
+
+
+### Chotěbuz (Chotebuz)
+
+Code: CZ09L002, Coordinates: 49.768, 18.569
+
+
+### Dolni Lhota
+
+Code: CZ09L032, Coordinates: 49.842, 18.092
+
+
+### Frydlant nad Ostravici
+
+Code: CZ09L023, Coordinates: 49.593, 18.36
+
+
+### Holasovice
+
+Code: CZ09L013, Coordinates: 49.998, 17.808
+
+
+### Horní Bludovice (Horni Bludovice)
+
+Code: CZ09L009, Coordinates: 49.75, 18.437
+
+
+### Horní Město (Horni Mesto)
+
+Code: CZ09L010, Coordinates: 49.908, 17.211
+
+
+### Hradec nad Moravici
+
+Code: CZ09L025, Coordinates: 49.87, 17.878
+
+
+### Hradek
+
+Code: CZ09L026, Coordinates: 49.617, 18.737
+
+
+### Hukvaldy
+
+Code: CZ09L019, Coordinates: 49.624, 18.222
+
+
+### Jakartovice
+
+Code: CZ09L006, Coordinates: 49.915, 17.684
+
+
+### Krmelin
+
+Code: CZ09L017, Coordinates: 49.729, 18.235
+
+
+### Lichnov (o. Nový Jičín) (Lichnov (o. Novy Jičin))
+
+Code: CZ09L022, Coordinates: 49.564, 18.169
+
+
+### Milíkov (Milikov)
+
+Code: CZ09L001, Coordinates: 49.586, 18.719
+
+
+### Mokre Lazce
+
+Code: CZ09L028, Coordinates: 49.905, 18.03
+
+
+### Petřvald (Petrvald)
+
+Code: CZ09L014, Coordinates: 49.831, 18.389
+
+
+### Pist&#39;
+
+Code: CZ09L031, Coordinates: 49.979, 18.193
+
+
+### Pusta Polom
+
+Code: CZ09L030, Coordinates: 49.849, 17.998
+
+
+### Sedliste
+
+Code: CZ09L033, Coordinates: 49.718, 18.369
+
+
+### Stará Ves nad Ondejnicí (Stara Ves nad Ondejnici)
+
+Code: CZ09L016, Coordinates: 49.728, 18.189
+
+
+### Staric
+
+Code: CZ09L024, Coordinates: 49.686, 18.273
+
+
+### Starý Jičín (Stary Jičin)
+
+Code: CZ09L021, Coordinates: 49.577, 17.962
+
+
+### Stěbořice (Steborice)
+
+Code: CZ09L011, Coordinates: 49.937, 17.805
+
+
+### Stonava
+
+Code: CZ09L003, Coordinates: 49.817, 18.525
+
+
+### Ticha
+
+Code: CZ09L034, Coordinates: 49.57, 18.221
+
+
+### Trinec
+
+Code: CZ09L005, Coordinates: 49.678, 18.671
+
+
+### Velka Polom
+
+Code: CZ09L029, Coordinates: 49.864, 18.093
+
+
+### Velké Heraltice (Velke Heraltice)
+
+Code: CZ09L007, Coordinates: 49.975, 17.729
+
+
+### Vlcnov
+
+Code: CZ09L008, Coordinates: 49.579, 17.955
+
+
+### Zátor (Zator)
+
+Code: CZ09L018, Coordinates: 50.034, 17.593
+
+

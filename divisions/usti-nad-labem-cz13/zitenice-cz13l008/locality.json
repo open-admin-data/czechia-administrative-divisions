@@ -1,0 +1,45 @@
+{
+  "id": "CZ13L008",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Žitenice",
+    "en": "Zitenice",
+    "slug": "zitenice-cz13l008"
+  },
+  "code": {
+    "id": "CZ13L008",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ13",
+    "level": 1,
+    "name": {
+      "local": "Ústecký",
+      "en": "Ústí nad Labem",
+      "slug": "usti-nad-labem-cz13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ13",
+      "level": 1,
+      "name": {
+        "local": "Ústecký",
+        "en": "Ústí nad Labem",
+        "slug": "usti-nad-labem-cz13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.555",
+    "lon": "14.157"
+  },
+  "metadata": {},
+  "source": {}
+}

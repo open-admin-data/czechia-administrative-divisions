@@ -1,0 +1,45 @@
+{
+  "id": "CZ01L004",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Horní Stropnice",
+    "en": "Horni Stropnice",
+    "slug": "horni-stropnice-cz01l004"
+  },
+  "code": {
+    "id": "CZ01L004",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ01",
+    "level": 1,
+    "name": {
+      "local": "Jihočeský",
+      "en": "South Bohemian",
+      "slug": "south-bohemian-cz01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "48.761",
+    "lon": "14.735"
+  },
+  "metadata": {},
+  "source": {}
+}

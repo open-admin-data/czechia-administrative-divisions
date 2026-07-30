@@ -1,0 +1,45 @@
+{
+  "id": "CZ02L007",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Stare Mesto",
+    "en": "Stare Mesto",
+    "slug": "stare-mesto-cz02l007"
+  },
+  "code": {
+    "id": "CZ02L007",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ02",
+    "level": 1,
+    "name": {
+      "local": "Zlínský",
+      "en": "Zlín",
+      "slug": "zlin-cz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ02",
+      "level": 1,
+      "name": {
+        "local": "Zlínský",
+        "en": "Zlín",
+        "slug": "zlin-cz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.075",
+    "lon": "17.433"
+  },
+  "metadata": {},
+  "source": {}
+}

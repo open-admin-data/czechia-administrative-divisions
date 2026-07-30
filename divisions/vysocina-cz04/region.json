@@ -1,0 +1,33 @@
+{
+  "id": "CZ04",
+  "level": 1,
+  "level_name": {
+    "local": "Kraj",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Vysočina",
+    "en": "Vysocina",
+    "slug": "vysocina-cz04"
+  },
+  "code": {
+    "id": "CZ04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.469",
+    "lon": "15.61"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cz/regions/vysocina-cz04/",
+    "api": "https://openadmindata.org/api/cz/"
+  }
+}

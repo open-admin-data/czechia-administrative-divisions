@@ -1,0 +1,45 @@
+{
+  "id": "CZ05L005",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Hromnice",
+    "en": "Hromnice",
+    "slug": "hromnice-cz05l005"
+  },
+  "code": {
+    "id": "CZ05L005",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ05",
+    "level": 1,
+    "name": {
+      "local": "Plzeňský",
+      "en": "Plzeň",
+      "slug": "plzen-cz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.849",
+    "lon": "13.441"
+  },
+  "metadata": {},
+  "source": {}
+}

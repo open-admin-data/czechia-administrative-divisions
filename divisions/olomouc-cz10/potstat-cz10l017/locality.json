@@ -1,0 +1,45 @@
+{
+  "id": "CZ10L017",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Potštát",
+    "en": "Potstat",
+    "slug": "potstat-cz10l017"
+  },
+  "code": {
+    "id": "CZ10L017",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ10",
+    "level": 1,
+    "name": {
+      "local": "Olomoucký",
+      "en": "Olomouc",
+      "slug": "olomouc-cz10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.637",
+    "lon": "17.652"
+  },
+  "metadata": {},
+  "source": {}
+}

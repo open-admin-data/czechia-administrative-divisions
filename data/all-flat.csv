@@ -1,0 +1,16 @@
+# Data from Open Admin Data (https://openadmindata.org/cz/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/czechia-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.region,children_count.locality,zip_codes,geo.lat,geo.lon,source_url
+CZ01,1,Kraj,Region,Jihočeský,South Bohemian,south-bohemian-cz01,CZ01,,,,,,29,,49.078,14.448,https://openadmindata.org/cz/regions/south-bohemian-cz01/
+CZ02,1,Kraj,Region,Zlínský,Zlín,zlin-cz02,CZ02,,,,,,10,,49.16,17.693,https://openadmindata.org/cz/regions/zlin-cz02/
+CZ03,1,Kraj,Region,Jihomoravský,South Moravian,south-moravian-cz03,CZ03,,,,,,20,,49.106,16.651,https://openadmindata.org/cz/regions/south-moravian-cz03/
+CZ04,1,Kraj,Region,Vysočina,Vysocina,vysocina-cz04,CZ04,,,,,,16,,49.469,15.61,https://openadmindata.org/cz/regions/vysocina-cz04/
+CZ05,1,Kraj,Region,Plzeňský,Plzeň,plzen-cz05,CZ05,,,,,,30,,49.622,13.222,https://openadmindata.org/cz/regions/plzen-cz05/
+CZ06,1,Kraj,Region,Hlavní město Praha,Prague,prague-cz06,CZ06,,,,,,1,,50.074,14.466,https://openadmindata.org/cz/regions/prague-cz06/
+CZ07,1,Kraj,Region,Pardubický,Pardubice,pardubice-cz07,CZ07,,,,,,15,,49.841,16.328,https://openadmindata.org/cz/regions/pardubice-cz07/
+CZ08,1,Kraj,Region,Karlovarský,Karlovy Vary,karlovy-vary-cz08,CZ08,,,,,,8,,50.157,12.694,https://openadmindata.org/cz/regions/karlovy-vary-cz08/
+CZ09,1,Kraj,Region,Moravskoslezský,Moravian-Silesian,moravian-silesian-cz09,CZ09,,,,,,34,,49.759,18.109,https://openadmindata.org/cz/regions/moravian-silesian-cz09/
+CZ10,1,Kraj,Region,Olomoucký,Olomouc,olomouc-cz10,CZ10,,,,,,31,,49.614,17.151,https://openadmindata.org/cz/regions/olomouc-cz10/
+CZ11,1,Kraj,Region,Středočeský,Central Bohemian,central-bohemian-cz11,CZ11,,,,,,54,,50.007,15.003,https://openadmindata.org/cz/regions/central-bohemian-cz11/
+CZ12,1,Kraj,Region,Královéhradecký,Hradec Králové,hradec-kralove-cz12,CZ12,,,,,,16,,50.415,15.868,https://openadmindata.org/cz/regions/hradec-kralove-cz12/
+CZ13,1,Kraj,Region,Ústecký,Ústí nad Labem,usti-nad-labem-cz13,CZ13,,,,,,24,,50.491,13.789,https://openadmindata.org/cz/regions/usti-nad-labem-cz13/
+CZ14,1,Kraj,Region,Liberecký,Liberec,liberec-cz14,CZ14,,,,,,15,,50.735,15.151,https://openadmindata.org/cz/regions/liberec-cz14/

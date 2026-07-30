@@ -1,0 +1,45 @@
+{
+  "id": "CZ14L011",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Osečná",
+    "en": "Osečna",
+    "slug": "osecna-cz14l011"
+  },
+  "code": {
+    "id": "CZ14L011",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ14",
+    "level": 1,
+    "name": {
+      "local": "Liberecký",
+      "en": "Liberec",
+      "slug": "liberec-cz14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ14",
+      "level": 1,
+      "name": {
+        "local": "Liberecký",
+        "en": "Liberec",
+        "slug": "liberec-cz14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.695",
+    "lon": "14.921"
+  },
+  "metadata": {},
+  "source": {}
+}

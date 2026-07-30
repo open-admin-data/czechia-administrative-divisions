@@ -1,0 +1,33 @@
+{
+  "id": "CZ06",
+  "level": 1,
+  "level_name": {
+    "local": "Kraj",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Hlavní město Praha",
+    "en": "Prague",
+    "slug": "prague-cz06"
+  },
+  "code": {
+    "id": "CZ06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.074",
+    "lon": "14.466"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cz/regions/prague-cz06/",
+    "api": "https://openadmindata.org/api/cz/"
+  }
+}

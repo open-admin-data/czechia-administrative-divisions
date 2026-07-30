@@ -1,0 +1,45 @@
+{
+  "id": "CZ10L006",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Horní Å těpánov",
+    "en": "Horni A tepanov",
+    "slug": "horni-a-tepanov-cz10l006"
+  },
+  "code": {
+    "id": "CZ10L006",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ10",
+    "level": 1,
+    "name": {
+      "local": "Olomoucký",
+      "en": "Olomouc",
+      "slug": "olomouc-cz10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.549",
+    "lon": "16.791"
+  },
+  "metadata": {},
+  "source": {}
+}

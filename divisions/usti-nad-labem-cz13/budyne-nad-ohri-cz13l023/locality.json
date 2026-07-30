@@ -1,0 +1,45 @@
+{
+  "id": "CZ13L023",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Budyne nad Ohri",
+    "en": "Budyne nad Ohri",
+    "slug": "budyne-nad-ohri-cz13l023"
+  },
+  "code": {
+    "id": "CZ13L023",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ13",
+    "level": 1,
+    "name": {
+      "local": "Ústecký",
+      "en": "Ústí nad Labem",
+      "slug": "usti-nad-labem-cz13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ13",
+      "level": 1,
+      "name": {
+        "local": "Ústecký",
+        "en": "Ústí nad Labem",
+        "slug": "usti-nad-labem-cz13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.404",
+    "lon": "14.126"
+  },
+  "metadata": {},
+  "source": {}
+}

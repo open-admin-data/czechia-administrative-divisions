@@ -1,0 +1,45 @@
+{
+  "id": "CZ13L006",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Úštěk",
+    "en": "Ustek",
+    "slug": "ustek-cz13l006"
+  },
+  "code": {
+    "id": "CZ13L006",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ13",
+    "level": 1,
+    "name": {
+      "local": "Ústecký",
+      "en": "Ústí nad Labem",
+      "slug": "usti-nad-labem-cz13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ13",
+      "level": 1,
+      "name": {
+        "local": "Ústecký",
+        "en": "Ústí nad Labem",
+        "slug": "usti-nad-labem-cz13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.585",
+    "lon": "14.343"
+  },
+  "metadata": {},
+  "source": {}
+}

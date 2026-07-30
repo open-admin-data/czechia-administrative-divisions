@@ -1,0 +1,45 @@
+{
+  "id": "CZ11L045",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Starý Kolín",
+    "en": "Stary Kolin",
+    "slug": "stary-kolin-cz11l045"
+  },
+  "code": {
+    "id": "CZ11L045",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ11",
+    "level": 1,
+    "name": {
+      "local": "Středočeský",
+      "en": "Central Bohemian",
+      "slug": "central-bohemian-cz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.01",
+    "lon": "15.294"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "CZ05L004",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bezdružice",
+      "en": "Bezdruzice",
+      "slug": "bezdruzice-cz05l004"
+    },
+    "code": {
+      "id": "CZ05L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.907",
+      "lon": "12.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L017",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Blížejov",
+      "en": "Blizejov",
+      "slug": "blizejov-cz05l017"
+    },
+    "code": {
+      "id": "CZ05L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.5",
+      "lon": "12.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L011",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Černošín",
+      "en": "Cernosin",
+      "slug": "cernosin-cz05l011"
+    },
+    "code": {
+      "id": "CZ05L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.816",
+      "lon": "12.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L024",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chlumcany",
+      "en": "Chlumcany",
+      "slug": "chlumcany-cz05l024"
+    },
+    "code": {
+      "id": "CZ05L024",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.633",
+      "lon": "13.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L029",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chrast",
+      "en": "Chrast",
+      "slug": "chrast-cz05l029"
+    },
+    "code": {
+      "id": "CZ05L029",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.793",
+      "lon": "13.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L002",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dobřív",
+      "en": "Dobriv",
+      "slug": "dobriv-cz05l002"
+    },
+    "code": {
+      "id": "CZ05L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.716",
+      "lon": "13.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L015",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hartmanice",
+      "en": "Hartmanice",
+      "slug": "hartmanice-cz05l015"
+    },
+    "code": {
+      "id": "CZ05L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.169",
+      "lon": "13.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L009",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Heřmanova Huť",
+      "en": "Hermanova Hut",
+      "slug": "hermanova-hut-cz05l009"
+    },
+    "code": {
+      "id": "CZ05L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.707",
+      "lon": "13.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L023",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Horni Briza",
+      "en": "Horni Briza",
+      "slug": "horni-briza-cz05l023"
+    },
+    "code": {
+      "id": "CZ05L023",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.84",
+      "lon": "13.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L019",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hostouň",
+      "en": "Hostoun",
+      "slug": "hostoun-cz05l019"
+    },
+    "code": {
+      "id": "CZ05L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.56",
+      "lon": "12.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L021",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hradek",
+      "en": "Hradek",
+      "slug": "hradek-cz05l021"
+    },
+    "code": {
+      "id": "CZ05L021",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.261",
+      "lon": "13.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L005",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hromnice",
+      "en": "Hromnice",
+      "slug": "hromnice-cz05l005"
+    },
+    "code": {
+      "id": "CZ05L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.849",
+      "lon": "13.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L007",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kasejovice",
+      "en": "Kasejovice",
+      "slug": "kasejovice-cz05l007"
+    },
+    "code": {
+      "id": "CZ05L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.463",
+      "lon": "13.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L030",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kolinec",
+      "en": "Kolinec",
+      "slug": "kolinec-cz05l030"
+    },
+    "code": {
+      "id": "CZ05L030",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.299",
+      "lon": "13.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L006",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Manětín",
+      "en": "Manetin",
+      "slug": "manetin-cz05l006"
+    },
+    "code": {
+      "id": "CZ05L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.992",
+      "lon": "13.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L010",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Měčín",
+      "en": "Mečin",
+      "slug": "mecin-cz05l010"
+    },
+    "code": {
+      "id": "CZ05L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.48",
+      "lon": "13.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L013",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Meclov",
+      "en": "Meclov",
+      "slug": "meclov-cz05l013"
+    },
+    "code": {
+      "id": "CZ05L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.506",
+      "lon": "12.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L003",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Merklín",
+      "en": "Merklin",
+      "slug": "merklin-cz05l003"
+    },
+    "code": {
+      "id": "CZ05L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.56",
+      "lon": "13.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L022",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mirosov",
+      "en": "Mirosov",
+      "slug": "mirosov-cz05l022"
+    },
+    "code": {
+      "id": "CZ05L022",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.688",
+      "lon": "13.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L014",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mrákov",
+      "en": "Mrakov",
+      "slug": "mrakov-cz05l014"
+    },
+    "code": {
+      "id": "CZ05L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.403",
+      "lon": "12.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L020",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Osek",
+      "en": "Osek",
+      "slug": "osek-cz05l020"
+    },
+    "code": {
+      "id": "CZ05L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.776",
+      "lon": "13.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L026",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Plana",
+      "en": "Plana",
+      "slug": "plana-cz05l026"
+    },
+    "code": {
+      "id": "CZ05L026",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.868",
+      "lon": "12.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L016",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Plánice",
+      "en": "Planice",
+      "slug": "planice-cz05l016"
+    },
+    "code": {
+      "id": "CZ05L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.39",
+      "lon": "13.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L008",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Postřekov",
+      "en": "Postrekov",
+      "slug": "postrekov-cz05l008"
+    },
+    "code": {
+      "id": "CZ05L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.458",
+      "lon": "12.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L012",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Přimda",
+      "en": "Primda",
+      "slug": "primda-cz05l012"
+    },
+    "code": {
+      "id": "CZ05L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.675",
+      "lon": "12.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L025",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Strasice",
+      "en": "Strasice",
+      "slug": "strasice-cz05l025"
+    },
+    "code": {
+      "id": "CZ05L025",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.736",
+      "lon": "13.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L027",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Straz",
+      "en": "Straz",
+      "slug": "straz-cz05l027"
+    },
+    "code": {
+      "id": "CZ05L027",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.669",
+      "lon": "12.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L001",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Strážov",
+      "en": "Strazov",
+      "slug": "strazov-cz05l001"
+    },
+    "code": {
+      "id": "CZ05L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.303",
+      "lon": "13.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L028",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Svihov",
+      "en": "Svihov",
+      "slug": "svihov-cz05l028"
+    },
+    "code": {
+      "id": "CZ05L028",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.481",
+      "lon": "13.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ05L018",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Všeruby",
+      "en": "Vseruby",
+      "slug": "vseruby-cz05l018"
+    },
+    "code": {
+      "id": "CZ05L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ05",
+        "level": 1,
+        "name": {
+          "local": "Plzeňský",
+          "en": "Plzeň",
+          "slug": "plzen-cz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.842",
+      "lon": "13.229"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

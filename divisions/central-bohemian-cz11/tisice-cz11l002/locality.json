@@ -1,0 +1,45 @@
+{
+  "id": "CZ11L002",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Tišice",
+    "en": "Tisice",
+    "slug": "tisice-cz11l002"
+  },
+  "code": {
+    "id": "CZ11L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ11",
+    "level": 1,
+    "name": {
+      "local": "Středočeský",
+      "en": "Central Bohemian",
+      "slug": "central-bohemian-cz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.27",
+    "lon": "14.554"
+  },
+  "metadata": {},
+  "source": {}
+}

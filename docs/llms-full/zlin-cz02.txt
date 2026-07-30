@@ -1,0 +1,59 @@
+# Zlín — Czechia Administrative Divisions
+
+> 10 localitys
+> Code: CZ02
+> Coordinates: 49.16, 17.693
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Localitys
+
+### Brezová (Brezova)
+
+Code: CZ02L003, Coordinates: 48.925, 17.74
+
+
+### Hvozdná (Hvozdna)
+
+Code: CZ02L004, Coordinates: 49.248, 17.752
+
+
+### Lešná (Lesna)
+
+Code: CZ02L005, Coordinates: 49.521, 17.93
+
+
+### Rataje
+
+Code: CZ02L006, Coordinates: 49.271, 17.336
+
+
+### Ratibor
+
+Code: CZ02L009, Coordinates: 49.368, 17.915
+
+
+### Soláň (Solan)
+
+Code: CZ02L002, Coordinates: 49.396, 18.246
+
+
+### Stare Mesto
+
+Code: CZ02L007, Coordinates: 49.075, 17.433
+
+
+### Sumice
+
+Code: CZ02L008, Coordinates: 49.029, 17.722
+
+
+### Tlumacov
+
+Code: CZ02L010, Coordinates: 49.254, 17.496
+
+
+### Žlutava (Zlutava)
+
+Code: CZ02L001, Coordinates: 49.2, 17.49
+
+

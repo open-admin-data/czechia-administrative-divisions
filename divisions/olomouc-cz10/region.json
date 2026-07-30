@@ -1,0 +1,33 @@
+{
+  "id": "CZ10",
+  "level": 1,
+  "level_name": {
+    "local": "Kraj",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Olomoucký",
+    "en": "Olomouc",
+    "slug": "olomouc-cz10"
+  },
+  "code": {
+    "id": "CZ10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 31
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.614",
+    "lon": "17.151"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cz/regions/olomouc-cz10/",
+    "api": "https://openadmindata.org/api/cz/"
+  }
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "CZ06L001",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Libcice nad Vltavou",
+      "en": "Libcice nad Vltavou",
+      "slug": "libcice-nad-vltavou-cz06l001"
+    },
+    "code": {
+      "id": "CZ06L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ06",
+      "level": 1,
+      "name": {
+        "local": "Hlavní město Praha",
+        "en": "Prague",
+        "slug": "prague-cz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ06",
+        "level": 1,
+        "name": {
+          "local": "Hlavní město Praha",
+          "en": "Prague",
+          "slug": "prague-cz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.198",
+      "lon": "14.364"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "CZ09L026",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Hradek",
+    "en": "Hradek",
+    "slug": "hradek-cz09l026"
+  },
+  "code": {
+    "id": "CZ09L026",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ09",
+    "level": 1,
+    "name": {
+      "local": "Moravskoslezský",
+      "en": "Moravian-Silesian",
+      "slug": "moravian-silesian-cz09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.617",
+    "lon": "18.737"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "CZ08",
+  "level": 1,
+  "level_name": {
+    "local": "Kraj",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Karlovarský",
+    "en": "Karlovy Vary",
+    "slug": "karlovy-vary-cz08"
+  },
+  "code": {
+    "id": "CZ08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.157",
+    "lon": "12.694"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cz/regions/karlovy-vary-cz08/",
+    "api": "https://openadmindata.org/api/cz/"
+  }
+}

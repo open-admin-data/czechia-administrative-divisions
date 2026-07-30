@@ -1,0 +1,45 @@
+{
+  "id": "CZ11L046",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "NaÃ¨eradec",
+    "en": "NaA¨eradec",
+    "slug": "naa-eradec-cz11l046"
+  },
+  "code": {
+    "id": "CZ11L046",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ11",
+    "level": 1,
+    "name": {
+      "local": "Středočeský",
+      "en": "Central Bohemian",
+      "slug": "central-bohemian-cz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.61",
+    "lon": "14.906"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CZ12L008",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Všestary",
+    "en": "Vsestary",
+    "slug": "vsestary-cz12l008"
+  },
+  "code": {
+    "id": "CZ12L008",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ12",
+    "level": 1,
+    "name": {
+      "local": "Královéhradecký",
+      "en": "Hradec Králové",
+      "slug": "hradec-kralove-cz12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.257",
+    "lon": "15.76"
+  },
+  "metadata": {},
+  "source": {}
+}

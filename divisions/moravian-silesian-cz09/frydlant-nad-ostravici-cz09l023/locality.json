@@ -1,0 +1,45 @@
+{
+  "id": "CZ09L023",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Frydlant nad Ostravici",
+    "en": "Frydlant nad Ostravici",
+    "slug": "frydlant-nad-ostravici-cz09l023"
+  },
+  "code": {
+    "id": "CZ09L023",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ09",
+    "level": 1,
+    "name": {
+      "local": "Moravskoslezský",
+      "en": "Moravian-Silesian",
+      "slug": "moravian-silesian-cz09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.593",
+    "lon": "18.36"
+  },
+  "metadata": {},
+  "source": {}
+}

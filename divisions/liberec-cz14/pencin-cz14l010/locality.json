@@ -1,0 +1,45 @@
+{
+  "id": "CZ14L010",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Pěnčín",
+    "en": "Penčin",
+    "slug": "pencin-cz14l010"
+  },
+  "code": {
+    "id": "CZ14L010",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ14",
+    "level": 1,
+    "name": {
+      "local": "Liberecký",
+      "en": "Liberec",
+      "slug": "liberec-cz14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ14",
+      "level": 1,
+      "name": {
+        "local": "Liberecký",
+        "en": "Liberec",
+        "slug": "liberec-cz14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.688",
+    "lon": "15.236"
+  },
+  "metadata": {},
+  "source": {}
+}

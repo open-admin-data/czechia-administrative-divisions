@@ -1,0 +1,1307 @@
+[
+  {
+    "id": "CZ01L021",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Benešov nad Černou",
+      "en": "Benesov nad Cernou",
+      "slug": "benesov-nad-cernou-cz01l021"
+    },
+    "code": {
+      "id": "CZ01L021",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.729",
+      "lon": "14.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L020",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bernartice",
+      "en": "Bernartice",
+      "slug": "bernartice-cz01l020"
+    },
+    "code": {
+      "id": "CZ01L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.369",
+      "lon": "14.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L008",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boroviny",
+      "en": "Boroviny",
+      "slug": "boroviny-cz01l008"
+    },
+    "code": {
+      "id": "CZ01L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.899",
+      "lon": "14.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L006",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Brloh",
+      "en": "Brloh",
+      "slug": "brloh-cz01l006"
+    },
+    "code": {
+      "id": "CZ01L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.93",
+      "lon": "14.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L009",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Český Rudolec",
+      "en": "Cesky Rudolec",
+      "slug": "cesky-rudolec-cz01l009"
+    },
+    "code": {
+      "id": "CZ01L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.068",
+      "lon": "15.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L013",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chotoviny",
+      "en": "Chotoviny",
+      "slug": "chotoviny-cz01l013"
+    },
+    "code": {
+      "id": "CZ01L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.478",
+      "lon": "14.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L015",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chyšky",
+      "en": "Chysky",
+      "slug": "chysky-cz01l015"
+    },
+    "code": {
+      "id": "CZ01L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.523",
+      "lon": "14.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L012",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Čimelice",
+      "en": "Cimelice",
+      "slug": "cimelice-cz01l012"
+    },
+    "code": {
+      "id": "CZ01L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.466",
+      "lon": "14.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L005",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dříteň",
+      "en": "Driten",
+      "slug": "driten-cz01l005"
+    },
+    "code": {
+      "id": "CZ01L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.143",
+      "lon": "14.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L010",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dubné",
+      "en": "Dubne",
+      "slug": "dubne-cz01l010"
+    },
+    "code": {
+      "id": "CZ01L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.976",
+      "lon": "14.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L029",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hluboka nad Vltavou",
+      "en": "Hluboka nad Vltavou",
+      "slug": "hluboka-nad-vltavou-cz01l029"
+    },
+    "code": {
+      "id": "CZ01L029",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.052",
+      "lon": "14.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L004",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Horní Stropnice",
+      "en": "Horni Stropnice",
+      "slug": "horni-stropnice-cz01l004"
+    },
+    "code": {
+      "id": "CZ01L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.761",
+      "lon": "14.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L014",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jarošov nad Nežárkou",
+      "en": "Jarosov nad Nezarkou",
+      "slug": "jarosov-nad-nezarkou-cz01l014"
+    },
+    "code": {
+      "id": "CZ01L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.19",
+      "lon": "15.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L001",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jistebnice",
+      "en": "Jistebnice",
+      "slug": "jistebnice-cz01l001"
+    },
+    "code": {
+      "id": "CZ01L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.486",
+      "lon": "14.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L016",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kájov",
+      "en": "Kajov",
+      "slug": "kajov-cz01l016"
+    },
+    "code": {
+      "id": "CZ01L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.811",
+      "lon": "14.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L027",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kardasova Recice",
+      "en": "Kardasova Recice",
+      "slug": "kardasova-recice-cz01l027"
+    },
+    "code": {
+      "id": "CZ01L027",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.185",
+      "lon": "14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L002",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kovářov",
+      "en": "Kovarov",
+      "slug": "kovarov-cz01l002"
+    },
+    "code": {
+      "id": "CZ01L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.518",
+      "lon": "14.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L022",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Litvínovice",
+      "en": "Litvinovice",
+      "slug": "litvinovice-cz01l022"
+    },
+    "code": {
+      "id": "CZ01L022",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.962",
+      "lon": "14.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L011",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Malonty",
+      "en": "Malonty",
+      "slug": "malonty-cz01l011"
+    },
+    "code": {
+      "id": "CZ01L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.686",
+      "lon": "14.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L003",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mirotice",
+      "en": "Mirotice",
+      "slug": "mirotice-cz01l003"
+    },
+    "code": {
+      "id": "CZ01L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.429",
+      "lon": "14.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L026",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nove Hrady",
+      "en": "Nove Hrady",
+      "slug": "nove-hrady-cz01l026"
+    },
+    "code": {
+      "id": "CZ01L026",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.79",
+      "lon": "14.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L017",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Opařany",
+      "en": "Oparany",
+      "slug": "oparany-cz01l017"
+    },
+    "code": {
+      "id": "CZ01L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.397",
+      "lon": "14.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L025",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Petrovice",
+      "en": "Petrovice",
+      "slug": "petrovice-cz01l025"
+    },
+    "code": {
+      "id": "CZ01L025",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.554",
+      "lon": "14.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L007",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Radomyšl",
+      "en": "Radomysl",
+      "slug": "radomysl-cz01l007"
+    },
+    "code": {
+      "id": "CZ01L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.316",
+      "lon": "13.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L024",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sedlice",
+      "en": "Sedlice",
+      "slug": "sedlice-cz01l024"
+    },
+    "code": {
+      "id": "CZ01L024",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.774",
+      "lon": "14.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L023",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Srubec",
+      "en": "Srubec",
+      "slug": "srubec-cz01l023"
+    },
+    "code": {
+      "id": "CZ01L023",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.948",
+      "lon": "14.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L019",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Strunkovice nad Blanicí",
+      "en": "Strunkovice nad Blanici",
+      "slug": "strunkovice-nad-blanici-cz01l019"
+    },
+    "code": {
+      "id": "CZ01L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.084",
+      "lon": "14.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L028",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Suchdol nad Luznici",
+      "en": "Suchdol nad Luznici",
+      "slug": "suchdol-nad-luznici-cz01l028"
+    },
+    "code": {
+      "id": "CZ01L028",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.89",
+      "lon": "14.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ01L018",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Vacov",
+      "en": "Vacov",
+      "slug": "vacov-cz01l018"
+    },
+    "code": {
+      "id": "CZ01L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ01",
+        "level": 1,
+        "name": {
+          "local": "Jihočeský",
+          "en": "South Bohemian",
+          "slug": "south-bohemian-cz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.137",
+      "lon": "13.729"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

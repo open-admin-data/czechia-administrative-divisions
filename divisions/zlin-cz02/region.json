@@ -1,0 +1,33 @@
+{
+  "id": "CZ02",
+  "level": 1,
+  "level_name": {
+    "local": "Kraj",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Zlínský",
+    "en": "Zlín",
+    "slug": "zlin-cz02"
+  },
+  "code": {
+    "id": "CZ02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.16",
+    "lon": "17.693"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cz/regions/zlin-cz02/",
+    "api": "https://openadmindata.org/api/cz/"
+  }
+}

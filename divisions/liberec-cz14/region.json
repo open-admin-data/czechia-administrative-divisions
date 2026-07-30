@@ -1,0 +1,33 @@
+{
+  "id": "CZ14",
+  "level": 1,
+  "level_name": {
+    "local": "Kraj",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Liberecký",
+    "en": "Liberec",
+    "slug": "liberec-cz14"
+  },
+  "code": {
+    "id": "CZ14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.735",
+    "lon": "15.151"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cz/regions/liberec-cz14/",
+    "api": "https://openadmindata.org/api/cz/"
+  }
+}

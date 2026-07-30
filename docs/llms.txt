@@ -1,0 +1,78 @@
+# Czechia Administrative Divisions
+
+> Open dataset of Czechia's administrative hierarchy:
+> 14 regions, 303 localitys.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total regions: 14
+- Total localitys: 303
+- Coordinates: included (all levels)
+- Last updated: 2026-07-30
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All regions (JSON)](https://raw.githubusercontent.com/open-admin-data/czechia-administrative-divisions/main/data/all-region.json)
+- [All localitys (JSON)](https://raw.githubusercontent.com/open-admin-data/czechia-administrative-divisions/main/data/all-locality.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/czechia-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/czechia-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/czechia-administrative-divisions/main/data/schema.json)
+
+## Browse by Region
+
+- [South Bohemian](https://github.com/open-admin-data/czechia-administrative-divisions/tree/main/divisions/south-bohemian-cz01/) — 29 localitys
+- [Zlín](https://github.com/open-admin-data/czechia-administrative-divisions/tree/main/divisions/zlin-cz02/) — 10 localitys
+- [South Moravian](https://github.com/open-admin-data/czechia-administrative-divisions/tree/main/divisions/south-moravian-cz03/) — 20 localitys
+- [Vysocina](https://github.com/open-admin-data/czechia-administrative-divisions/tree/main/divisions/vysocina-cz04/) — 16 localitys
+- [Plzeň](https://github.com/open-admin-data/czechia-administrative-divisions/tree/main/divisions/plzen-cz05/) — 30 localitys
+- [Prague](https://github.com/open-admin-data/czechia-administrative-divisions/tree/main/divisions/prague-cz06/) — 1 localitys
+- [Pardubice](https://github.com/open-admin-data/czechia-administrative-divisions/tree/main/divisions/pardubice-cz07/) — 15 localitys
+- [Karlovy Vary](https://github.com/open-admin-data/czechia-administrative-divisions/tree/main/divisions/karlovy-vary-cz08/) — 8 localitys
+- [Moravian-Silesian](https://github.com/open-admin-data/czechia-administrative-divisions/tree/main/divisions/moravian-silesian-cz09/) — 34 localitys
+- [Olomouc](https://github.com/open-admin-data/czechia-administrative-divisions/tree/main/divisions/olomouc-cz10/) — 31 localitys
+- [Central Bohemian](https://github.com/open-admin-data/czechia-administrative-divisions/tree/main/divisions/central-bohemian-cz11/) — 54 localitys
+- [Hradec Králové](https://github.com/open-admin-data/czechia-administrative-divisions/tree/main/divisions/hradec-kralove-cz12/) — 16 localitys
+- [Ústí nad Labem](https://github.com/open-admin-data/czechia-administrative-divisions/tree/main/divisions/usti-nad-labem-cz13/) — 24 localitys
+- [Liberec](https://github.com/open-admin-data/czechia-administrative-divisions/tree/main/divisions/liberec-cz14/) — 15 localitys
+
+## Per-Region Full Data
+
+- [South Bohemian](https://raw.githubusercontent.com/open-admin-data/czechia-administrative-divisions/main/docs/llms-full/south-bohemian-cz01.txt)
+- [Zlín](https://raw.githubusercontent.com/open-admin-data/czechia-administrative-divisions/main/docs/llms-full/zlin-cz02.txt)
+- [South Moravian](https://raw.githubusercontent.com/open-admin-data/czechia-administrative-divisions/main/docs/llms-full/south-moravian-cz03.txt)
+- [Vysocina](https://raw.githubusercontent.com/open-admin-data/czechia-administrative-divisions/main/docs/llms-full/vysocina-cz04.txt)
+- [Plzeň](https://raw.githubusercontent.com/open-admin-data/czechia-administrative-divisions/main/docs/llms-full/plzen-cz05.txt)
+- [Prague](https://raw.githubusercontent.com/open-admin-data/czechia-administrative-divisions/main/docs/llms-full/prague-cz06.txt)
+- [Pardubice](https://raw.githubusercontent.com/open-admin-data/czechia-administrative-divisions/main/docs/llms-full/pardubice-cz07.txt)
+- [Karlovy Vary](https://raw.githubusercontent.com/open-admin-data/czechia-administrative-divisions/main/docs/llms-full/karlovy-vary-cz08.txt)
+- [Moravian-Silesian](https://raw.githubusercontent.com/open-admin-data/czechia-administrative-divisions/main/docs/llms-full/moravian-silesian-cz09.txt)
+- [Olomouc](https://raw.githubusercontent.com/open-admin-data/czechia-administrative-divisions/main/docs/llms-full/olomouc-cz10.txt)
+- [Central Bohemian](https://raw.githubusercontent.com/open-admin-data/czechia-administrative-divisions/main/docs/llms-full/central-bohemian-cz11.txt)
+- [Hradec Králové](https://raw.githubusercontent.com/open-admin-data/czechia-administrative-divisions/main/docs/llms-full/hradec-kralove-cz12.txt)
+- [Ústí nad Labem](https://raw.githubusercontent.com/open-admin-data/czechia-administrative-divisions/main/docs/llms-full/usti-nad-labem-cz13.txt)
+- [Liberec](https://raw.githubusercontent.com/open-admin-data/czechia-administrative-divisions/main/docs/llms-full/liberec-cz14.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (region), 2 (locality)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Czechia Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/czechia-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

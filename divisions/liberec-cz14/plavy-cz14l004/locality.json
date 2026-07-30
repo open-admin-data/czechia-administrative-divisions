@@ -1,0 +1,45 @@
+{
+  "id": "CZ14L004",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Plavy",
+    "en": "Plavy",
+    "slug": "plavy-cz14l004"
+  },
+  "code": {
+    "id": "CZ14L004",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ14",
+    "level": 1,
+    "name": {
+      "local": "Liberecký",
+      "en": "Liberec",
+      "slug": "liberec-cz14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ14",
+      "level": 1,
+      "name": {
+        "local": "Liberecký",
+        "en": "Liberec",
+        "slug": "liberec-cz14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.703",
+    "lon": "15.317"
+  },
+  "metadata": {},
+  "source": {}
+}

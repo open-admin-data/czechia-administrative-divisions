@@ -1,0 +1,45 @@
+{
+  "id": "CZ07L014",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Brněnec",
+    "en": "Brnenec",
+    "slug": "brnenec-cz07l014"
+  },
+  "code": {
+    "id": "CZ07L014",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ07",
+    "level": 1,
+    "name": {
+      "local": "Pardubický",
+      "en": "Pardubice",
+      "slug": "pardubice-cz07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ07",
+      "level": 1,
+      "name": {
+        "local": "Pardubický",
+        "en": "Pardubice",
+        "slug": "pardubice-cz07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.627",
+    "lon": "16.522"
+  },
+  "metadata": {},
+  "source": {}
+}

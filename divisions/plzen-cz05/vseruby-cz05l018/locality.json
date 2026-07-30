@@ -1,0 +1,45 @@
+{
+  "id": "CZ05L018",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Všeruby",
+    "en": "Vseruby",
+    "slug": "vseruby-cz05l018"
+  },
+  "code": {
+    "id": "CZ05L018",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ05",
+    "level": 1,
+    "name": {
+      "local": "Plzeňský",
+      "en": "Plzeň",
+      "slug": "plzen-cz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.842",
+    "lon": "13.229"
+  },
+  "metadata": {},
+  "source": {}
+}

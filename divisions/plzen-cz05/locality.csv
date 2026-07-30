@@ -1,0 +1,31 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+CZ05L004,Bezdružice,Bezdruzice,bezdruzice-cz05l004,CZ05L004,49.907,12.971
+CZ05L017,Blížejov,Blizejov,blizejov-cz05l017,CZ05L017,49.5,12.989
+CZ05L011,Černošín,Cernosin,cernosin-cz05l011,CZ05L011,49.816,12.884
+CZ05L024,Chlumcany,Chlumcany,chlumcany-cz05l024,CZ05L024,49.633,13.313
+CZ05L029,Chrast,Chrast,chrast-cz05l029,CZ05L029,49.793,13.494
+CZ05L002,Dobřív,Dobriv,dobriv-cz05l002,CZ05L002,49.716,13.687
+CZ05L015,Hartmanice,Hartmanice,hartmanice-cz05l015,CZ05L015,49.169,13.455
+CZ05L009,Heřmanova Huť,Hermanova Hut,hermanova-hut-cz05l009,CZ05L009,49.707,13.101
+CZ05L023,Horni Briza,Horni Briza,horni-briza-cz05l023,CZ05L023,49.84,13.356
+CZ05L019,Hostouň,Hostoun,hostoun-cz05l019,CZ05L019,49.56,12.771
+CZ05L021,Hradek,Hradek,hradek-cz05l021,CZ05L021,49.261,13.499
+CZ05L005,Hromnice,Hromnice,hromnice-cz05l005,CZ05L005,49.849,13.441
+CZ05L007,Kasejovice,Kasejovice,kasejovice-cz05l007,CZ05L007,49.463,13.741
+CZ05L030,Kolinec,Kolinec,kolinec-cz05l030,CZ05L030,49.299,13.439
+CZ05L006,Manětín,Manetin,manetin-cz05l006,CZ05L006,49.992,13.233
+CZ05L010,Měčín,Mečin,mecin-cz05l010,CZ05L010,49.48,13.403
+CZ05L013,Meclov,Meclov,meclov-cz05l013,CZ05L013,49.506,12.881
+CZ05L003,Merklín,Merklin,merklin-cz05l003,CZ05L003,49.56,13.198
+CZ05L022,Mirosov,Mirosov,mirosov-cz05l022,CZ05L022,49.688,13.658
+CZ05L014,Mrákov,Mrakov,mrakov-cz05l014,CZ05L014,49.403,12.951
+CZ05L020,Osek,Osek,osek-cz05l020,CZ05L020,49.776,13.591
+CZ05L026,Plana,Plana,plana-cz05l026,CZ05L026,49.868,12.744
+CZ05L016,Plánice,Planice,planice-cz05l016,CZ05L016,49.39,13.471
+CZ05L008,Postřekov,Postrekov,postrekov-cz05l008,CZ05L008,49.458,12.807
+CZ05L012,Přimda,Primda,primda-cz05l012,CZ05L012,49.675,12.674
+CZ05L025,Strasice,Strasice,strasice-cz05l025,CZ05L025,49.736,13.758
+CZ05L027,Straz,Straz,straz-cz05l027,CZ05L027,49.669,12.775
+CZ05L001,Strážov,Strazov,strazov-cz05l001,CZ05L001,49.303,13.246
+CZ05L028,Svihov,Svihov,svihov-cz05l028,CZ05L028,49.481,13.284
+CZ05L018,Všeruby,Vseruby,vseruby-cz05l018,CZ05L018,49.842,13.229

@@ -1,0 +1,33 @@
+{
+  "id": "CZ07",
+  "level": 1,
+  "level_name": {
+    "local": "Kraj",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Pardubický",
+    "en": "Pardubice",
+    "slug": "pardubice-cz07"
+  },
+  "code": {
+    "id": "CZ07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.841",
+    "lon": "16.328"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cz/regions/pardubice-cz07/",
+    "api": "https://openadmindata.org/api/cz/"
+  }
+}

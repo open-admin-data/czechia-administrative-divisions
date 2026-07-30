@@ -1,0 +1,89 @@
+# Hradec Králové — Czechia Administrative Divisions
+
+> 16 localitys
+> Code: CZ12
+> Coordinates: 50.415, 15.868
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Localitys
+
+### Å pindlerÅ¯v Mlýn (A pindlerA¯v Mlyn)
+
+Code: CZ12L002, Coordinates: 50.726, 15.609
+
+
+### Albrechtice nad Orlicí (Albrechtice nad Orlici)
+
+Code: CZ12L004, Coordinates: 50.14, 16.064
+
+
+### Chotěvice (Chotevice)
+
+Code: CZ12L001, Coordinates: 50.521, 15.767
+
+
+### Dolní Černilov (Dolni Cernilov)
+
+Code: CZ12L011, Coordinates: 50.261, 15.961
+
+
+### Machov
+
+Code: CZ12L007, Coordinates: 50.499, 16.277
+
+
+### Pecka
+
+Code: CZ12L014, Coordinates: 50.48, 15.608
+
+
+### Provodov-Sonov
+
+Code: CZ12L015, Coordinates: 50.387, 16.108
+
+
+### Skuhrov nad Bělou (Skuhrov nad Belou)
+
+Code: CZ12L003, Coordinates: 50.229, 16.292
+
+
+### Smidary
+
+Code: CZ12L005, Coordinates: 50.291, 15.477
+
+
+### Staré Nechanice (Stare Nechanice)
+
+Code: CZ12L006, Coordinates: 50.243, 15.618
+
+
+### Teplice nad Metují (Teplice nad Metuji)
+
+Code: CZ12L013, Coordinates: 50.593, 16.17
+
+
+### Tyniste nad Orlici
+
+Code: CZ12L016, Coordinates: 50.151, 16.078
+
+
+### Velké Svatoňovice (Velke Svatonovice)
+
+Code: CZ12L009, Coordinates: 50.532, 16.029
+
+
+### Všestary (Vsestary)
+
+Code: CZ12L008, Coordinates: 50.257, 15.76
+
+
+### Zadní Mostek (Zadni Mostek)
+
+Code: CZ12L010, Coordinates: 50.497, 15.698
+
+
+### Železnice (Zeleznice)
+
+Code: CZ12L012, Coordinates: 50.473, 15.385
+
+

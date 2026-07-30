@@ -1,0 +1,45 @@
+{
+  "id": "CZ03L011",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Drasov",
+    "en": "Drasov",
+    "slug": "drasov-cz03l011"
+  },
+  "code": {
+    "id": "CZ03L011",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ03",
+    "level": 1,
+    "name": {
+      "local": "Jihomoravský",
+      "en": "South Moravian",
+      "slug": "south-moravian-cz03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ03",
+      "level": 1,
+      "name": {
+        "local": "Jihomoravský",
+        "en": "South Moravian",
+        "slug": "south-moravian-cz03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.332",
+    "lon": "16.478"
+  },
+  "metadata": {},
+  "source": {}
+}

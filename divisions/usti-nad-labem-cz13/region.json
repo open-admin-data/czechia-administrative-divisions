@@ -1,0 +1,33 @@
+{
+  "id": "CZ13",
+  "level": 1,
+  "level_name": {
+    "local": "Kraj",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Ústecký",
+    "en": "Ústí nad Labem",
+    "slug": "usti-nad-labem-cz13"
+  },
+  "code": {
+    "id": "CZ13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.491",
+    "lon": "13.789"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cz/regions/usti-nad-labem-cz13/",
+    "api": "https://openadmindata.org/api/cz/"
+  }
+}

@@ -1,0 +1,109 @@
+# South Moravian — Czechia Administrative Divisions
+
+> 20 localitys
+> Code: CZ03
+> Coordinates: 49.106, 16.651
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Localitys
+
+### Ã… lapanice (A… lapanice)
+
+Code: CZ03L006, Coordinates: 49.169, 16.727
+
+
+### Brezi
+
+Code: CZ03L018, Coordinates: 48.819, 16.567
+
+
+### Dolní Loučky (Dolni Loučky)
+
+Code: CZ03L009, Coordinates: 49.361, 16.359
+
+
+### Drasov
+
+Code: CZ03L011, Coordinates: 49.332, 16.478
+
+
+### Hrusky
+
+Code: CZ03L020, Coordinates: 48.793, 16.974
+
+
+### Krepice
+
+Code: CZ03L013, Coordinates: 49, 16.72
+
+
+### Lipovec
+
+Code: CZ03L010, Coordinates: 49.384, 16.806
+
+
+### Luzice
+
+Code: CZ03L016, Coordinates: 48.841, 17.071
+
+
+### Mikulčice
+
+Code: CZ03L008, Coordinates: 48.816, 17.051
+
+
+### Nesovice
+
+Code: CZ03L005, Coordinates: 49.151, 17.081
+
+
+### Pohorelice
+
+Code: CZ03L002, Coordinates: 48.981, 16.524
+
+
+### Pustiměř (Pustimer)
+
+Code: CZ03L001, Coordinates: 49.323, 17.028
+
+
+### Strelice
+
+Code: CZ03L012, Coordinates: 49.152, 16.504
+
+
+### Suchohrdly
+
+Code: CZ03L003, Coordinates: 48.868, 16.095
+
+
+### Velke Pavlovice
+
+Code: CZ03L015, Coordinates: 48.905, 16.816
+
+
+### Veseli nad Moravou
+
+Code: CZ03L017, Coordinates: 48.954, 17.376
+
+
+### Vojkovice
+
+Code: CZ03L007, Coordinates: 49.051, 16.608
+
+
+### Vrbovec
+
+Code: CZ03L004, Coordinates: 48.8, 16.101
+
+
+### Zbysov
+
+Code: CZ03L014, Coordinates: 49.155, 16.35
+
+
+### Zdanice
+
+Code: CZ03L019, Coordinates: 49.067, 17.028
+
+

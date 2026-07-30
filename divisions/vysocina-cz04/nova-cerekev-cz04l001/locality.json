@@ -1,0 +1,45 @@
+{
+  "id": "CZ04L001",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Nová Cerekev",
+    "en": "Nova Cerekev",
+    "slug": "nova-cerekev-cz04l001"
+  },
+  "code": {
+    "id": "CZ04L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ04",
+    "level": 1,
+    "name": {
+      "local": "Vysočina",
+      "en": "Vysocina",
+      "slug": "vysocina-cz04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ04",
+      "level": 1,
+      "name": {
+        "local": "Vysočina",
+        "en": "Vysocina",
+        "slug": "vysocina-cz04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.417",
+    "lon": "15.117"
+  },
+  "metadata": {},
+  "source": {}
+}

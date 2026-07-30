@@ -1,0 +1,45 @@
+{
+  "id": "CZ01L026",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Nove Hrady",
+    "en": "Nove Hrady",
+    "slug": "nove-hrady-cz01l026"
+  },
+  "code": {
+    "id": "CZ01L026",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ01",
+    "level": 1,
+    "name": {
+      "local": "Jihočeský",
+      "en": "South Bohemian",
+      "slug": "south-bohemian-cz01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "48.79",
+    "lon": "14.778"
+  },
+  "metadata": {},
+  "source": {}
+}

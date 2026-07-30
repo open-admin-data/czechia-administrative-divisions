@@ -1,0 +1,33 @@
+{
+  "id": "CZ03",
+  "level": 1,
+  "level_name": {
+    "local": "Kraj",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Jihomoravský",
+    "en": "South Moravian",
+    "slug": "south-moravian-cz03"
+  },
+  "code": {
+    "id": "CZ03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.106",
+    "lon": "16.651"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cz/regions/south-moravian-cz03/",
+    "api": "https://openadmindata.org/api/cz/"
+  }
+}

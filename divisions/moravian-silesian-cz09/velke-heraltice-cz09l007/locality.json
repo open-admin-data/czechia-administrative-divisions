@@ -1,0 +1,45 @@
+{
+  "id": "CZ09L007",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Velké Heraltice",
+    "en": "Velke Heraltice",
+    "slug": "velke-heraltice-cz09l007"
+  },
+  "code": {
+    "id": "CZ09L007",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ09",
+    "level": 1,
+    "name": {
+      "local": "Moravskoslezský",
+      "en": "Moravian-Silesian",
+      "slug": "moravian-silesian-cz09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.975",
+    "lon": "17.729"
+  },
+  "metadata": {},
+  "source": {}
+}

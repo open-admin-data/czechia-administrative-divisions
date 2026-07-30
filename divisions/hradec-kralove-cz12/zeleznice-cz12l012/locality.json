@@ -1,0 +1,45 @@
+{
+  "id": "CZ12L012",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Železnice",
+    "en": "Zeleznice",
+    "slug": "zeleznice-cz12l012"
+  },
+  "code": {
+    "id": "CZ12L012",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ12",
+    "level": 1,
+    "name": {
+      "local": "Královéhradecký",
+      "en": "Hradec Králové",
+      "slug": "hradec-kralove-cz12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.473",
+    "lon": "15.385"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CZ11L019",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Ã… estajovice",
+    "en": "A… estajovice",
+    "slug": "a-estajovice-cz11l019"
+  },
+  "code": {
+    "id": "CZ11L019",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ11",
+    "level": 1,
+    "name": {
+      "local": "Středočeský",
+      "en": "Central Bohemian",
+      "slug": "central-bohemian-cz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.108",
+    "lon": "14.68"
+  },
+  "metadata": {},
+  "source": {}
+}

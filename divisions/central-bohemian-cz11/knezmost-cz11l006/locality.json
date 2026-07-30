@@ -1,0 +1,45 @@
+{
+  "id": "CZ11L006",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Kněžmost",
+    "en": "Knezmost",
+    "slug": "knezmost-cz11l006"
+  },
+  "code": {
+    "id": "CZ11L006",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ11",
+    "level": 1,
+    "name": {
+      "local": "Středočeský",
+      "en": "Central Bohemian",
+      "slug": "central-bohemian-cz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.489",
+    "lon": "15.038"
+  },
+  "metadata": {},
+  "source": {}
+}

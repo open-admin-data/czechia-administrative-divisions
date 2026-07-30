@@ -1,0 +1,45 @@
+{
+  "id": "CZ12L005",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Smidary",
+    "en": "Smidary",
+    "slug": "smidary-cz12l005"
+  },
+  "code": {
+    "id": "CZ12L005",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ12",
+    "level": 1,
+    "name": {
+      "local": "Královéhradecký",
+      "en": "Hradec Králové",
+      "slug": "hradec-kralove-cz12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.291",
+    "lon": "15.477"
+  },
+  "metadata": {},
+  "source": {}
+}

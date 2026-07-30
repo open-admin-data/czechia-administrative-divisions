@@ -1,0 +1,45 @@
+{
+  "id": "CZ03L001",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Pustiměř",
+    "en": "Pustimer",
+    "slug": "pustimer-cz03l001"
+  },
+  "code": {
+    "id": "CZ03L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ03",
+    "level": 1,
+    "name": {
+      "local": "Jihomoravský",
+      "en": "South Moravian",
+      "slug": "south-moravian-cz03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ03",
+      "level": 1,
+      "name": {
+        "local": "Jihomoravský",
+        "en": "South Moravian",
+        "slug": "south-moravian-cz03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.323",
+    "lon": "17.028"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,452 @@
+[
+  {
+    "id": "CZ02L003",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Brezová",
+      "en": "Brezova",
+      "slug": "brezova-cz02l003"
+    },
+    "code": {
+      "id": "CZ02L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ02",
+      "level": 1,
+      "name": {
+        "local": "Zlínský",
+        "en": "Zlín",
+        "slug": "zlin-cz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ02",
+        "level": 1,
+        "name": {
+          "local": "Zlínský",
+          "en": "Zlín",
+          "slug": "zlin-cz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.925",
+      "lon": "17.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ02L004",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hvozdná",
+      "en": "Hvozdna",
+      "slug": "hvozdna-cz02l004"
+    },
+    "code": {
+      "id": "CZ02L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ02",
+      "level": 1,
+      "name": {
+        "local": "Zlínský",
+        "en": "Zlín",
+        "slug": "zlin-cz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ02",
+        "level": 1,
+        "name": {
+          "local": "Zlínský",
+          "en": "Zlín",
+          "slug": "zlin-cz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.248",
+      "lon": "17.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ02L005",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lešná",
+      "en": "Lesna",
+      "slug": "lesna-cz02l005"
+    },
+    "code": {
+      "id": "CZ02L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ02",
+      "level": 1,
+      "name": {
+        "local": "Zlínský",
+        "en": "Zlín",
+        "slug": "zlin-cz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ02",
+        "level": 1,
+        "name": {
+          "local": "Zlínský",
+          "en": "Zlín",
+          "slug": "zlin-cz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.521",
+      "lon": "17.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ02L006",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rataje",
+      "en": "Rataje",
+      "slug": "rataje-cz02l006"
+    },
+    "code": {
+      "id": "CZ02L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ02",
+      "level": 1,
+      "name": {
+        "local": "Zlínský",
+        "en": "Zlín",
+        "slug": "zlin-cz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ02",
+        "level": 1,
+        "name": {
+          "local": "Zlínský",
+          "en": "Zlín",
+          "slug": "zlin-cz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.271",
+      "lon": "17.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ02L009",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ratibor",
+      "en": "Ratibor",
+      "slug": "ratibor-cz02l009"
+    },
+    "code": {
+      "id": "CZ02L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ02",
+      "level": 1,
+      "name": {
+        "local": "Zlínský",
+        "en": "Zlín",
+        "slug": "zlin-cz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ02",
+        "level": 1,
+        "name": {
+          "local": "Zlínský",
+          "en": "Zlín",
+          "slug": "zlin-cz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.368",
+      "lon": "17.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ02L002",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Soláň",
+      "en": "Solan",
+      "slug": "solan-cz02l002"
+    },
+    "code": {
+      "id": "CZ02L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ02",
+      "level": 1,
+      "name": {
+        "local": "Zlínský",
+        "en": "Zlín",
+        "slug": "zlin-cz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ02",
+        "level": 1,
+        "name": {
+          "local": "Zlínský",
+          "en": "Zlín",
+          "slug": "zlin-cz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.396",
+      "lon": "18.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ02L007",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Stare Mesto",
+      "en": "Stare Mesto",
+      "slug": "stare-mesto-cz02l007"
+    },
+    "code": {
+      "id": "CZ02L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ02",
+      "level": 1,
+      "name": {
+        "local": "Zlínský",
+        "en": "Zlín",
+        "slug": "zlin-cz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ02",
+        "level": 1,
+        "name": {
+          "local": "Zlínský",
+          "en": "Zlín",
+          "slug": "zlin-cz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.075",
+      "lon": "17.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ02L008",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sumice",
+      "en": "Sumice",
+      "slug": "sumice-cz02l008"
+    },
+    "code": {
+      "id": "CZ02L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ02",
+      "level": 1,
+      "name": {
+        "local": "Zlínský",
+        "en": "Zlín",
+        "slug": "zlin-cz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ02",
+        "level": 1,
+        "name": {
+          "local": "Zlínský",
+          "en": "Zlín",
+          "slug": "zlin-cz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.029",
+      "lon": "17.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ02L010",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tlumacov",
+      "en": "Tlumacov",
+      "slug": "tlumacov-cz02l010"
+    },
+    "code": {
+      "id": "CZ02L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ02",
+      "level": 1,
+      "name": {
+        "local": "Zlínský",
+        "en": "Zlín",
+        "slug": "zlin-cz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ02",
+        "level": 1,
+        "name": {
+          "local": "Zlínský",
+          "en": "Zlín",
+          "slug": "zlin-cz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.254",
+      "lon": "17.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ02L001",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Žlutava",
+      "en": "Zlutava",
+      "slug": "zlutava-cz02l001"
+    },
+    "code": {
+      "id": "CZ02L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ02",
+      "level": 1,
+      "name": {
+        "local": "Zlínský",
+        "en": "Zlín",
+        "slug": "zlin-cz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ02",
+        "level": 1,
+        "name": {
+          "local": "Zlínský",
+          "en": "Zlín",
+          "slug": "zlin-cz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.2",
+      "lon": "17.49"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

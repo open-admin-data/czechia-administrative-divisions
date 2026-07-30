@@ -1,0 +1,45 @@
+{
+  "id": "CZ11L024",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Velké Přílepy",
+    "en": "Velke Prilepy",
+    "slug": "velke-prilepy-cz11l024"
+  },
+  "code": {
+    "id": "CZ11L024",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ11",
+    "level": 1,
+    "name": {
+      "local": "Středočeský",
+      "en": "Central Bohemian",
+      "slug": "central-bohemian-cz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.161",
+    "lon": "14.314"
+  },
+  "metadata": {},
+  "source": {}
+}

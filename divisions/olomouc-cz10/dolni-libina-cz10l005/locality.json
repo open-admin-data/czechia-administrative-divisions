@@ -1,0 +1,45 @@
+{
+  "id": "CZ10L005",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Dolní Libina",
+    "en": "Dolni Libina",
+    "slug": "dolni-libina-cz10l005"
+  },
+  "code": {
+    "id": "CZ10L005",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ10",
+    "level": 1,
+    "name": {
+      "local": "Olomoucký",
+      "en": "Olomouc",
+      "slug": "olomouc-cz10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.858",
+    "lon": "17.107"
+  },
+  "metadata": {},
+  "source": {}
+}

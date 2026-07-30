@@ -1,0 +1,33 @@
+{
+  "id": "CZ01",
+  "level": 1,
+  "level_name": {
+    "local": "Kraj",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Jihočeský",
+    "en": "South Bohemian",
+    "slug": "south-bohemian-cz01"
+  },
+  "code": {
+    "id": "CZ01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.078",
+    "lon": "14.448"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cz/regions/south-bohemian-cz01/",
+    "api": "https://openadmindata.org/api/cz/"
+  }
+}

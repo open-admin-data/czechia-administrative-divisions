@@ -1,0 +1,45 @@
+{
+  "id": "CZ02L009",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Ratibor",
+    "en": "Ratibor",
+    "slug": "ratibor-cz02l009"
+  },
+  "code": {
+    "id": "CZ02L009",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ02",
+    "level": 1,
+    "name": {
+      "local": "Zlínský",
+      "en": "Zlín",
+      "slug": "zlin-cz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ02",
+      "level": 1,
+      "name": {
+        "local": "Zlínský",
+        "en": "Zlín",
+        "slug": "zlin-cz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.368",
+    "lon": "17.915"
+  },
+  "metadata": {},
+  "source": {}
+}

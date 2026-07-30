@@ -1,0 +1,45 @@
+{
+  "id": "CZ08L005",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Merklín",
+    "en": "Merklin",
+    "slug": "merklin-cz08l005"
+  },
+  "code": {
+    "id": "CZ08L005",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ08",
+    "level": 1,
+    "name": {
+      "local": "Karlovarský",
+      "en": "Karlovy Vary",
+      "slug": "karlovy-vary-cz08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ08",
+      "level": 1,
+      "name": {
+        "local": "Karlovarský",
+        "en": "Karlovy Vary",
+        "slug": "karlovy-vary-cz08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.328",
+    "lon": "12.864"
+  },
+  "metadata": {},
+  "source": {}
+}

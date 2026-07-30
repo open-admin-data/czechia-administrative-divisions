@@ -1,0 +1,45 @@
+{
+  "id": "CZ11L031",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Církvice",
+    "en": "Cirkvice",
+    "slug": "cirkvice-cz11l031"
+  },
+  "code": {
+    "id": "CZ11L031",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ11",
+    "level": 1,
+    "name": {
+      "local": "Středočeský",
+      "en": "Central Bohemian",
+      "slug": "central-bohemian-cz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.946",
+    "lon": "15.335"
+  },
+  "metadata": {},
+  "source": {}
+}

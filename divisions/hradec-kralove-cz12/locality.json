@@ -1,0 +1,722 @@
+[
+  {
+    "id": "CZ12L002",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Å pindlerÅ¯v Mlýn",
+      "en": "A pindlerA¯v Mlyn",
+      "slug": "a-pindlera-v-mlyn-cz12l002"
+    },
+    "code": {
+      "id": "CZ12L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ12",
+        "level": 1,
+        "name": {
+          "local": "Královéhradecký",
+          "en": "Hradec Králové",
+          "slug": "hradec-kralove-cz12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.726",
+      "lon": "15.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ12L004",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Albrechtice nad Orlicí",
+      "en": "Albrechtice nad Orlici",
+      "slug": "albrechtice-nad-orlici-cz12l004"
+    },
+    "code": {
+      "id": "CZ12L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ12",
+        "level": 1,
+        "name": {
+          "local": "Královéhradecký",
+          "en": "Hradec Králové",
+          "slug": "hradec-kralove-cz12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.14",
+      "lon": "16.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ12L001",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chotěvice",
+      "en": "Chotevice",
+      "slug": "chotevice-cz12l001"
+    },
+    "code": {
+      "id": "CZ12L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ12",
+        "level": 1,
+        "name": {
+          "local": "Královéhradecký",
+          "en": "Hradec Králové",
+          "slug": "hradec-kralove-cz12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.521",
+      "lon": "15.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ12L011",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dolní Černilov",
+      "en": "Dolni Cernilov",
+      "slug": "dolni-cernilov-cz12l011"
+    },
+    "code": {
+      "id": "CZ12L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ12",
+        "level": 1,
+        "name": {
+          "local": "Královéhradecký",
+          "en": "Hradec Králové",
+          "slug": "hradec-kralove-cz12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.261",
+      "lon": "15.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ12L007",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Machov",
+      "en": "Machov",
+      "slug": "machov-cz12l007"
+    },
+    "code": {
+      "id": "CZ12L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ12",
+        "level": 1,
+        "name": {
+          "local": "Královéhradecký",
+          "en": "Hradec Králové",
+          "slug": "hradec-kralove-cz12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.499",
+      "lon": "16.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ12L014",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pecka",
+      "en": "Pecka",
+      "slug": "pecka-cz12l014"
+    },
+    "code": {
+      "id": "CZ12L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ12",
+        "level": 1,
+        "name": {
+          "local": "Královéhradecký",
+          "en": "Hradec Králové",
+          "slug": "hradec-kralove-cz12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.48",
+      "lon": "15.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ12L015",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Provodov-Sonov",
+      "en": "Provodov-Sonov",
+      "slug": "provodov-sonov-cz12l015"
+    },
+    "code": {
+      "id": "CZ12L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ12",
+        "level": 1,
+        "name": {
+          "local": "Královéhradecký",
+          "en": "Hradec Králové",
+          "slug": "hradec-kralove-cz12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.387",
+      "lon": "16.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ12L003",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Skuhrov nad Bělou",
+      "en": "Skuhrov nad Belou",
+      "slug": "skuhrov-nad-belou-cz12l003"
+    },
+    "code": {
+      "id": "CZ12L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ12",
+        "level": 1,
+        "name": {
+          "local": "Královéhradecký",
+          "en": "Hradec Králové",
+          "slug": "hradec-kralove-cz12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.229",
+      "lon": "16.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ12L005",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Smidary",
+      "en": "Smidary",
+      "slug": "smidary-cz12l005"
+    },
+    "code": {
+      "id": "CZ12L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ12",
+        "level": 1,
+        "name": {
+          "local": "Královéhradecký",
+          "en": "Hradec Králové",
+          "slug": "hradec-kralove-cz12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.291",
+      "lon": "15.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ12L006",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Staré Nechanice",
+      "en": "Stare Nechanice",
+      "slug": "stare-nechanice-cz12l006"
+    },
+    "code": {
+      "id": "CZ12L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ12",
+        "level": 1,
+        "name": {
+          "local": "Královéhradecký",
+          "en": "Hradec Králové",
+          "slug": "hradec-kralove-cz12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.243",
+      "lon": "15.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ12L013",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Teplice nad Metují",
+      "en": "Teplice nad Metuji",
+      "slug": "teplice-nad-metuji-cz12l013"
+    },
+    "code": {
+      "id": "CZ12L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ12",
+        "level": 1,
+        "name": {
+          "local": "Královéhradecký",
+          "en": "Hradec Králové",
+          "slug": "hradec-kralove-cz12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.593",
+      "lon": "16.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ12L016",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tyniste nad Orlici",
+      "en": "Tyniste nad Orlici",
+      "slug": "tyniste-nad-orlici-cz12l016"
+    },
+    "code": {
+      "id": "CZ12L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ12",
+        "level": 1,
+        "name": {
+          "local": "Královéhradecký",
+          "en": "Hradec Králové",
+          "slug": "hradec-kralove-cz12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.151",
+      "lon": "16.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ12L009",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Velké Svatoňovice",
+      "en": "Velke Svatonovice",
+      "slug": "velke-svatonovice-cz12l009"
+    },
+    "code": {
+      "id": "CZ12L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ12",
+        "level": 1,
+        "name": {
+          "local": "Královéhradecký",
+          "en": "Hradec Králové",
+          "slug": "hradec-kralove-cz12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.532",
+      "lon": "16.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ12L008",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Všestary",
+      "en": "Vsestary",
+      "slug": "vsestary-cz12l008"
+    },
+    "code": {
+      "id": "CZ12L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ12",
+        "level": 1,
+        "name": {
+          "local": "Královéhradecký",
+          "en": "Hradec Králové",
+          "slug": "hradec-kralove-cz12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.257",
+      "lon": "15.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ12L010",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zadní Mostek",
+      "en": "Zadni Mostek",
+      "slug": "zadni-mostek-cz12l010"
+    },
+    "code": {
+      "id": "CZ12L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ12",
+        "level": 1,
+        "name": {
+          "local": "Královéhradecký",
+          "en": "Hradec Králové",
+          "slug": "hradec-kralove-cz12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.497",
+      "lon": "15.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ12L012",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Železnice",
+      "en": "Zeleznice",
+      "slug": "zeleznice-cz12l012"
+    },
+    "code": {
+      "id": "CZ12L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ12",
+        "level": 1,
+        "name": {
+          "local": "Královéhradecký",
+          "en": "Hradec Králové",
+          "slug": "hradec-kralove-cz12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.473",
+      "lon": "15.385"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

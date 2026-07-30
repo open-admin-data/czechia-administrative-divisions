@@ -1,0 +1,45 @@
+{
+  "id": "CZ01L028",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Suchdol nad Luznici",
+    "en": "Suchdol nad Luznici",
+    "slug": "suchdol-nad-luznici-cz01l028"
+  },
+  "code": {
+    "id": "CZ01L028",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ01",
+    "level": 1,
+    "name": {
+      "local": "Jihočeský",
+      "en": "South Bohemian",
+      "slug": "south-bohemian-cz01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "48.89",
+    "lon": "14.877"
+  },
+  "metadata": {},
+  "source": {}
+}

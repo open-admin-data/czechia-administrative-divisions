@@ -1,0 +1,45 @@
+{
+  "id": "CZ03L012",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Strelice",
+    "en": "Strelice",
+    "slug": "strelice-cz03l012"
+  },
+  "code": {
+    "id": "CZ03L012",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ03",
+    "level": 1,
+    "name": {
+      "local": "Jihomoravský",
+      "en": "South Moravian",
+      "slug": "south-moravian-cz03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ03",
+      "level": 1,
+      "name": {
+        "local": "Jihomoravský",
+        "en": "South Moravian",
+        "slug": "south-moravian-cz03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.152",
+    "lon": "16.504"
+  },
+  "metadata": {},
+  "source": {}
+}

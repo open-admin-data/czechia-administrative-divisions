@@ -1,0 +1,39 @@
+# Czechia Administrative Divisions — Full Reference
+
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Per-Region Data Files
+
+- [South Bohemian](https://github.com/open-admin-data/czechia-administrative-divisions/blob/main/docs/llms-full/south-bohemian-cz01.txt) — 29 localitys
+- [Zlín](https://github.com/open-admin-data/czechia-administrative-divisions/blob/main/docs/llms-full/zlin-cz02.txt) — 10 localitys
+- [South Moravian](https://github.com/open-admin-data/czechia-administrative-divisions/blob/main/docs/llms-full/south-moravian-cz03.txt) — 20 localitys
+- [Vysocina](https://github.com/open-admin-data/czechia-administrative-divisions/blob/main/docs/llms-full/vysocina-cz04.txt) — 16 localitys
+- [Plzeň](https://github.com/open-admin-data/czechia-administrative-divisions/blob/main/docs/llms-full/plzen-cz05.txt) — 30 localitys
+- [Prague](https://github.com/open-admin-data/czechia-administrative-divisions/blob/main/docs/llms-full/prague-cz06.txt) — 1 localitys
+- [Pardubice](https://github.com/open-admin-data/czechia-administrative-divisions/blob/main/docs/llms-full/pardubice-cz07.txt) — 15 localitys
+- [Karlovy Vary](https://github.com/open-admin-data/czechia-administrative-divisions/blob/main/docs/llms-full/karlovy-vary-cz08.txt) — 8 localitys
+- [Moravian-Silesian](https://github.com/open-admin-data/czechia-administrative-divisions/blob/main/docs/llms-full/moravian-silesian-cz09.txt) — 34 localitys
+- [Olomouc](https://github.com/open-admin-data/czechia-administrative-divisions/blob/main/docs/llms-full/olomouc-cz10.txt) — 31 localitys
+- [Central Bohemian](https://github.com/open-admin-data/czechia-administrative-divisions/blob/main/docs/llms-full/central-bohemian-cz11.txt) — 54 localitys
+- [Hradec Králové](https://github.com/open-admin-data/czechia-administrative-divisions/blob/main/docs/llms-full/hradec-kralove-cz12.txt) — 16 localitys
+- [Ústí nad Labem](https://github.com/open-admin-data/czechia-administrative-divisions/blob/main/docs/llms-full/usti-nad-labem-cz13.txt) — 24 localitys
+- [Liberec](https://github.com/open-admin-data/czechia-administrative-divisions/blob/main/docs/llms-full/liberec-cz14.txt) — 15 localitys
+
+## Summary
+
+| Region | Localitys | 
+|---|---|
+| South Bohemian | 29 | 
+| Zlín | 10 | 
+| South Moravian | 20 | 
+| Vysocina | 16 | 
+| Plzeň | 30 | 
+| Prague | 1 | 
+| Pardubice | 15 | 
+| Karlovy Vary | 8 | 
+| Moravian-Silesian | 34 | 
+| Olomouc | 31 | 
+| Central Bohemian | 54 | 
+| Hradec Králové | 16 | 
+| Ústí nad Labem | 24 | 
+| Liberec | 15 | 

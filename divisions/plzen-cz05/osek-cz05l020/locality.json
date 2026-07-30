@@ -1,0 +1,45 @@
+{
+  "id": "CZ05L020",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Osek",
+    "en": "Osek",
+    "slug": "osek-cz05l020"
+  },
+  "code": {
+    "id": "CZ05L020",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ05",
+    "level": 1,
+    "name": {
+      "local": "Plzeňský",
+      "en": "Plzeň",
+      "slug": "plzen-cz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.776",
+    "lon": "13.591"
+  },
+  "metadata": {},
+  "source": {}
+}

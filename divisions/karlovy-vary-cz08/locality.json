@@ -1,0 +1,362 @@
+[
+  {
+    "id": "CZ08L008",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Brezova",
+      "en": "Brezova",
+      "slug": "brezova-cz08l008"
+    },
+    "code": {
+      "id": "CZ08L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ08",
+      "level": 1,
+      "name": {
+        "local": "Karlovarský",
+        "en": "Karlovy Vary",
+        "slug": "karlovy-vary-cz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ08",
+        "level": 1,
+        "name": {
+          "local": "Karlovarský",
+          "en": "Karlovy Vary",
+          "slug": "karlovy-vary-cz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.146",
+      "lon": "12.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ08L004",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dolní Žandov",
+      "en": "Dolni Zandov",
+      "slug": "dolni-zandov-cz08l004"
+    },
+    "code": {
+      "id": "CZ08L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ08",
+      "level": 1,
+      "name": {
+        "local": "Karlovarský",
+        "en": "Karlovy Vary",
+        "slug": "karlovy-vary-cz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ08",
+        "level": 1,
+        "name": {
+          "local": "Karlovarský",
+          "en": "Karlovy Vary",
+          "slug": "karlovy-vary-cz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.018",
+      "lon": "12.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ08L001",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Klášter",
+      "en": "Klaster",
+      "slug": "klaster-cz08l001"
+    },
+    "code": {
+      "id": "CZ08L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ08",
+      "level": 1,
+      "name": {
+        "local": "Karlovarský",
+        "en": "Karlovy Vary",
+        "slug": "karlovy-vary-cz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ08",
+        "level": 1,
+        "name": {
+          "local": "Karlovarský",
+          "en": "Karlovy Vary",
+          "slug": "karlovy-vary-cz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.968",
+      "lon": "12.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ08L007",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lomnice",
+      "en": "Lomnice",
+      "slug": "lomnice-cz08l007"
+    },
+    "code": {
+      "id": "CZ08L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ08",
+      "level": 1,
+      "name": {
+        "local": "Karlovarský",
+        "en": "Karlovy Vary",
+        "slug": "karlovy-vary-cz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ08",
+        "level": 1,
+        "name": {
+          "local": "Karlovarský",
+          "en": "Karlovy Vary",
+          "slug": "karlovy-vary-cz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.212",
+      "lon": "12.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ08L005",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Merklín",
+      "en": "Merklin",
+      "slug": "merklin-cz08l005"
+    },
+    "code": {
+      "id": "CZ08L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ08",
+      "level": 1,
+      "name": {
+        "local": "Karlovarský",
+        "en": "Karlovy Vary",
+        "slug": "karlovy-vary-cz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ08",
+        "level": 1,
+        "name": {
+          "local": "Karlovarský",
+          "en": "Karlovy Vary",
+          "slug": "karlovy-vary-cz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.328",
+      "lon": "12.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ08L006",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Město",
+      "en": "Mesto",
+      "slug": "mesto-cz08l006"
+    },
+    "code": {
+      "id": "CZ08L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ08",
+      "level": 1,
+      "name": {
+        "local": "Karlovarský",
+        "en": "Karlovy Vary",
+        "slug": "karlovy-vary-cz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ08",
+        "level": 1,
+        "name": {
+          "local": "Karlovarský",
+          "en": "Karlovy Vary",
+          "slug": "karlovy-vary-cz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.98",
+      "lon": "12.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ08L002",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oloví",
+      "en": "Olovi",
+      "slug": "olovi-cz08l002"
+    },
+    "code": {
+      "id": "CZ08L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ08",
+      "level": 1,
+      "name": {
+        "local": "Karlovarský",
+        "en": "Karlovy Vary",
+        "slug": "karlovy-vary-cz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ08",
+        "level": 1,
+        "name": {
+          "local": "Karlovarský",
+          "en": "Karlovy Vary",
+          "slug": "karlovy-vary-cz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.251",
+      "lon": "12.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ08L003",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sadov",
+      "en": "Sadov",
+      "slug": "sadov-cz08l003"
+    },
+    "code": {
+      "id": "CZ08L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ08",
+      "level": 1,
+      "name": {
+        "local": "Karlovarský",
+        "en": "Karlovy Vary",
+        "slug": "karlovy-vary-cz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ08",
+        "level": 1,
+        "name": {
+          "local": "Karlovarský",
+          "en": "Karlovy Vary",
+          "slug": "karlovy-vary-cz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.267",
+      "lon": "12.897"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

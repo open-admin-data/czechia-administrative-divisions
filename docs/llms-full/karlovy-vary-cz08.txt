@@ -1,0 +1,49 @@
+# Karlovy Vary — Czechia Administrative Divisions
+
+> 8 localitys
+> Code: CZ08
+> Coordinates: 50.157, 12.694
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Localitys
+
+### Brezova
+
+Code: CZ08L008, Coordinates: 50.146, 12.65
+
+
+### Dolní Žandov (Dolni Zandov)
+
+Code: CZ08L004, Coordinates: 50.018, 12.551
+
+
+### Klášter (Klaster)
+
+Code: CZ08L001, Coordinates: 49.968, 12.876
+
+
+### Lomnice
+
+Code: CZ08L007, Coordinates: 50.212, 12.633
+
+
+### Merklín (Merklin)
+
+Code: CZ08L005, Coordinates: 50.328, 12.864
+
+
+### Město (Mesto)
+
+Code: CZ08L006, Coordinates: 49.98, 12.864
+
+
+### Oloví (Olovi)
+
+Code: CZ08L002, Coordinates: 50.251, 12.559
+
+
+### Sadov
+
+Code: CZ08L003, Coordinates: 50.267, 12.897
+
+

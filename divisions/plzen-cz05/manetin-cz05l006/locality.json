@@ -1,0 +1,45 @@
+{
+  "id": "CZ05L006",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Manětín",
+    "en": "Manetin",
+    "slug": "manetin-cz05l006"
+  },
+  "code": {
+    "id": "CZ05L006",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ05",
+    "level": 1,
+    "name": {
+      "local": "Plzeňský",
+      "en": "Plzeň",
+      "slug": "plzen-cz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.992",
+    "lon": "13.233"
+  },
+  "metadata": {},
+  "source": {}
+}

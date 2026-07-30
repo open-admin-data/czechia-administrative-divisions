@@ -1,0 +1,677 @@
+[
+  {
+    "id": "CZ14L012",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Benecko",
+      "en": "Benecko",
+      "slug": "benecko-cz14l012"
+    },
+    "code": {
+      "id": "CZ14L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ14",
+      "level": 1,
+      "name": {
+        "local": "Liberecký",
+        "en": "Liberec",
+        "slug": "liberec-cz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ14",
+        "level": 1,
+        "name": {
+          "local": "Liberecký",
+          "en": "Liberec",
+          "slug": "liberec-cz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.666",
+      "lon": "15.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ14L007",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Brniště",
+      "en": "Brniste",
+      "slug": "brniste-cz14l007"
+    },
+    "code": {
+      "id": "CZ14L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ14",
+      "level": 1,
+      "name": {
+        "local": "Liberecký",
+        "en": "Liberec",
+        "slug": "liberec-cz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ14",
+        "level": 1,
+        "name": {
+          "local": "Liberecký",
+          "en": "Liberec",
+          "slug": "liberec-cz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.729",
+      "lon": "14.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ14L008",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Harrachov",
+      "en": "Harrachov",
+      "slug": "harrachov-cz14l008"
+    },
+    "code": {
+      "id": "CZ14L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ14",
+      "level": 1,
+      "name": {
+        "local": "Liberecký",
+        "en": "Liberec",
+        "slug": "liberec-cz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ14",
+        "level": 1,
+        "name": {
+          "local": "Liberecký",
+          "en": "Liberec",
+          "slug": "liberec-cz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.772",
+      "lon": "15.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ14L014",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Horni Branna",
+      "en": "Horni Branna",
+      "slug": "horni-branna-cz14l014"
+    },
+    "code": {
+      "id": "CZ14L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ14",
+      "level": 1,
+      "name": {
+        "local": "Liberecký",
+        "en": "Liberec",
+        "slug": "liberec-cz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ14",
+        "level": 1,
+        "name": {
+          "local": "Liberecký",
+          "en": "Liberec",
+          "slug": "liberec-cz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.608",
+      "lon": "15.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ14L013",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Janov nad Nisou",
+      "en": "Janov nad Nisou",
+      "slug": "janov-nad-nisou-cz14l013"
+    },
+    "code": {
+      "id": "CZ14L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ14",
+      "level": 1,
+      "name": {
+        "local": "Liberecký",
+        "en": "Liberec",
+        "slug": "liberec-cz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ14",
+        "level": 1,
+        "name": {
+          "local": "Liberecký",
+          "en": "Liberec",
+          "slug": "liberec-cz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.772",
+      "lon": "15.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ14L009",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "JosefÅ¯v DÅ¯l",
+      "en": "JosefA¯v DA¯l",
+      "slug": "josefa-v-da-l-cz14l009"
+    },
+    "code": {
+      "id": "CZ14L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ14",
+      "level": 1,
+      "name": {
+        "local": "Liberecký",
+        "en": "Liberec",
+        "slug": "liberec-cz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ14",
+        "level": 1,
+        "name": {
+          "local": "Liberecký",
+          "en": "Liberec",
+          "slug": "liberec-cz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.782",
+      "lon": "15.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ14L006",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kořenov",
+      "en": "Korenov",
+      "slug": "korenov-cz14l006"
+    },
+    "code": {
+      "id": "CZ14L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ14",
+      "level": 1,
+      "name": {
+        "local": "Liberecký",
+        "en": "Liberec",
+        "slug": "liberec-cz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ14",
+        "level": 1,
+        "name": {
+          "local": "Liberecký",
+          "en": "Liberec",
+          "slug": "liberec-cz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.759",
+      "lon": "15.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ14L001",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Malá Skála",
+      "en": "Mala Skala",
+      "slug": "mala-skala-cz14l001"
+    },
+    "code": {
+      "id": "CZ14L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ14",
+      "level": 1,
+      "name": {
+        "local": "Liberecký",
+        "en": "Liberec",
+        "slug": "liberec-cz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ14",
+        "level": 1,
+        "name": {
+          "local": "Liberecký",
+          "en": "Liberec",
+          "slug": "liberec-cz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.646",
+      "lon": "15.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ14L011",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Osečná",
+      "en": "Osečna",
+      "slug": "osecna-cz14l011"
+    },
+    "code": {
+      "id": "CZ14L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ14",
+      "level": 1,
+      "name": {
+        "local": "Liberecký",
+        "en": "Liberec",
+        "slug": "liberec-cz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ14",
+        "level": 1,
+        "name": {
+          "local": "Liberecký",
+          "en": "Liberec",
+          "slug": "liberec-cz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.695",
+      "lon": "14.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ14L010",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pěnčín",
+      "en": "Penčin",
+      "slug": "pencin-cz14l010"
+    },
+    "code": {
+      "id": "CZ14L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ14",
+      "level": 1,
+      "name": {
+        "local": "Liberecký",
+        "en": "Liberec",
+        "slug": "liberec-cz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ14",
+        "level": 1,
+        "name": {
+          "local": "Liberecký",
+          "en": "Liberec",
+          "slug": "liberec-cz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.688",
+      "lon": "15.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ14L004",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Plavy",
+      "en": "Plavy",
+      "slug": "plavy-cz14l004"
+    },
+    "code": {
+      "id": "CZ14L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ14",
+      "level": 1,
+      "name": {
+        "local": "Liberecký",
+        "en": "Liberec",
+        "slug": "liberec-cz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ14",
+        "level": 1,
+        "name": {
+          "local": "Liberecký",
+          "en": "Liberec",
+          "slug": "liberec-cz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.703",
+      "lon": "15.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ14L002",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rokytnice nad Jizerou",
+      "en": "Rokytnice nad Jizerou",
+      "slug": "rokytnice-nad-jizerou-cz14l002"
+    },
+    "code": {
+      "id": "CZ14L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ14",
+      "level": 1,
+      "name": {
+        "local": "Liberecký",
+        "en": "Liberec",
+        "slug": "liberec-cz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ14",
+        "level": 1,
+        "name": {
+          "local": "Liberecký",
+          "en": "Liberec",
+          "slug": "liberec-cz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.726",
+      "lon": "15.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ14L015",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Straz pod Ralskem",
+      "en": "Straz pod Ralskem",
+      "slug": "straz-pod-ralskem-cz14l015"
+    },
+    "code": {
+      "id": "CZ14L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ14",
+      "level": 1,
+      "name": {
+        "local": "Liberecký",
+        "en": "Liberec",
+        "slug": "liberec-cz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ14",
+        "level": 1,
+        "name": {
+          "local": "Liberecký",
+          "en": "Liberec",
+          "slug": "liberec-cz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.703",
+      "lon": "14.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ14L003",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Višňová",
+      "en": "Visnova",
+      "slug": "visnova-cz14l003"
+    },
+    "code": {
+      "id": "CZ14L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ14",
+      "level": 1,
+      "name": {
+        "local": "Liberecký",
+        "en": "Liberec",
+        "slug": "liberec-cz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ14",
+        "level": 1,
+        "name": {
+          "local": "Liberecký",
+          "en": "Liberec",
+          "slug": "liberec-cz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.967",
+      "lon": "15.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ14L005",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Vysoké nad Jizerou",
+      "en": "Vysoke nad Jizerou",
+      "slug": "vysoke-nad-jizerou-cz14l005"
+    },
+    "code": {
+      "id": "CZ14L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ14",
+      "level": 1,
+      "name": {
+        "local": "Liberecký",
+        "en": "Liberec",
+        "slug": "liberec-cz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ14",
+        "level": 1,
+        "name": {
+          "local": "Liberecký",
+          "en": "Liberec",
+          "slug": "liberec-cz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.686",
+      "lon": "15.402"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

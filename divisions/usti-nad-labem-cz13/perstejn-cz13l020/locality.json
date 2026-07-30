@@ -1,0 +1,45 @@
+{
+  "id": "CZ13L020",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Perštejn",
+    "en": "Perstejn",
+    "slug": "perstejn-cz13l020"
+  },
+  "code": {
+    "id": "CZ13L020",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ13",
+    "level": 1,
+    "name": {
+      "local": "Ústecký",
+      "en": "Ústí nad Labem",
+      "slug": "usti-nad-labem-cz13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ13",
+      "level": 1,
+      "name": {
+        "local": "Ústecký",
+        "en": "Ústí nad Labem",
+        "slug": "usti-nad-labem-cz13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.382",
+    "lon": "13.11"
+  },
+  "metadata": {},
+  "source": {}
+}

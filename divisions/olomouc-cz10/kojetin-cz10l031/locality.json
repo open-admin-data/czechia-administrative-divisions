@@ -1,0 +1,45 @@
+{
+  "id": "CZ10L031",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Kojetin",
+    "en": "Kojetin",
+    "slug": "kojetin-cz10l031"
+  },
+  "code": {
+    "id": "CZ10L031",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ10",
+    "level": 1,
+    "name": {
+      "local": "Olomoucký",
+      "en": "Olomouc",
+      "slug": "olomouc-cz10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.352",
+    "lon": "17.302"
+  },
+  "metadata": {},
+  "source": {}
+}

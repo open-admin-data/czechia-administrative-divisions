@@ -1,0 +1,45 @@
+{
+  "id": "CZ02L008",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Sumice",
+    "en": "Sumice",
+    "slug": "sumice-cz02l008"
+  },
+  "code": {
+    "id": "CZ02L008",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ02",
+    "level": 1,
+    "name": {
+      "local": "Zlínský",
+      "en": "Zlín",
+      "slug": "zlin-cz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ02",
+      "level": 1,
+      "name": {
+        "local": "Zlínský",
+        "en": "Zlín",
+        "slug": "zlin-cz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.029",
+    "lon": "17.722"
+  },
+  "metadata": {},
+  "source": {}
+}

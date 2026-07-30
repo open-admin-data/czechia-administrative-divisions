@@ -1,0 +1,279 @@
+# Central Bohemian — Czechia Administrative Divisions
+
+> 54 localitys
+> Code: CZ11
+> Coordinates: 50.007, 15.003
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Localitys
+
+### Å těchovice (A techovice)
+
+Code: CZ11L018, Coordinates: 49.851, 14.405
+
+
+### Ã… estajovice (A… estajovice)
+
+Code: CZ11L019, Coordinates: 50.108, 14.68
+
+
+### Bohutín (Bohutin)
+
+Code: CZ11L023, Coordinates: 49.656, 13.944
+
+
+### Čechtice (Cechtice)
+
+Code: CZ11L029, Coordinates: 49.624, 15.048
+
+
+### Církvice (Cirkvice)
+
+Code: CZ11L031, Coordinates: 49.946, 15.335
+
+
+### Cítov (Citov)
+
+Code: CZ11L013, Coordinates: 50.372, 14.398
+
+
+### Davle
+
+Code: CZ11L035, Coordinates: 49.892, 14.4
+
+
+### Divišov (Divisov)
+
+Code: CZ11L037, Coordinates: 49.788, 14.876
+
+
+### Dolní Beřkovice (Dolni Berkovice)
+
+Code: CZ11L034, Coordinates: 50.393, 14.45
+
+
+### Hovorčovice
+
+Code: CZ11L022, Coordinates: 50.179, 14.518
+
+
+### Jirny
+
+Code: CZ11L017, Coordinates: 50.116, 14.699
+
+
+### Kamenný Přívoz (Kamenny Privoz)
+
+Code: CZ11L007, Coordinates: 49.863, 14.503
+
+
+### Klobuky
+
+Code: CZ11L039, Coordinates: 50.294, 13.987
+
+
+### Kněžmost (Knezmost)
+
+Code: CZ11L006, Coordinates: 50.489, 15.038
+
+
+### Komarov
+
+Code: CZ11L051, Coordinates: 49.807, 13.856
+
+
+### Kosova Hora
+
+Code: CZ11L009, Coordinates: 49.654, 14.472
+
+
+### Krásná Hora nad Vltavou (Krasna Hora nad Vltavou)
+
+Code: CZ11L030, Coordinates: 49.605, 14.277
+
+
+### Křinec (Krinec)
+
+Code: CZ11L012, Coordinates: 50.264, 15.138
+
+
+### Lochovice
+
+Code: CZ11L040, Coordinates: 49.853, 13.981
+
+
+### Loučeň (Loučen)
+
+Code: CZ11L004, Coordinates: 50.285, 15.02
+
+
+### Luštěnice (Lustenice)
+
+Code: CZ11L003, Coordinates: 50.323, 14.937
+
+
+### Měšice (Mesice)
+
+Code: CZ11L032, Coordinates: 50.198, 14.52
+
+
+### Mnisek pod Brdy
+
+Code: CZ11L054, Coordinates: 49.867, 14.262
+
+
+### Mukařov (Mukarov)
+
+Code: CZ11L047, Coordinates: 49.991, 14.742
+
+
+### NaÃ¨eradec (NaA¨eradec)
+
+Code: CZ11L046, Coordinates: 49.61, 14.906
+
+
+### Nehvizdy
+
+Code: CZ11L001, Coordinates: 50.131, 14.73
+
+
+### Nelahozeves
+
+Code: CZ11L016, Coordinates: 50.261, 14.299
+
+
+### Netvořice (Netvorice)
+
+Code: CZ11L011, Coordinates: 49.816, 14.518
+
+
+### Ondřejov (Ondrejov)
+
+Code: CZ11L008, Coordinates: 49.905, 14.784
+
+
+### Pavlíkov (Pavlikov)
+
+Code: CZ11L010, Coordinates: 50.056, 13.736
+
+
+### Pchery
+
+Code: CZ11L021, Coordinates: 50.194, 14.118
+
+
+### Poříčí nad Sázavou (Poriči nad Sazavou)
+
+Code: CZ11L042, Coordinates: 49.839, 14.674
+
+
+### Postupice
+
+Code: CZ11L038, Coordinates: 49.728, 14.777
+
+
+### Psáry (Psary)
+
+Code: CZ11L027, Coordinates: 49.936, 14.513
+
+
+### Pyšely (Pysely)
+
+Code: CZ11L020, Coordinates: 49.877, 14.677
+
+
+### Řež (Rez)
+
+Code: CZ11L005, Coordinates: 50.177, 14.357
+
+
+### Sedlec
+
+Code: CZ11L052, Coordinates: 49.964, 15.288
+
+
+### Starý Kolín (Stary Kolin)
+
+Code: CZ11L045, Coordinates: 50.01, 15.294
+
+
+### Suchdol
+
+Code: CZ11L050, Coordinates: 49.952, 15.167
+
+
+### Tišice (Tisice)
+
+Code: CZ11L002, Coordinates: 50.27, 14.554
+
+
+### Třebotov (Trebotov)
+
+Code: CZ11L043, Coordinates: 49.972, 14.291
+
+
+### Trhový Å těpánov (Trhovy A tepanov)
+
+Code: CZ11L026, Coordinates: 49.711, 15.014
+
+
+### Tuchoměřice (Tuchomerice)
+
+Code: CZ11L015, Coordinates: 50.135, 14.282
+
+
+### Velké Přílepy (Velke Prilepy)
+
+Code: CZ11L024, Coordinates: 50.161, 14.314
+
+
+### Veltruby
+
+Code: CZ11L033, Coordinates: 50.071, 15.185
+
+
+### Vinarice
+
+Code: CZ11L053, Coordinates: 50.176, 14.091
+
+
+### Vsetaty
+
+Code: CZ11L049, Coordinates: 50.282, 14.593
+
+
+### Westetz
+
+Code: CZ11L025, Coordinates: 49.981, 14.505
+
+
+### Zaječov
+
+Code: CZ11L041, Coordinates: 49.774, 13.841
+
+
+### Zd&#39;ar
+
+Code: CZ11L048, Coordinates: 50.544, 15.08
+
+
+### Zdiby
+
+Code: CZ11L036, Coordinates: 50.168, 14.451
+
+
+### Žiželice (Zizelice)
+
+Code: CZ11L028, Coordinates: 50.132, 15.393
+
+
+### Zlenice
+
+Code: CZ11L014, Coordinates: 50.288, 14.092
+
+
+### Zvole
+
+Code: CZ11L044, Coordinates: 49.935, 14.418
+
+

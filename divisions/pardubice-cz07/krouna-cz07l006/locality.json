@@ -1,0 +1,45 @@
+{
+  "id": "CZ07L006",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Krouna",
+    "en": "Krouna",
+    "slug": "krouna-cz07l006"
+  },
+  "code": {
+    "id": "CZ07L006",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ07",
+    "level": 1,
+    "name": {
+      "local": "Pardubický",
+      "en": "Pardubice",
+      "slug": "pardubice-cz07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ07",
+      "level": 1,
+      "name": {
+        "local": "Pardubický",
+        "en": "Pardubice",
+        "slug": "pardubice-cz07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.772",
+    "lon": "16.027"
+  },
+  "metadata": {},
+  "source": {}
+}

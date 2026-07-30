@@ -1,0 +1,45 @@
+{
+  "id": "CZ02L010",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Tlumacov",
+    "en": "Tlumacov",
+    "slug": "tlumacov-cz02l010"
+  },
+  "code": {
+    "id": "CZ02L010",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ02",
+    "level": 1,
+    "name": {
+      "local": "Zlínský",
+      "en": "Zlín",
+      "slug": "zlin-cz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ02",
+      "level": 1,
+      "name": {
+        "local": "Zlínský",
+        "en": "Zlín",
+        "slug": "zlin-cz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.254",
+    "lon": "17.496"
+  },
+  "metadata": {},
+  "source": {}
+}

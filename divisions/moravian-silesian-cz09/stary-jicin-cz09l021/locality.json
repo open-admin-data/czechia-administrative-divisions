@@ -1,0 +1,45 @@
+{
+  "id": "CZ09L021",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Starý Jičín",
+    "en": "Stary Jičin",
+    "slug": "stary-jicin-cz09l021"
+  },
+  "code": {
+    "id": "CZ09L021",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ09",
+    "level": 1,
+    "name": {
+      "local": "Moravskoslezský",
+      "en": "Moravian-Silesian",
+      "slug": "moravian-silesian-cz09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.577",
+    "lon": "17.962"
+  },
+  "metadata": {},
+  "source": {}
+}

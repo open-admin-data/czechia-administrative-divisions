@@ -1,0 +1,677 @@
+[
+  {
+    "id": "CZ07L014",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Brněnec",
+      "en": "Brnenec",
+      "slug": "brnenec-cz07l014"
+    },
+    "code": {
+      "id": "CZ07L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ07",
+      "level": 1,
+      "name": {
+        "local": "Pardubický",
+        "en": "Pardubice",
+        "slug": "pardubice-cz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ07",
+        "level": 1,
+        "name": {
+          "local": "Pardubický",
+          "en": "Pardubice",
+          "slug": "pardubice-cz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.627",
+      "lon": "16.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ07L010",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Býšť",
+      "en": "Byst",
+      "slug": "byst-cz07l010"
+    },
+    "code": {
+      "id": "CZ07L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ07",
+      "level": 1,
+      "name": {
+        "local": "Pardubický",
+        "en": "Pardubice",
+        "slug": "pardubice-cz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ07",
+        "level": 1,
+        "name": {
+          "local": "Pardubický",
+          "en": "Pardubice",
+          "slug": "pardubice-cz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.132",
+      "lon": "15.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ07L011",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chroustovice",
+      "en": "Chroustovice",
+      "slug": "chroustovice-cz07l011"
+    },
+    "code": {
+      "id": "CZ07L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ07",
+      "level": 1,
+      "name": {
+        "local": "Pardubický",
+        "en": "Pardubice",
+        "slug": "pardubice-cz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ07",
+        "level": 1,
+        "name": {
+          "local": "Pardubický",
+          "en": "Pardubice",
+          "slug": "pardubice-cz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.956",
+      "lon": "15.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ07L001",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dolní Roveň",
+      "en": "Dolni Roven",
+      "slug": "dolni-roven-cz07l001"
+    },
+    "code": {
+      "id": "CZ07L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ07",
+      "level": 1,
+      "name": {
+        "local": "Pardubický",
+        "en": "Pardubice",
+        "slug": "pardubice-cz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ07",
+        "level": 1,
+        "name": {
+          "local": "Pardubický",
+          "en": "Pardubice",
+          "slug": "pardubice-cz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.029",
+      "lon": "15.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ07L013",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dolni Sloupnice",
+      "en": "Dolni Sloupnice",
+      "slug": "dolni-sloupnice-cz07l013"
+    },
+    "code": {
+      "id": "CZ07L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ07",
+      "level": 1,
+      "name": {
+        "local": "Pardubický",
+        "en": "Pardubice",
+        "slug": "pardubice-cz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ07",
+        "level": 1,
+        "name": {
+          "local": "Pardubický",
+          "en": "Pardubice",
+          "slug": "pardubice-cz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.927",
+      "lon": "16.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ07L009",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Horní Čermná",
+      "en": "Horni Cermna",
+      "slug": "horni-cermna-cz07l009"
+    },
+    "code": {
+      "id": "CZ07L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ07",
+      "level": 1,
+      "name": {
+        "local": "Pardubický",
+        "en": "Pardubice",
+        "slug": "pardubice-cz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ07",
+        "level": 1,
+        "name": {
+          "local": "Pardubický",
+          "en": "Pardubice",
+          "slug": "pardubice-cz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.971",
+      "lon": "16.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ07L006",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Krouna",
+      "en": "Krouna",
+      "slug": "krouna-cz07l006"
+    },
+    "code": {
+      "id": "CZ07L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ07",
+      "level": 1,
+      "name": {
+        "local": "Pardubický",
+        "en": "Pardubice",
+        "slug": "pardubice-cz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ07",
+        "level": 1,
+        "name": {
+          "local": "Pardubický",
+          "en": "Pardubice",
+          "slug": "pardubice-cz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.772",
+      "lon": "16.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ07L005",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kunčina",
+      "en": "Kunčina",
+      "slug": "kuncina-cz07l005"
+    },
+    "code": {
+      "id": "CZ07L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ07",
+      "level": 1,
+      "name": {
+        "local": "Pardubický",
+        "en": "Pardubice",
+        "slug": "pardubice-cz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ07",
+        "level": 1,
+        "name": {
+          "local": "Pardubický",
+          "en": "Pardubice",
+          "slug": "pardubice-cz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.795",
+      "lon": "16.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ07L007",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kunvald",
+      "en": "Kunvald",
+      "slug": "kunvald-cz07l007"
+    },
+    "code": {
+      "id": "CZ07L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ07",
+      "level": 1,
+      "name": {
+        "local": "Pardubický",
+        "en": "Pardubice",
+        "slug": "pardubice-cz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ07",
+        "level": 1,
+        "name": {
+          "local": "Pardubický",
+          "en": "Pardubice",
+          "slug": "pardubice-cz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.129",
+      "lon": "16.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ07L002",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Městečko Trnávka",
+      "en": "Mestečko Trnavka",
+      "slug": "mestecko-trnavka-cz07l002"
+    },
+    "code": {
+      "id": "CZ07L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ07",
+      "level": 1,
+      "name": {
+        "local": "Pardubický",
+        "en": "Pardubice",
+        "slug": "pardubice-cz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ07",
+        "level": 1,
+        "name": {
+          "local": "Pardubický",
+          "en": "Pardubice",
+          "slug": "pardubice-cz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.709",
+      "lon": "16.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ07L008",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Miřetice",
+      "en": "Miretice",
+      "slug": "miretice-cz07l008"
+    },
+    "code": {
+      "id": "CZ07L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ07",
+      "level": 1,
+      "name": {
+        "local": "Pardubický",
+        "en": "Pardubice",
+        "slug": "pardubice-cz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ07",
+        "level": 1,
+        "name": {
+          "local": "Pardubický",
+          "en": "Pardubice",
+          "slug": "pardubice-cz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.841",
+      "lon": "15.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ07L012",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Osík",
+      "en": "Osik",
+      "slug": "osik-cz07l012"
+    },
+    "code": {
+      "id": "CZ07L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ07",
+      "level": 1,
+      "name": {
+        "local": "Pardubický",
+        "en": "Pardubice",
+        "slug": "pardubice-cz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ07",
+        "level": 1,
+        "name": {
+          "local": "Pardubický",
+          "en": "Pardubice",
+          "slug": "pardubice-cz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.844",
+      "lon": "16.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ07L015",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Prosec",
+      "en": "Prosec",
+      "slug": "prosec-cz07l015"
+    },
+    "code": {
+      "id": "CZ07L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ07",
+      "level": 1,
+      "name": {
+        "local": "Pardubický",
+        "en": "Pardubice",
+        "slug": "pardubice-cz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ07",
+        "level": 1,
+        "name": {
+          "local": "Pardubický",
+          "en": "Pardubice",
+          "slug": "pardubice-cz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.806",
+      "lon": "16.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ07L004",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Seč",
+      "en": "Seč",
+      "slug": "sec-cz07l004"
+    },
+    "code": {
+      "id": "CZ07L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ07",
+      "level": 1,
+      "name": {
+        "local": "Pardubický",
+        "en": "Pardubice",
+        "slug": "pardubice-cz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ07",
+        "level": 1,
+        "name": {
+          "local": "Pardubický",
+          "en": "Pardubice",
+          "slug": "pardubice-cz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.847",
+      "lon": "15.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ07L003",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaholice",
+      "en": "Zaholice",
+      "slug": "zaholice-cz07l003"
+    },
+    "code": {
+      "id": "CZ07L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ07",
+      "level": 1,
+      "name": {
+        "local": "Pardubický",
+        "en": "Pardubice",
+        "slug": "pardubice-cz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ07",
+        "level": 1,
+        "name": {
+          "local": "Pardubický",
+          "en": "Pardubice",
+          "slug": "pardubice-cz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.066",
+      "lon": "15.986"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

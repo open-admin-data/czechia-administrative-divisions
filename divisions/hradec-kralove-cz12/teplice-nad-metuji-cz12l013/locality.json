@@ -1,0 +1,45 @@
+{
+  "id": "CZ12L013",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Teplice nad Metují",
+    "en": "Teplice nad Metuji",
+    "slug": "teplice-nad-metuji-cz12l013"
+  },
+  "code": {
+    "id": "CZ12L013",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ12",
+    "level": 1,
+    "name": {
+      "local": "Královéhradecký",
+      "en": "Hradec Králové",
+      "slug": "hradec-kralove-cz12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.593",
+    "lon": "16.17"
+  },
+  "metadata": {},
+  "source": {}
+}

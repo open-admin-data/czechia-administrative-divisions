@@ -1,0 +1,45 @@
+{
+  "id": "CZ02L001",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Žlutava",
+    "en": "Zlutava",
+    "slug": "zlutava-cz02l001"
+  },
+  "code": {
+    "id": "CZ02L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ02",
+    "level": 1,
+    "name": {
+      "local": "Zlínský",
+      "en": "Zlín",
+      "slug": "zlin-cz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ02",
+      "level": 1,
+      "name": {
+        "local": "Zlínský",
+        "en": "Zlín",
+        "slug": "zlin-cz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.2",
+    "lon": "17.49"
+  },
+  "metadata": {},
+  "source": {}
+}

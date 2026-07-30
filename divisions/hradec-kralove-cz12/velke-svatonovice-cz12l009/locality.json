@@ -1,0 +1,45 @@
+{
+  "id": "CZ12L009",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Velké Svatoňovice",
+    "en": "Velke Svatonovice",
+    "slug": "velke-svatonovice-cz12l009"
+  },
+  "code": {
+    "id": "CZ12L009",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ12",
+    "level": 1,
+    "name": {
+      "local": "Královéhradecký",
+      "en": "Hradec Králové",
+      "slug": "hradec-kralove-cz12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.532",
+    "lon": "16.029"
+  },
+  "metadata": {},
+  "source": {}
+}

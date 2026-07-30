@@ -1,0 +1,45 @@
+{
+  "id": "CZ04L002",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Vilémov",
+    "en": "Vilemov",
+    "slug": "vilemov-cz04l002"
+  },
+  "code": {
+    "id": "CZ04L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ04",
+    "level": 1,
+    "name": {
+      "local": "Vysočina",
+      "en": "Vysocina",
+      "slug": "vysocina-cz04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ04",
+      "level": 1,
+      "name": {
+        "local": "Vysočina",
+        "en": "Vysocina",
+        "slug": "vysocina-cz04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.816",
+    "lon": "15.536"
+  },
+  "metadata": {},
+  "source": {}
+}

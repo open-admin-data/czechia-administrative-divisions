@@ -1,0 +1,33 @@
+{
+  "id": "CZ11",
+  "level": 1,
+  "level_name": {
+    "local": "Kraj",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Středočeský",
+    "en": "Central Bohemian",
+    "slug": "central-bohemian-cz11"
+  },
+  "code": {
+    "id": "CZ11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 54
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.007",
+    "lon": "15.003"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cz/regions/central-bohemian-cz11/",
+    "api": "https://openadmindata.org/api/cz/"
+  }
+}

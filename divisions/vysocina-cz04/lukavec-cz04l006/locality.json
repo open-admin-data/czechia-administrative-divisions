@@ -1,0 +1,45 @@
+{
+  "id": "CZ04L006",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Lukavec",
+    "en": "Lukavec",
+    "slug": "lukavec-cz04l006"
+  },
+  "code": {
+    "id": "CZ04L006",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ04",
+    "level": 1,
+    "name": {
+      "local": "Vysočina",
+      "en": "Vysocina",
+      "slug": "vysocina-cz04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ04",
+      "level": 1,
+      "name": {
+        "local": "Vysočina",
+        "en": "Vysocina",
+        "slug": "vysocina-cz04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.565",
+    "lon": "14.99"
+  },
+  "metadata": {},
+  "source": {}
+}

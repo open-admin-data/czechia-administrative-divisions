@@ -1,0 +1,45 @@
+{
+  "id": "CZ01L009",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Český Rudolec",
+    "en": "Cesky Rudolec",
+    "slug": "cesky-rudolec-cz01l009"
+  },
+  "code": {
+    "id": "CZ01L009",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ01",
+    "level": 1,
+    "name": {
+      "local": "Jihočeský",
+      "en": "South Bohemian",
+      "slug": "south-bohemian-cz01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.068",
+    "lon": "15.324"
+  },
+  "metadata": {},
+  "source": {}
+}

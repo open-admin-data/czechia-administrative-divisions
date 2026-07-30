@@ -1,0 +1,33 @@
+{
+  "id": "CZ09",
+  "level": 1,
+  "level_name": {
+    "local": "Kraj",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Moravskoslezský",
+    "en": "Moravian-Silesian",
+    "slug": "moravian-silesian-cz09"
+  },
+  "code": {
+    "id": "CZ09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 34
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.759",
+    "lon": "18.109"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cz/regions/moravian-silesian-cz09/",
+    "api": "https://openadmindata.org/api/cz/"
+  }
+}

@@ -1,0 +1,1397 @@
+[
+  {
+    "id": "CZ10L016",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ã… ternberk",
+      "en": "A… ternberk",
+      "slug": "a-ternberk-cz10l016"
+    },
+    "code": {
+      "id": "CZ10L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.73",
+      "lon": "17.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L021",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bílá Lhota",
+      "en": "Bila Lhota",
+      "slug": "bila-lhota-cz10l021"
+    },
+    "code": {
+      "id": "CZ10L021",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.71",
+      "lon": "16.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L009",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bochoř",
+      "en": "Bochor",
+      "slug": "bochor-cz10l009"
+    },
+    "code": {
+      "id": "CZ10L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.421",
+      "lon": "17.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L023",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouzov",
+      "en": "Bouzov",
+      "slug": "bouzov-cz10l023"
+    },
+    "code": {
+      "id": "CZ10L023",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.704",
+      "lon": "16.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L012",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Čelechovice na Hané",
+      "en": "Celechovice na Hane",
+      "slug": "celechovice-na-hane-cz10l012"
+    },
+    "code": {
+      "id": "CZ10L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.516",
+      "lon": "17.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L020",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ceská Ves",
+      "en": "Ceska Ves",
+      "slug": "ceska-ves-cz10l020"
+    },
+    "code": {
+      "id": "CZ10L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.257",
+      "lon": "17.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L001",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dolní Bohdíkov",
+      "en": "Dolni Bohdikov",
+      "slug": "dolni-bohdikov-cz10l001"
+    },
+    "code": {
+      "id": "CZ10L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.01",
+      "lon": "16.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L005",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dolní Libina",
+      "en": "Dolni Libina",
+      "slug": "dolni-libina-cz10l005"
+    },
+    "code": {
+      "id": "CZ10L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.858",
+      "lon": "17.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L002",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dolní Studénky",
+      "en": "Dolni Studenky",
+      "slug": "dolni-studenky-cz10l002"
+    },
+    "code": {
+      "id": "CZ10L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.935",
+      "lon": "16.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L029",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dolni Ujezd",
+      "en": "Dolni Ujezd",
+      "slug": "dolni-ujezd-cz10l029"
+    },
+    "code": {
+      "id": "CZ10L029",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.546",
+      "lon": "17.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L018",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Drahanovice",
+      "en": "Drahanovice",
+      "slug": "drahanovice-cz10l018"
+    },
+    "code": {
+      "id": "CZ10L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.579",
+      "lon": "17.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L025",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dub nad Moravou",
+      "en": "Dub nad Moravou",
+      "slug": "dub-nad-moravou-cz10l025"
+    },
+    "code": {
+      "id": "CZ10L025",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.482",
+      "lon": "17.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L006",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Horní Å těpánov",
+      "en": "Horni A tepanov",
+      "slug": "horni-a-tepanov-cz10l006"
+    },
+    "code": {
+      "id": "CZ10L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.549",
+      "lon": "16.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L031",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kojetin",
+      "en": "Kojetin",
+      "slug": "kojetin-cz10l031"
+    },
+    "code": {
+      "id": "CZ10L031",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.352",
+      "lon": "17.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L027",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kralice na Hane",
+      "en": "Kralice na Hane",
+      "slug": "kralice-na-hane-cz10l027"
+    },
+    "code": {
+      "id": "CZ10L027",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.463",
+      "lon": "17.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L024",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Loučná nad Desnou",
+      "en": "Loučna nad Desnou",
+      "slug": "loucna-nad-desnou-cz10l024"
+    },
+    "code": {
+      "id": "CZ10L024",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.074",
+      "lon": "17.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L026",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Medlov",
+      "en": "Medlov",
+      "slug": "medlov-cz10l026"
+    },
+    "code": {
+      "id": "CZ10L026",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.788",
+      "lon": "17.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L013",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Město Libavá",
+      "en": "Mesto Libava",
+      "slug": "mesto-libava-cz10l013"
+    },
+    "code": {
+      "id": "CZ10L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.722",
+      "lon": "17.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L022",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moravičany",
+      "en": "Moravičany",
+      "slug": "moravicany-cz10l022"
+    },
+    "code": {
+      "id": "CZ10L022",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.757",
+      "lon": "16.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L010",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Náklo",
+      "en": "Naklo",
+      "slug": "naklo-cz10l010"
+    },
+    "code": {
+      "id": "CZ10L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.655",
+      "lon": "17.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L028",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nemcice nad Hanou",
+      "en": "Nemcice nad Hanou",
+      "slug": "nemcice-nad-hanou-cz10l028"
+    },
+    "code": {
+      "id": "CZ10L028",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.342",
+      "lon": "17.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L004",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oskava",
+      "en": "Oskava",
+      "slug": "oskava-cz10l004"
+    },
+    "code": {
+      "id": "CZ10L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.895",
+      "lon": "17.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L015",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Písečná",
+      "en": "Pisečna",
+      "slug": "pisecna-cz10l015"
+    },
+    "code": {
+      "id": "CZ10L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.273",
+      "lon": "17.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L017",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Potštát",
+      "en": "Potstat",
+      "slug": "potstat-cz10l017"
+    },
+    "code": {
+      "id": "CZ10L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.637",
+      "lon": "17.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L003",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Příkazy",
+      "en": "Prikazy",
+      "slug": "prikazy-cz10l003"
+    },
+    "code": {
+      "id": "CZ10L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.644",
+      "lon": "17.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L007",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ptení",
+      "en": "Pteni",
+      "slug": "pteni-cz10l007"
+    },
+    "code": {
+      "id": "CZ10L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.512",
+      "lon": "16.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L030",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Stepanov",
+      "en": "Stepanov",
+      "slug": "stepanov-cz10l030"
+    },
+    "code": {
+      "id": "CZ10L030",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.162",
+      "lon": "16.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L008",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Těšetice",
+      "en": "Tesetice",
+      "slug": "tesetice-cz10l008"
+    },
+    "code": {
+      "id": "CZ10L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.593",
+      "lon": "17.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L011",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tršice",
+      "en": "Trsice",
+      "slug": "trsice-cz10l011"
+    },
+    "code": {
+      "id": "CZ10L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.542",
+      "lon": "17.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L014",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Věrovany",
+      "en": "Verovany",
+      "slug": "verovany-cz10l014"
+    },
+    "code": {
+      "id": "CZ10L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.461",
+      "lon": "17.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ10L019",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Vrbátky",
+      "en": "Vrbatky",
+      "slug": "vrbatky-cz10l019"
+    },
+    "code": {
+      "id": "CZ10L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ10",
+        "level": 1,
+        "name": {
+          "local": "Olomoucký",
+          "en": "Olomouc",
+          "slug": "olomouc-cz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.508",
+      "lon": "17.2"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

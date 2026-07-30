@@ -1,0 +1,45 @@
+{
+  "id": "CZ08L004",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Dolní Žandov",
+    "en": "Dolni Zandov",
+    "slug": "dolni-zandov-cz08l004"
+  },
+  "code": {
+    "id": "CZ08L004",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ08",
+    "level": 1,
+    "name": {
+      "local": "Karlovarský",
+      "en": "Karlovy Vary",
+      "slug": "karlovy-vary-cz08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ08",
+      "level": 1,
+      "name": {
+        "local": "Karlovarský",
+        "en": "Karlovy Vary",
+        "slug": "karlovy-vary-cz08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.018",
+    "lon": "12.551"
+  },
+  "metadata": {},
+  "source": {}
+}

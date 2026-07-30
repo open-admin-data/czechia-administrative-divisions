@@ -1,0 +1,45 @@
+{
+  "id": "CZ09L012",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Ã… tramberk",
+    "en": "A… tramberk",
+    "slug": "a-tramberk-cz09l012"
+  },
+  "code": {
+    "id": "CZ09L012",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ09",
+    "level": 1,
+    "name": {
+      "local": "Moravskoslezský",
+      "en": "Moravian-Silesian",
+      "slug": "moravian-silesian-cz09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.592",
+    "lon": "18.117"
+  },
+  "metadata": {},
+  "source": {}
+}

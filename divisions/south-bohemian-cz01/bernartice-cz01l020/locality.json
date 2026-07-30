@@ -1,0 +1,45 @@
+{
+  "id": "CZ01L020",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Bernartice",
+    "en": "Bernartice",
+    "slug": "bernartice-cz01l020"
+  },
+  "code": {
+    "id": "CZ01L020",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ01",
+    "level": 1,
+    "name": {
+      "local": "Jihočeský",
+      "en": "South Bohemian",
+      "slug": "south-bohemian-cz01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.369",
+    "lon": "14.381"
+  },
+  "metadata": {},
+  "source": {}
+}

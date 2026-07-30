@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Czechia Administrative Divisions Dataset"
+version: "2026.07"
+date-released: "2026-07-30"
+url: "https://github.com/open-admin-data/czechia-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/czechia-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - czechia
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Czechia's administrative hierarchy:
+  14 regions, 303 localitys.
+  Bilingual with coordinates and postal codes where available.

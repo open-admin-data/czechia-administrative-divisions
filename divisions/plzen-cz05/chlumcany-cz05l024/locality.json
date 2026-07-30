@@ -1,0 +1,45 @@
+{
+  "id": "CZ05L024",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Chlumcany",
+    "en": "Chlumcany",
+    "slug": "chlumcany-cz05l024"
+  },
+  "code": {
+    "id": "CZ05L024",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ05",
+    "level": 1,
+    "name": {
+      "local": "Plzeňský",
+      "en": "Plzeň",
+      "slug": "plzen-cz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.633",
+    "lon": "13.313"
+  },
+  "metadata": {},
+  "source": {}
+}

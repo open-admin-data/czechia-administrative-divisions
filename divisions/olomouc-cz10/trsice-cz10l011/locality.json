@@ -1,0 +1,45 @@
+{
+  "id": "CZ10L011",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Tršice",
+    "en": "Trsice",
+    "slug": "trsice-cz10l011"
+  },
+  "code": {
+    "id": "CZ10L011",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ10",
+    "level": 1,
+    "name": {
+      "local": "Olomoucký",
+      "en": "Olomouc",
+      "slug": "olomouc-cz10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.542",
+    "lon": "17.425"
+  },
+  "metadata": {},
+  "source": {}
+}

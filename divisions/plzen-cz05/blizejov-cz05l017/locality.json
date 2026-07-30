@@ -1,0 +1,45 @@
+{
+  "id": "CZ05L017",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Blížejov",
+    "en": "Blizejov",
+    "slug": "blizejov-cz05l017"
+  },
+  "code": {
+    "id": "CZ05L017",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ05",
+    "level": 1,
+    "name": {
+      "local": "Plzeňský",
+      "en": "Plzeň",
+      "slug": "plzen-cz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.5",
+    "lon": "12.989"
+  },
+  "metadata": {},
+  "source": {}
+}

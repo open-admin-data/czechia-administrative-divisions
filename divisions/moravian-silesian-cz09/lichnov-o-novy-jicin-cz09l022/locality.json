@@ -1,0 +1,45 @@
+{
+  "id": "CZ09L022",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Lichnov (o. Nový Jičín)",
+    "en": "Lichnov (o. Novy Jičin)",
+    "slug": "lichnov-o-novy-jicin-cz09l022"
+  },
+  "code": {
+    "id": "CZ09L022",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ09",
+    "level": 1,
+    "name": {
+      "local": "Moravskoslezský",
+      "en": "Moravian-Silesian",
+      "slug": "moravian-silesian-cz09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.564",
+    "lon": "18.169"
+  },
+  "metadata": {},
+  "source": {}
+}

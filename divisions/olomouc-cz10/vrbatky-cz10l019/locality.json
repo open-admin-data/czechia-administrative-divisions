@@ -1,0 +1,45 @@
+{
+  "id": "CZ10L019",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Vrbátky",
+    "en": "Vrbatky",
+    "slug": "vrbatky-cz10l019"
+  },
+  "code": {
+    "id": "CZ10L019",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ10",
+    "level": 1,
+    "name": {
+      "local": "Olomoucký",
+      "en": "Olomouc",
+      "slug": "olomouc-cz10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.508",
+    "lon": "17.2"
+  },
+  "metadata": {},
+  "source": {}
+}

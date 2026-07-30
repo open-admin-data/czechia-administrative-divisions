@@ -1,0 +1,45 @@
+{
+  "id": "CZ04L015",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Velky Beranov",
+    "en": "Velky Beranov",
+    "slug": "velky-beranov-cz04l015"
+  },
+  "code": {
+    "id": "CZ04L015",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ04",
+    "level": 1,
+    "name": {
+      "local": "Vysočina",
+      "en": "Vysocina",
+      "slug": "vysocina-cz04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ04",
+      "level": 1,
+      "name": {
+        "local": "Vysočina",
+        "en": "Vysocina",
+        "slug": "vysocina-cz04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.405",
+    "lon": "15.667"
+  },
+  "metadata": {},
+  "source": {}
+}

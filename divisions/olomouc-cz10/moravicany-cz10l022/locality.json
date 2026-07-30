@@ -1,0 +1,45 @@
+{
+  "id": "CZ10L022",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Moravičany",
+    "en": "Moravičany",
+    "slug": "moravicany-cz10l022"
+  },
+  "code": {
+    "id": "CZ10L022",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ10",
+    "level": 1,
+    "name": {
+      "local": "Olomoucký",
+      "en": "Olomouc",
+      "slug": "olomouc-cz10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.757",
+    "lon": "16.96"
+  },
+  "metadata": {},
+  "source": {}
+}

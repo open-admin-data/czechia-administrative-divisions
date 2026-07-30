@@ -1,0 +1,129 @@
+# Ústí nad Labem — Czechia Administrative Divisions
+
+> 24 localitys
+> Code: CZ13
+> Coordinates: 50.491, 13.789
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Localitys
+
+### Bechlín (Bechlin)
+
+Code: CZ13L017, Coordinates: 50.416, 14.341
+
+
+### Bílina Kyselka (Bilina Kyselka)
+
+Code: CZ13L004, Coordinates: 50.55, 13.767
+
+
+### Brezno
+
+Code: CZ13L024, Coordinates: 50.402, 13.421
+
+
+### Budyne nad Ohri
+
+Code: CZ13L023, Coordinates: 50.404, 14.126
+
+
+### Hoštka (Hostka)
+
+Code: CZ13L007, Coordinates: 50.489, 14.335
+
+
+### Jiříkov (Jirikov)
+
+Code: CZ13L015, Coordinates: 50.995, 14.569
+
+
+### Krásná Lípa (Krasna Lipa)
+
+Code: CZ13L016, Coordinates: 50.484, 13.358
+
+
+### Křešice (Kresice)
+
+Code: CZ13L013, Coordinates: 50.523, 14.215
+
+
+### Liběšice (Libesice)
+
+Code: CZ13L018, Coordinates: 50.569, 14.289
+
+
+### Lom u Mostu
+
+Code: CZ13L021, Coordinates: 50.593, 13.657
+
+
+### Měcholupy (Mecholupy)
+
+Code: CZ13L019, Coordinates: 50.267, 13.537
+
+
+### Perštejn (Perstejn)
+
+Code: CZ13L020, Coordinates: 50.382, 13.11
+
+
+### Peruc
+
+Code: CZ13L011, Coordinates: 50.343, 13.96
+
+
+### Polepy
+
+Code: CZ13L014, Coordinates: 50.506, 14.264
+
+
+### Radonice
+
+Code: CZ13L003, Coordinates: 50.298, 13.285
+
+
+### Řehlovice (Rehlovice)
+
+Code: CZ13L009, Coordinates: 50.607, 13.954
+
+
+### Staré Křečany (Stare Krečany)
+
+Code: CZ13L001, Coordinates: 50.95, 14.496
+
+
+### Údlice (Udlice)
+
+Code: CZ13L002, Coordinates: 50.441, 13.457
+
+
+### Úštěk (Ustek)
+
+Code: CZ13L006, Coordinates: 50.585, 14.343
+
+
+### Velemín (Velemin)
+
+Code: CZ13L005, Coordinates: 50.539, 13.977
+
+
+### Vernerice
+
+Code: CZ13L012, Coordinates: 50.661, 14.301
+
+
+### Vilémov (Vilemov)
+
+Code: CZ13L022, Coordinates: 50.991, 14.335
+
+
+### Zabrušany (Zabrusany)
+
+Code: CZ13L010, Coordinates: 50.605, 13.787
+
+
+### Žitenice (Zitenice)
+
+Code: CZ13L008, Coordinates: 50.555, 14.157
+
+

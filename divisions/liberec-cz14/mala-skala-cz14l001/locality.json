@@ -1,0 +1,45 @@
+{
+  "id": "CZ14L001",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Malá Skála",
+    "en": "Mala Skala",
+    "slug": "mala-skala-cz14l001"
+  },
+  "code": {
+    "id": "CZ14L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ14",
+    "level": 1,
+    "name": {
+      "local": "Liberecký",
+      "en": "Liberec",
+      "slug": "liberec-cz14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ14",
+      "level": 1,
+      "name": {
+        "local": "Liberecký",
+        "en": "Liberec",
+        "slug": "liberec-cz14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.646",
+    "lon": "15.195"
+  },
+  "metadata": {},
+  "source": {}
+}

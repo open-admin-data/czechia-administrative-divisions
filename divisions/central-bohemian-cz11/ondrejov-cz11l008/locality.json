@@ -1,0 +1,45 @@
+{
+  "id": "CZ11L008",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Ondřejov",
+    "en": "Ondrejov",
+    "slug": "ondrejov-cz11l008"
+  },
+  "code": {
+    "id": "CZ11L008",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ11",
+    "level": 1,
+    "name": {
+      "local": "Středočeský",
+      "en": "Central Bohemian",
+      "slug": "central-bohemian-cz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.905",
+    "lon": "14.784"
+  },
+  "metadata": {},
+  "source": {}
+}

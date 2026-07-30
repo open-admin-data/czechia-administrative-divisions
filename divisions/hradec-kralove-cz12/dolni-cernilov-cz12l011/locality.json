@@ -1,0 +1,45 @@
+{
+  "id": "CZ12L011",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Dolní Černilov",
+    "en": "Dolni Cernilov",
+    "slug": "dolni-cernilov-cz12l011"
+  },
+  "code": {
+    "id": "CZ12L011",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ12",
+    "level": 1,
+    "name": {
+      "local": "Královéhradecký",
+      "en": "Hradec Králové",
+      "slug": "hradec-kralove-cz12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.261",
+    "lon": "15.961"
+  },
+  "metadata": {},
+  "source": {}
+}

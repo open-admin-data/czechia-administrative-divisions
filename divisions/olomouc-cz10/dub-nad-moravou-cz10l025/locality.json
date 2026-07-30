@@ -1,0 +1,45 @@
+{
+  "id": "CZ10L025",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Dub nad Moravou",
+    "en": "Dub nad Moravou",
+    "slug": "dub-nad-moravou-cz10l025"
+  },
+  "code": {
+    "id": "CZ10L025",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ10",
+    "level": 1,
+    "name": {
+      "local": "Olomoucký",
+      "en": "Olomouc",
+      "slug": "olomouc-cz10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ10",
+      "level": 1,
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.482",
+    "lon": "17.277"
+  },
+  "metadata": {},
+  "source": {}
+}

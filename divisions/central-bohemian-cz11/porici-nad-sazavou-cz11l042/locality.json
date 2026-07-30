@@ -1,0 +1,45 @@
+{
+  "id": "CZ11L042",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Poříčí nad Sázavou",
+    "en": "Poriči nad Sazavou",
+    "slug": "porici-nad-sazavou-cz11l042"
+  },
+  "code": {
+    "id": "CZ11L042",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ11",
+    "level": 1,
+    "name": {
+      "local": "Středočeský",
+      "en": "Central Bohemian",
+      "slug": "central-bohemian-cz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.839",
+    "lon": "14.674"
+  },
+  "metadata": {},
+  "source": {}
+}

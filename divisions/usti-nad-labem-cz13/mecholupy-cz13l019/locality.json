@@ -1,0 +1,45 @@
+{
+  "id": "CZ13L019",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Měcholupy",
+    "en": "Mecholupy",
+    "slug": "mecholupy-cz13l019"
+  },
+  "code": {
+    "id": "CZ13L019",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ13",
+    "level": 1,
+    "name": {
+      "local": "Ústecký",
+      "en": "Ústí nad Labem",
+      "slug": "usti-nad-labem-cz13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ13",
+      "level": 1,
+      "name": {
+        "local": "Ústecký",
+        "en": "Ústí nad Labem",
+        "slug": "usti-nad-labem-cz13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.267",
+    "lon": "13.537"
+  },
+  "metadata": {},
+  "source": {}
+}

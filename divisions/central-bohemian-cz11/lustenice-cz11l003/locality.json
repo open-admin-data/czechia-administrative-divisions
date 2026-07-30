@@ -1,0 +1,45 @@
+{
+  "id": "CZ11L003",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Luštěnice",
+    "en": "Lustenice",
+    "slug": "lustenice-cz11l003"
+  },
+  "code": {
+    "id": "CZ11L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ11",
+    "level": 1,
+    "name": {
+      "local": "Středočeský",
+      "en": "Central Bohemian",
+      "slug": "central-bohemian-cz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.323",
+    "lon": "14.937"
+  },
+  "metadata": {},
+  "source": {}
+}

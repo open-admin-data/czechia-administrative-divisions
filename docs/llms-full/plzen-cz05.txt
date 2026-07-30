@@ -1,0 +1,159 @@
+# Plzeň — Czechia Administrative Divisions
+
+> 30 localitys
+> Code: CZ05
+> Coordinates: 49.622, 13.222
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Localitys
+
+### Bezdružice (Bezdruzice)
+
+Code: CZ05L004, Coordinates: 49.907, 12.971
+
+
+### Blížejov (Blizejov)
+
+Code: CZ05L017, Coordinates: 49.5, 12.989
+
+
+### Černošín (Cernosin)
+
+Code: CZ05L011, Coordinates: 49.816, 12.884
+
+
+### Chlumcany
+
+Code: CZ05L024, Coordinates: 49.633, 13.313
+
+
+### Chrast
+
+Code: CZ05L029, Coordinates: 49.793, 13.494
+
+
+### Dobřív (Dobriv)
+
+Code: CZ05L002, Coordinates: 49.716, 13.687
+
+
+### Hartmanice
+
+Code: CZ05L015, Coordinates: 49.169, 13.455
+
+
+### Heřmanova Huť (Hermanova Hut)
+
+Code: CZ05L009, Coordinates: 49.707, 13.101
+
+
+### Horni Briza
+
+Code: CZ05L023, Coordinates: 49.84, 13.356
+
+
+### Hostouň (Hostoun)
+
+Code: CZ05L019, Coordinates: 49.56, 12.771
+
+
+### Hradek
+
+Code: CZ05L021, Coordinates: 49.261, 13.499
+
+
+### Hromnice
+
+Code: CZ05L005, Coordinates: 49.849, 13.441
+
+
+### Kasejovice
+
+Code: CZ05L007, Coordinates: 49.463, 13.741
+
+
+### Kolinec
+
+Code: CZ05L030, Coordinates: 49.299, 13.439
+
+
+### Manětín (Manetin)
+
+Code: CZ05L006, Coordinates: 49.992, 13.233
+
+
+### Měčín (Mečin)
+
+Code: CZ05L010, Coordinates: 49.48, 13.403
+
+
+### Meclov
+
+Code: CZ05L013, Coordinates: 49.506, 12.881
+
+
+### Merklín (Merklin)
+
+Code: CZ05L003, Coordinates: 49.56, 13.198
+
+
+### Mirosov
+
+Code: CZ05L022, Coordinates: 49.688, 13.658
+
+
+### Mrákov (Mrakov)
+
+Code: CZ05L014, Coordinates: 49.403, 12.951
+
+
+### Osek
+
+Code: CZ05L020, Coordinates: 49.776, 13.591
+
+
+### Plana
+
+Code: CZ05L026, Coordinates: 49.868, 12.744
+
+
+### Plánice (Planice)
+
+Code: CZ05L016, Coordinates: 49.39, 13.471
+
+
+### Postřekov (Postrekov)
+
+Code: CZ05L008, Coordinates: 49.458, 12.807
+
+
+### Přimda (Primda)
+
+Code: CZ05L012, Coordinates: 49.675, 12.674
+
+
+### Strasice
+
+Code: CZ05L025, Coordinates: 49.736, 13.758
+
+
+### Straz
+
+Code: CZ05L027, Coordinates: 49.669, 12.775
+
+
+### Strážov (Strazov)
+
+Code: CZ05L001, Coordinates: 49.303, 13.246
+
+
+### Svihov
+
+Code: CZ05L028, Coordinates: 49.481, 13.284
+
+
+### Všeruby (Vseruby)
+
+Code: CZ05L018, Coordinates: 49.842, 13.229
+
+

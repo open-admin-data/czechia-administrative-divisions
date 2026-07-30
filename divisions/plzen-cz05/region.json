@@ -1,0 +1,33 @@
+{
+  "id": "CZ05",
+  "level": 1,
+  "level_name": {
+    "local": "Kraj",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Plzeňský",
+    "en": "Plzeň",
+    "slug": "plzen-cz05"
+  },
+  "code": {
+    "id": "CZ05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 30
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.622",
+    "lon": "13.222"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cz/regions/plzen-cz05/",
+    "api": "https://openadmindata.org/api/cz/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CZ01L012",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Čimelice",
+    "en": "Cimelice",
+    "slug": "cimelice-cz01l012"
+  },
+  "code": {
+    "id": "CZ01L012",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ01",
+    "level": 1,
+    "name": {
+      "local": "Jihočeský",
+      "en": "South Bohemian",
+      "slug": "south-bohemian-cz01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.466",
+    "lon": "14.069"
+  },
+  "metadata": {},
+  "source": {}
+}

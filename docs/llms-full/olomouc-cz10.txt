@@ -1,0 +1,164 @@
+# Olomouc — Czechia Administrative Divisions
+
+> 31 localitys
+> Code: CZ10
+> Coordinates: 49.614, 17.151
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Localitys
+
+### Ã… ternberk (A… ternberk)
+
+Code: CZ10L016, Coordinates: 49.73, 17.299
+
+
+### Bílá Lhota (Bila Lhota)
+
+Code: CZ10L021, Coordinates: 49.71, 16.975
+
+
+### Bochoř (Bochor)
+
+Code: CZ10L009, Coordinates: 49.421, 17.428
+
+
+### Bouzov
+
+Code: CZ10L023, Coordinates: 49.704, 16.893
+
+
+### Čelechovice na Hané (Celechovice na Hane)
+
+Code: CZ10L012, Coordinates: 49.516, 17.094
+
+
+### Ceská Ves (Ceska Ves)
+
+Code: CZ10L020, Coordinates: 50.257, 17.228
+
+
+### Dolní Bohdíkov (Dolni Bohdikov)
+
+Code: CZ10L001, Coordinates: 50.01, 16.904
+
+
+### Dolní Libina (Dolni Libina)
+
+Code: CZ10L005, Coordinates: 49.858, 17.107
+
+
+### Dolní Studénky (Dolni Studenky)
+
+Code: CZ10L002, Coordinates: 49.935, 16.971
+
+
+### Dolni Ujezd
+
+Code: CZ10L029, Coordinates: 49.546, 17.535
+
+
+### Drahanovice
+
+Code: CZ10L018, Coordinates: 49.579, 17.077
+
+
+### Dub nad Moravou
+
+Code: CZ10L025, Coordinates: 49.482, 17.277
+
+
+### Horní Å těpánov (Horni A tepanov)
+
+Code: CZ10L006, Coordinates: 49.549, 16.791
+
+
+### Kojetin
+
+Code: CZ10L031, Coordinates: 49.352, 17.302
+
+
+### Kralice na Hane
+
+Code: CZ10L027, Coordinates: 49.463, 17.18
+
+
+### Loučná nad Desnou (Loučna nad Desnou)
+
+Code: CZ10L024, Coordinates: 50.074, 17.091
+
+
+### Medlov
+
+Code: CZ10L026, Coordinates: 49.788, 17.063
+
+
+### Město Libavá (Mesto Libava)
+
+Code: CZ10L013, Coordinates: 49.722, 17.52
+
+
+### Moravičany
+
+Code: CZ10L022, Coordinates: 49.757, 16.96
+
+
+### Náklo (Naklo)
+
+Code: CZ10L010, Coordinates: 49.655, 17.13
+
+
+### Nemcice nad Hanou
+
+Code: CZ10L028, Coordinates: 49.342, 17.206
+
+
+### Oskava
+
+Code: CZ10L004, Coordinates: 49.895, 17.132
+
+
+### Písečná (Pisečna)
+
+Code: CZ10L015, Coordinates: 50.273, 17.254
+
+
+### Potštát (Potstat)
+
+Code: CZ10L017, Coordinates: 49.637, 17.652
+
+
+### Příkazy (Prikazy)
+
+Code: CZ10L003, Coordinates: 49.644, 17.143
+
+
+### Ptení (Pteni)
+
+Code: CZ10L007, Coordinates: 49.512, 16.961
+
+
+### Stepanov
+
+Code: CZ10L030, Coordinates: 50.162, 16.917
+
+
+### Těšetice (Tesetice)
+
+Code: CZ10L008, Coordinates: 49.593, 17.126
+
+
+### Tršice (Trsice)
+
+Code: CZ10L011, Coordinates: 49.542, 17.425
+
+
+### Věrovany (Verovany)
+
+Code: CZ10L014, Coordinates: 49.461, 17.288
+
+
+### Vrbátky (Vrbatky)
+
+Code: CZ10L019, Coordinates: 49.508, 17.2
+
+

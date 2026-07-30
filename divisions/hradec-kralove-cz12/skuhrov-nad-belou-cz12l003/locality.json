@@ -1,0 +1,45 @@
+{
+  "id": "CZ12L003",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Skuhrov nad Bělou",
+    "en": "Skuhrov nad Belou",
+    "slug": "skuhrov-nad-belou-cz12l003"
+  },
+  "code": {
+    "id": "CZ12L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ12",
+    "level": 1,
+    "name": {
+      "local": "Královéhradecký",
+      "en": "Hradec Králové",
+      "slug": "hradec-kralove-cz12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ12",
+      "level": 1,
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.229",
+    "lon": "16.292"
+  },
+  "metadata": {},
+  "source": {}
+}

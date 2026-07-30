@@ -1,0 +1,45 @@
+{
+  "id": "CZ01L001",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Jistebnice",
+    "en": "Jistebnice",
+    "slug": "jistebnice-cz01l001"
+  },
+  "code": {
+    "id": "CZ01L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ01",
+    "level": 1,
+    "name": {
+      "local": "Jihočeský",
+      "en": "South Bohemian",
+      "slug": "south-bohemian-cz01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ01",
+      "level": 1,
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.486",
+    "lon": "14.528"
+  },
+  "metadata": {},
+  "source": {}
+}

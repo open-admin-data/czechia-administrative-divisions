@@ -1,0 +1,2432 @@
+[
+  {
+    "id": "CZ11L018",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Å těchovice",
+      "en": "A techovice",
+      "slug": "a-techovice-cz11l018"
+    },
+    "code": {
+      "id": "CZ11L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.851",
+      "lon": "14.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L019",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ã… estajovice",
+      "en": "A… estajovice",
+      "slug": "a-estajovice-cz11l019"
+    },
+    "code": {
+      "id": "CZ11L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.108",
+      "lon": "14.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L023",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bohutín",
+      "en": "Bohutin",
+      "slug": "bohutin-cz11l023"
+    },
+    "code": {
+      "id": "CZ11L023",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.656",
+      "lon": "13.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L029",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Čechtice",
+      "en": "Cechtice",
+      "slug": "cechtice-cz11l029"
+    },
+    "code": {
+      "id": "CZ11L029",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.624",
+      "lon": "15.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L031",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Církvice",
+      "en": "Cirkvice",
+      "slug": "cirkvice-cz11l031"
+    },
+    "code": {
+      "id": "CZ11L031",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.946",
+      "lon": "15.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L013",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cítov",
+      "en": "Citov",
+      "slug": "citov-cz11l013"
+    },
+    "code": {
+      "id": "CZ11L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.372",
+      "lon": "14.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L035",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Davle",
+      "en": "Davle",
+      "slug": "davle-cz11l035"
+    },
+    "code": {
+      "id": "CZ11L035",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.892",
+      "lon": "14.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L037",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Divišov",
+      "en": "Divisov",
+      "slug": "divisov-cz11l037"
+    },
+    "code": {
+      "id": "CZ11L037",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.788",
+      "lon": "14.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L034",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dolní Beřkovice",
+      "en": "Dolni Berkovice",
+      "slug": "dolni-berkovice-cz11l034"
+    },
+    "code": {
+      "id": "CZ11L034",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.393",
+      "lon": "14.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L022",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hovorčovice",
+      "en": "Hovorčovice",
+      "slug": "hovorcovice-cz11l022"
+    },
+    "code": {
+      "id": "CZ11L022",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.179",
+      "lon": "14.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L017",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jirny",
+      "en": "Jirny",
+      "slug": "jirny-cz11l017"
+    },
+    "code": {
+      "id": "CZ11L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.116",
+      "lon": "14.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L007",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kamenný Přívoz",
+      "en": "Kamenny Privoz",
+      "slug": "kamenny-privoz-cz11l007"
+    },
+    "code": {
+      "id": "CZ11L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.863",
+      "lon": "14.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L039",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Klobuky",
+      "en": "Klobuky",
+      "slug": "klobuky-cz11l039"
+    },
+    "code": {
+      "id": "CZ11L039",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.294",
+      "lon": "13.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L006",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kněžmost",
+      "en": "Knezmost",
+      "slug": "knezmost-cz11l006"
+    },
+    "code": {
+      "id": "CZ11L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.489",
+      "lon": "15.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L051",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Komarov",
+      "en": "Komarov",
+      "slug": "komarov-cz11l051"
+    },
+    "code": {
+      "id": "CZ11L051",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.807",
+      "lon": "13.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L009",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kosova Hora",
+      "en": "Kosova Hora",
+      "slug": "kosova-hora-cz11l009"
+    },
+    "code": {
+      "id": "CZ11L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.654",
+      "lon": "14.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L030",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Krásná Hora nad Vltavou",
+      "en": "Krasna Hora nad Vltavou",
+      "slug": "krasna-hora-nad-vltavou-cz11l030"
+    },
+    "code": {
+      "id": "CZ11L030",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.605",
+      "lon": "14.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L012",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Křinec",
+      "en": "Krinec",
+      "slug": "krinec-cz11l012"
+    },
+    "code": {
+      "id": "CZ11L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.264",
+      "lon": "15.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L040",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lochovice",
+      "en": "Lochovice",
+      "slug": "lochovice-cz11l040"
+    },
+    "code": {
+      "id": "CZ11L040",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.853",
+      "lon": "13.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L004",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Loučeň",
+      "en": "Loučen",
+      "slug": "loucen-cz11l004"
+    },
+    "code": {
+      "id": "CZ11L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.285",
+      "lon": "15.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L003",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Luštěnice",
+      "en": "Lustenice",
+      "slug": "lustenice-cz11l003"
+    },
+    "code": {
+      "id": "CZ11L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.323",
+      "lon": "14.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L032",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Měšice",
+      "en": "Mesice",
+      "slug": "mesice-cz11l032"
+    },
+    "code": {
+      "id": "CZ11L032",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.198",
+      "lon": "14.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L054",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mnisek pod Brdy",
+      "en": "Mnisek pod Brdy",
+      "slug": "mnisek-pod-brdy-cz11l054"
+    },
+    "code": {
+      "id": "CZ11L054",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.867",
+      "lon": "14.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L047",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mukařov",
+      "en": "Mukarov",
+      "slug": "mukarov-cz11l047"
+    },
+    "code": {
+      "id": "CZ11L047",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.991",
+      "lon": "14.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L046",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "NaÃ¨eradec",
+      "en": "NaA¨eradec",
+      "slug": "naa-eradec-cz11l046"
+    },
+    "code": {
+      "id": "CZ11L046",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.61",
+      "lon": "14.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L001",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nehvizdy",
+      "en": "Nehvizdy",
+      "slug": "nehvizdy-cz11l001"
+    },
+    "code": {
+      "id": "CZ11L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.131",
+      "lon": "14.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L016",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nelahozeves",
+      "en": "Nelahozeves",
+      "slug": "nelahozeves-cz11l016"
+    },
+    "code": {
+      "id": "CZ11L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.261",
+      "lon": "14.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L011",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Netvořice",
+      "en": "Netvorice",
+      "slug": "netvorice-cz11l011"
+    },
+    "code": {
+      "id": "CZ11L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.816",
+      "lon": "14.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L008",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ondřejov",
+      "en": "Ondrejov",
+      "slug": "ondrejov-cz11l008"
+    },
+    "code": {
+      "id": "CZ11L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.905",
+      "lon": "14.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L010",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pavlíkov",
+      "en": "Pavlikov",
+      "slug": "pavlikov-cz11l010"
+    },
+    "code": {
+      "id": "CZ11L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.056",
+      "lon": "13.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L021",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pchery",
+      "en": "Pchery",
+      "slug": "pchery-cz11l021"
+    },
+    "code": {
+      "id": "CZ11L021",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.194",
+      "lon": "14.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L042",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Poříčí nad Sázavou",
+      "en": "Poriči nad Sazavou",
+      "slug": "porici-nad-sazavou-cz11l042"
+    },
+    "code": {
+      "id": "CZ11L042",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.839",
+      "lon": "14.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L038",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Postupice",
+      "en": "Postupice",
+      "slug": "postupice-cz11l038"
+    },
+    "code": {
+      "id": "CZ11L038",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.728",
+      "lon": "14.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L027",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Psáry",
+      "en": "Psary",
+      "slug": "psary-cz11l027"
+    },
+    "code": {
+      "id": "CZ11L027",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.936",
+      "lon": "14.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L020",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pyšely",
+      "en": "Pysely",
+      "slug": "pysely-cz11l020"
+    },
+    "code": {
+      "id": "CZ11L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.877",
+      "lon": "14.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L005",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Řež",
+      "en": "Rez",
+      "slug": "rez-cz11l005"
+    },
+    "code": {
+      "id": "CZ11L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.177",
+      "lon": "14.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L052",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sedlec",
+      "en": "Sedlec",
+      "slug": "sedlec-cz11l052"
+    },
+    "code": {
+      "id": "CZ11L052",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.964",
+      "lon": "15.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L045",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Starý Kolín",
+      "en": "Stary Kolin",
+      "slug": "stary-kolin-cz11l045"
+    },
+    "code": {
+      "id": "CZ11L045",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.01",
+      "lon": "15.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L050",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Suchdol",
+      "en": "Suchdol",
+      "slug": "suchdol-cz11l050"
+    },
+    "code": {
+      "id": "CZ11L050",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.952",
+      "lon": "15.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L002",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tišice",
+      "en": "Tisice",
+      "slug": "tisice-cz11l002"
+    },
+    "code": {
+      "id": "CZ11L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.27",
+      "lon": "14.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L043",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Třebotov",
+      "en": "Trebotov",
+      "slug": "trebotov-cz11l043"
+    },
+    "code": {
+      "id": "CZ11L043",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.972",
+      "lon": "14.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L026",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Trhový Å těpánov",
+      "en": "Trhovy A tepanov",
+      "slug": "trhovy-a-tepanov-cz11l026"
+    },
+    "code": {
+      "id": "CZ11L026",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.711",
+      "lon": "15.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L015",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tuchoměřice",
+      "en": "Tuchomerice",
+      "slug": "tuchomerice-cz11l015"
+    },
+    "code": {
+      "id": "CZ11L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.135",
+      "lon": "14.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L024",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Velké Přílepy",
+      "en": "Velke Prilepy",
+      "slug": "velke-prilepy-cz11l024"
+    },
+    "code": {
+      "id": "CZ11L024",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.161",
+      "lon": "14.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L033",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Veltruby",
+      "en": "Veltruby",
+      "slug": "veltruby-cz11l033"
+    },
+    "code": {
+      "id": "CZ11L033",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.071",
+      "lon": "15.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L053",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Vinarice",
+      "en": "Vinarice",
+      "slug": "vinarice-cz11l053"
+    },
+    "code": {
+      "id": "CZ11L053",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.176",
+      "lon": "14.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L049",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Vsetaty",
+      "en": "Vsetaty",
+      "slug": "vsetaty-cz11l049"
+    },
+    "code": {
+      "id": "CZ11L049",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.282",
+      "lon": "14.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L025",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Westetz",
+      "en": "Westetz",
+      "slug": "westetz-cz11l025"
+    },
+    "code": {
+      "id": "CZ11L025",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.981",
+      "lon": "14.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L041",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaječov",
+      "en": "Zaječov",
+      "slug": "zajecov-cz11l041"
+    },
+    "code": {
+      "id": "CZ11L041",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.774",
+      "lon": "13.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L048",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zd'ar",
+      "en": "Zd'ar",
+      "slug": "zd-ar-cz11l048"
+    },
+    "code": {
+      "id": "CZ11L048",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.544",
+      "lon": "15.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L036",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zdiby",
+      "en": "Zdiby",
+      "slug": "zdiby-cz11l036"
+    },
+    "code": {
+      "id": "CZ11L036",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.168",
+      "lon": "14.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L028",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Žiželice",
+      "en": "Zizelice",
+      "slug": "zizelice-cz11l028"
+    },
+    "code": {
+      "id": "CZ11L028",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.132",
+      "lon": "15.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L014",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zlenice",
+      "en": "Zlenice",
+      "slug": "zlenice-cz11l014"
+    },
+    "code": {
+      "id": "CZ11L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.288",
+      "lon": "14.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ11L044",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zvole",
+      "en": "Zvole",
+      "slug": "zvole-cz11l044"
+    },
+    "code": {
+      "id": "CZ11L044",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ11",
+        "level": 1,
+        "name": {
+          "local": "Středočeský",
+          "en": "Central Bohemian",
+          "slug": "central-bohemian-cz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.935",
+      "lon": "14.418"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

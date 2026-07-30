@@ -1,0 +1,45 @@
+{
+  "id": "CZ13L009",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Řehlovice",
+    "en": "Rehlovice",
+    "slug": "rehlovice-cz13l009"
+  },
+  "code": {
+    "id": "CZ13L009",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ13",
+    "level": 1,
+    "name": {
+      "local": "Ústecký",
+      "en": "Ústí nad Labem",
+      "slug": "usti-nad-labem-cz13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ13",
+      "level": 1,
+      "name": {
+        "local": "Ústecký",
+        "en": "Ústí nad Labem",
+        "slug": "usti-nad-labem-cz13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.607",
+    "lon": "13.954"
+  },
+  "metadata": {},
+  "source": {}
+}

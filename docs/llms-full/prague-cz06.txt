@@ -1,0 +1,14 @@
+# Prague — Czechia Administrative Divisions
+
+> 1 localitys
+> Code: CZ06
+> Coordinates: 50.074, 14.466
+> Last updated: 2026-07-30. License: CC-BY-4.0.
+
+## Localitys
+
+### Libcice nad Vltavou
+
+Code: CZ06L001, Coordinates: 50.198, 14.364
+
+

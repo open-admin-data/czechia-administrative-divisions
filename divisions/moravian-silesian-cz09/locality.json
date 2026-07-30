@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "CZ09L012",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ã… tramberk",
+      "en": "A… tramberk",
+      "slug": "a-tramberk-cz09l012"
+    },
+    "code": {
+      "id": "CZ09L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.592",
+      "lon": "18.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L020",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Branice",
+      "en": "Branice",
+      "slug": "branice-cz09l020"
+    },
+    "code": {
+      "id": "CZ09L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.064",
+      "lon": "17.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L027",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Brezova",
+      "en": "Brezova",
+      "slug": "brezova-cz09l027"
+    },
+    "code": {
+      "id": "CZ09L027",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.792",
+      "lon": "17.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L004",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Brumovice",
+      "en": "Brumovice",
+      "slug": "brumovice-cz09l004"
+    },
+    "code": {
+      "id": "CZ09L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.015",
+      "lon": "17.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L015",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chotbuz",
+      "en": "Chotbuz",
+      "slug": "chotbuz-cz09l015"
+    },
+    "code": {
+      "id": "CZ09L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.768",
+      "lon": "18.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L002",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chotěbuz",
+      "en": "Chotebuz",
+      "slug": "chotebuz-cz09l002"
+    },
+    "code": {
+      "id": "CZ09L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.768",
+      "lon": "18.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L032",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dolni Lhota",
+      "en": "Dolni Lhota",
+      "slug": "dolni-lhota-cz09l032"
+    },
+    "code": {
+      "id": "CZ09L032",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.842",
+      "lon": "18.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L023",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Frydlant nad Ostravici",
+      "en": "Frydlant nad Ostravici",
+      "slug": "frydlant-nad-ostravici-cz09l023"
+    },
+    "code": {
+      "id": "CZ09L023",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.593",
+      "lon": "18.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L013",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Holasovice",
+      "en": "Holasovice",
+      "slug": "holasovice-cz09l013"
+    },
+    "code": {
+      "id": "CZ09L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.998",
+      "lon": "17.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L009",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Horní Bludovice",
+      "en": "Horni Bludovice",
+      "slug": "horni-bludovice-cz09l009"
+    },
+    "code": {
+      "id": "CZ09L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.75",
+      "lon": "18.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L010",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Horní Město",
+      "en": "Horni Mesto",
+      "slug": "horni-mesto-cz09l010"
+    },
+    "code": {
+      "id": "CZ09L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.908",
+      "lon": "17.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L025",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hradec nad Moravici",
+      "en": "Hradec nad Moravici",
+      "slug": "hradec-nad-moravici-cz09l025"
+    },
+    "code": {
+      "id": "CZ09L025",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.87",
+      "lon": "17.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L026",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hradek",
+      "en": "Hradek",
+      "slug": "hradek-cz09l026"
+    },
+    "code": {
+      "id": "CZ09L026",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.617",
+      "lon": "18.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L019",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hukvaldy",
+      "en": "Hukvaldy",
+      "slug": "hukvaldy-cz09l019"
+    },
+    "code": {
+      "id": "CZ09L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.624",
+      "lon": "18.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L006",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jakartovice",
+      "en": "Jakartovice",
+      "slug": "jakartovice-cz09l006"
+    },
+    "code": {
+      "id": "CZ09L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.915",
+      "lon": "17.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L017",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Krmelin",
+      "en": "Krmelin",
+      "slug": "krmelin-cz09l017"
+    },
+    "code": {
+      "id": "CZ09L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.729",
+      "lon": "18.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L022",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lichnov (o. Nový Jičín)",
+      "en": "Lichnov (o. Novy Jičin)",
+      "slug": "lichnov-o-novy-jicin-cz09l022"
+    },
+    "code": {
+      "id": "CZ09L022",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.564",
+      "lon": "18.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L001",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Milíkov",
+      "en": "Milikov",
+      "slug": "milikov-cz09l001"
+    },
+    "code": {
+      "id": "CZ09L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.586",
+      "lon": "18.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L028",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mokre Lazce",
+      "en": "Mokre Lazce",
+      "slug": "mokre-lazce-cz09l028"
+    },
+    "code": {
+      "id": "CZ09L028",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.905",
+      "lon": "18.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L014",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Petřvald",
+      "en": "Petrvald",
+      "slug": "petrvald-cz09l014"
+    },
+    "code": {
+      "id": "CZ09L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.831",
+      "lon": "18.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L031",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pist'",
+      "en": "Pist'",
+      "slug": "pist-cz09l031"
+    },
+    "code": {
+      "id": "CZ09L031",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.979",
+      "lon": "18.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L030",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pusta Polom",
+      "en": "Pusta Polom",
+      "slug": "pusta-polom-cz09l030"
+    },
+    "code": {
+      "id": "CZ09L030",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.849",
+      "lon": "17.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L033",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sedliste",
+      "en": "Sedliste",
+      "slug": "sedliste-cz09l033"
+    },
+    "code": {
+      "id": "CZ09L033",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.718",
+      "lon": "18.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L016",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Stará Ves nad Ondejnicí",
+      "en": "Stara Ves nad Ondejnici",
+      "slug": "stara-ves-nad-ondejnici-cz09l016"
+    },
+    "code": {
+      "id": "CZ09L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.728",
+      "lon": "18.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L024",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Staric",
+      "en": "Staric",
+      "slug": "staric-cz09l024"
+    },
+    "code": {
+      "id": "CZ09L024",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.686",
+      "lon": "18.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L021",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Starý Jičín",
+      "en": "Stary Jičin",
+      "slug": "stary-jicin-cz09l021"
+    },
+    "code": {
+      "id": "CZ09L021",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.577",
+      "lon": "17.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L011",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Stěbořice",
+      "en": "Steborice",
+      "slug": "steborice-cz09l011"
+    },
+    "code": {
+      "id": "CZ09L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.937",
+      "lon": "17.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L003",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Stonava",
+      "en": "Stonava",
+      "slug": "stonava-cz09l003"
+    },
+    "code": {
+      "id": "CZ09L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.817",
+      "lon": "18.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L034",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ticha",
+      "en": "Ticha",
+      "slug": "ticha-cz09l034"
+    },
+    "code": {
+      "id": "CZ09L034",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.57",
+      "lon": "18.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L005",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Trinec",
+      "en": "Trinec",
+      "slug": "trinec-cz09l005"
+    },
+    "code": {
+      "id": "CZ09L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.678",
+      "lon": "18.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L029",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Velka Polom",
+      "en": "Velka Polom",
+      "slug": "velka-polom-cz09l029"
+    },
+    "code": {
+      "id": "CZ09L029",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.864",
+      "lon": "18.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L007",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Velké Heraltice",
+      "en": "Velke Heraltice",
+      "slug": "velke-heraltice-cz09l007"
+    },
+    "code": {
+      "id": "CZ09L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.975",
+      "lon": "17.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L008",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Vlcnov",
+      "en": "Vlcnov",
+      "slug": "vlcnov-cz09l008"
+    },
+    "code": {
+      "id": "CZ09L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.579",
+      "lon": "17.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ09L018",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zátor",
+      "en": "Zator",
+      "slug": "zator-cz09l018"
+    },
+    "code": {
+      "id": "CZ09L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ09",
+      "level": 1,
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ09",
+        "level": 1,
+        "name": {
+          "local": "Moravskoslezský",
+          "en": "Moravian-Silesian",
+          "slug": "moravian-silesian-cz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.034",
+      "lon": "17.593"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

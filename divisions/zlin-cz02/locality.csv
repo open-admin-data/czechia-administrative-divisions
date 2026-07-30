@@ -1,0 +1,11 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+CZ02L003,Brezová,Brezova,brezova-cz02l003,CZ02L003,48.925,17.74
+CZ02L004,Hvozdná,Hvozdna,hvozdna-cz02l004,CZ02L004,49.248,17.752
+CZ02L005,Lešná,Lesna,lesna-cz02l005,CZ02L005,49.521,17.93
+CZ02L006,Rataje,Rataje,rataje-cz02l006,CZ02L006,49.271,17.336
+CZ02L009,Ratibor,Ratibor,ratibor-cz02l009,CZ02L009,49.368,17.915
+CZ02L002,Soláň,Solan,solan-cz02l002,CZ02L002,49.396,18.246
+CZ02L007,Stare Mesto,Stare Mesto,stare-mesto-cz02l007,CZ02L007,49.075,17.433
+CZ02L008,Sumice,Sumice,sumice-cz02l008,CZ02L008,49.029,17.722
+CZ02L010,Tlumacov,Tlumacov,tlumacov-cz02l010,CZ02L010,49.254,17.496
+CZ02L001,Žlutava,Zlutava,zlutava-cz02l001,CZ02L001,49.2,17.49

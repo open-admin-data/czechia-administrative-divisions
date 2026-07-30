@@ -1,0 +1,3837 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/cz/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/czechia-administrative-divisions",
+  "data": [
+    {
+      "id": "CZ01",
+      "name": {
+        "local": "Jihočeský",
+        "en": "South Bohemian",
+        "slug": "south-bohemian-cz01"
+      },
+      "code": {
+        "id": "CZ01",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "CZ01L001",
+          "name": {
+            "local": "Jistebnice",
+            "en": "Jistebnice",
+            "slug": "jistebnice-cz01l001"
+          },
+          "code": {
+            "id": "CZ01L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L002",
+          "name": {
+            "local": "Kovářov",
+            "en": "Kovarov",
+            "slug": "kovarov-cz01l002"
+          },
+          "code": {
+            "id": "CZ01L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L003",
+          "name": {
+            "local": "Mirotice",
+            "en": "Mirotice",
+            "slug": "mirotice-cz01l003"
+          },
+          "code": {
+            "id": "CZ01L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L004",
+          "name": {
+            "local": "Horní Stropnice",
+            "en": "Horni Stropnice",
+            "slug": "horni-stropnice-cz01l004"
+          },
+          "code": {
+            "id": "CZ01L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L005",
+          "name": {
+            "local": "Dříteň",
+            "en": "Driten",
+            "slug": "driten-cz01l005"
+          },
+          "code": {
+            "id": "CZ01L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L006",
+          "name": {
+            "local": "Brloh",
+            "en": "Brloh",
+            "slug": "brloh-cz01l006"
+          },
+          "code": {
+            "id": "CZ01L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L007",
+          "name": {
+            "local": "Radomyšl",
+            "en": "Radomysl",
+            "slug": "radomysl-cz01l007"
+          },
+          "code": {
+            "id": "CZ01L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L008",
+          "name": {
+            "local": "Boroviny",
+            "en": "Boroviny",
+            "slug": "boroviny-cz01l008"
+          },
+          "code": {
+            "id": "CZ01L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L009",
+          "name": {
+            "local": "Český Rudolec",
+            "en": "Cesky Rudolec",
+            "slug": "cesky-rudolec-cz01l009"
+          },
+          "code": {
+            "id": "CZ01L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L010",
+          "name": {
+            "local": "Dubné",
+            "en": "Dubne",
+            "slug": "dubne-cz01l010"
+          },
+          "code": {
+            "id": "CZ01L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L011",
+          "name": {
+            "local": "Malonty",
+            "en": "Malonty",
+            "slug": "malonty-cz01l011"
+          },
+          "code": {
+            "id": "CZ01L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L012",
+          "name": {
+            "local": "Čimelice",
+            "en": "Cimelice",
+            "slug": "cimelice-cz01l012"
+          },
+          "code": {
+            "id": "CZ01L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L013",
+          "name": {
+            "local": "Chotoviny",
+            "en": "Chotoviny",
+            "slug": "chotoviny-cz01l013"
+          },
+          "code": {
+            "id": "CZ01L013",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L014",
+          "name": {
+            "local": "Jarošov nad Nežárkou",
+            "en": "Jarosov nad Nezarkou",
+            "slug": "jarosov-nad-nezarkou-cz01l014"
+          },
+          "code": {
+            "id": "CZ01L014",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L015",
+          "name": {
+            "local": "Chyšky",
+            "en": "Chysky",
+            "slug": "chysky-cz01l015"
+          },
+          "code": {
+            "id": "CZ01L015",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L016",
+          "name": {
+            "local": "Kájov",
+            "en": "Kajov",
+            "slug": "kajov-cz01l016"
+          },
+          "code": {
+            "id": "CZ01L016",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L017",
+          "name": {
+            "local": "Opařany",
+            "en": "Oparany",
+            "slug": "oparany-cz01l017"
+          },
+          "code": {
+            "id": "CZ01L017",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L018",
+          "name": {
+            "local": "Vacov",
+            "en": "Vacov",
+            "slug": "vacov-cz01l018"
+          },
+          "code": {
+            "id": "CZ01L018",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L019",
+          "name": {
+            "local": "Strunkovice nad Blanicí",
+            "en": "Strunkovice nad Blanici",
+            "slug": "strunkovice-nad-blanici-cz01l019"
+          },
+          "code": {
+            "id": "CZ01L019",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L020",
+          "name": {
+            "local": "Bernartice",
+            "en": "Bernartice",
+            "slug": "bernartice-cz01l020"
+          },
+          "code": {
+            "id": "CZ01L020",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L021",
+          "name": {
+            "local": "Benešov nad Černou",
+            "en": "Benesov nad Cernou",
+            "slug": "benesov-nad-cernou-cz01l021"
+          },
+          "code": {
+            "id": "CZ01L021",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L022",
+          "name": {
+            "local": "Litvínovice",
+            "en": "Litvinovice",
+            "slug": "litvinovice-cz01l022"
+          },
+          "code": {
+            "id": "CZ01L022",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L023",
+          "name": {
+            "local": "Srubec",
+            "en": "Srubec",
+            "slug": "srubec-cz01l023"
+          },
+          "code": {
+            "id": "CZ01L023",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L024",
+          "name": {
+            "local": "Sedlice",
+            "en": "Sedlice",
+            "slug": "sedlice-cz01l024"
+          },
+          "code": {
+            "id": "CZ01L024",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L025",
+          "name": {
+            "local": "Petrovice",
+            "en": "Petrovice",
+            "slug": "petrovice-cz01l025"
+          },
+          "code": {
+            "id": "CZ01L025",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L026",
+          "name": {
+            "local": "Nove Hrady",
+            "en": "Nove Hrady",
+            "slug": "nove-hrady-cz01l026"
+          },
+          "code": {
+            "id": "CZ01L026",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L027",
+          "name": {
+            "local": "Kardasova Recice",
+            "en": "Kardasova Recice",
+            "slug": "kardasova-recice-cz01l027"
+          },
+          "code": {
+            "id": "CZ01L027",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L028",
+          "name": {
+            "local": "Suchdol nad Luznici",
+            "en": "Suchdol nad Luznici",
+            "slug": "suchdol-nad-luznici-cz01l028"
+          },
+          "code": {
+            "id": "CZ01L028",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ01L029",
+          "name": {
+            "local": "Hluboka nad Vltavou",
+            "en": "Hluboka nad Vltavou",
+            "slug": "hluboka-nad-vltavou-cz01l029"
+          },
+          "code": {
+            "id": "CZ01L029",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CZ02",
+      "name": {
+        "local": "Zlínský",
+        "en": "Zlín",
+        "slug": "zlin-cz02"
+      },
+      "code": {
+        "id": "CZ02",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "CZ02L001",
+          "name": {
+            "local": "Žlutava",
+            "en": "Zlutava",
+            "slug": "zlutava-cz02l001"
+          },
+          "code": {
+            "id": "CZ02L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ02L002",
+          "name": {
+            "local": "Soláň",
+            "en": "Solan",
+            "slug": "solan-cz02l002"
+          },
+          "code": {
+            "id": "CZ02L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ02L003",
+          "name": {
+            "local": "Brezová",
+            "en": "Brezova",
+            "slug": "brezova-cz02l003"
+          },
+          "code": {
+            "id": "CZ02L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ02L004",
+          "name": {
+            "local": "Hvozdná",
+            "en": "Hvozdna",
+            "slug": "hvozdna-cz02l004"
+          },
+          "code": {
+            "id": "CZ02L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ02L005",
+          "name": {
+            "local": "Lešná",
+            "en": "Lesna",
+            "slug": "lesna-cz02l005"
+          },
+          "code": {
+            "id": "CZ02L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ02L006",
+          "name": {
+            "local": "Rataje",
+            "en": "Rataje",
+            "slug": "rataje-cz02l006"
+          },
+          "code": {
+            "id": "CZ02L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ02L007",
+          "name": {
+            "local": "Stare Mesto",
+            "en": "Stare Mesto",
+            "slug": "stare-mesto-cz02l007"
+          },
+          "code": {
+            "id": "CZ02L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ02L008",
+          "name": {
+            "local": "Sumice",
+            "en": "Sumice",
+            "slug": "sumice-cz02l008"
+          },
+          "code": {
+            "id": "CZ02L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ02L009",
+          "name": {
+            "local": "Ratibor",
+            "en": "Ratibor",
+            "slug": "ratibor-cz02l009"
+          },
+          "code": {
+            "id": "CZ02L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ02L010",
+          "name": {
+            "local": "Tlumacov",
+            "en": "Tlumacov",
+            "slug": "tlumacov-cz02l010"
+          },
+          "code": {
+            "id": "CZ02L010",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CZ03",
+      "name": {
+        "local": "Jihomoravský",
+        "en": "South Moravian",
+        "slug": "south-moravian-cz03"
+      },
+      "code": {
+        "id": "CZ03",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "CZ03L001",
+          "name": {
+            "local": "Pustiměř",
+            "en": "Pustimer",
+            "slug": "pustimer-cz03l001"
+          },
+          "code": {
+            "id": "CZ03L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ03L002",
+          "name": {
+            "local": "Pohorelice",
+            "en": "Pohorelice",
+            "slug": "pohorelice-cz03l002"
+          },
+          "code": {
+            "id": "CZ03L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ03L003",
+          "name": {
+            "local": "Suchohrdly",
+            "en": "Suchohrdly",
+            "slug": "suchohrdly-cz03l003"
+          },
+          "code": {
+            "id": "CZ03L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ03L004",
+          "name": {
+            "local": "Vrbovec",
+            "en": "Vrbovec",
+            "slug": "vrbovec-cz03l004"
+          },
+          "code": {
+            "id": "CZ03L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ03L005",
+          "name": {
+            "local": "Nesovice",
+            "en": "Nesovice",
+            "slug": "nesovice-cz03l005"
+          },
+          "code": {
+            "id": "CZ03L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ03L006",
+          "name": {
+            "local": "Ã… lapanice",
+            "en": "A… lapanice",
+            "slug": "a-lapanice-cz03l006"
+          },
+          "code": {
+            "id": "CZ03L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ03L007",
+          "name": {
+            "local": "Vojkovice",
+            "en": "Vojkovice",
+            "slug": "vojkovice-cz03l007"
+          },
+          "code": {
+            "id": "CZ03L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ03L008",
+          "name": {
+            "local": "Mikulčice",
+            "en": "Mikulčice",
+            "slug": "mikulcice-cz03l008"
+          },
+          "code": {
+            "id": "CZ03L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ03L009",
+          "name": {
+            "local": "Dolní Loučky",
+            "en": "Dolni Loučky",
+            "slug": "dolni-loucky-cz03l009"
+          },
+          "code": {
+            "id": "CZ03L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ03L010",
+          "name": {
+            "local": "Lipovec",
+            "en": "Lipovec",
+            "slug": "lipovec-cz03l010"
+          },
+          "code": {
+            "id": "CZ03L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ03L011",
+          "name": {
+            "local": "Drasov",
+            "en": "Drasov",
+            "slug": "drasov-cz03l011"
+          },
+          "code": {
+            "id": "CZ03L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ03L012",
+          "name": {
+            "local": "Strelice",
+            "en": "Strelice",
+            "slug": "strelice-cz03l012"
+          },
+          "code": {
+            "id": "CZ03L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ03L013",
+          "name": {
+            "local": "Krepice",
+            "en": "Krepice",
+            "slug": "krepice-cz03l013"
+          },
+          "code": {
+            "id": "CZ03L013",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ03L014",
+          "name": {
+            "local": "Zbysov",
+            "en": "Zbysov",
+            "slug": "zbysov-cz03l014"
+          },
+          "code": {
+            "id": "CZ03L014",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ03L015",
+          "name": {
+            "local": "Velke Pavlovice",
+            "en": "Velke Pavlovice",
+            "slug": "velke-pavlovice-cz03l015"
+          },
+          "code": {
+            "id": "CZ03L015",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ03L016",
+          "name": {
+            "local": "Luzice",
+            "en": "Luzice",
+            "slug": "luzice-cz03l016"
+          },
+          "code": {
+            "id": "CZ03L016",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ03L017",
+          "name": {
+            "local": "Veseli nad Moravou",
+            "en": "Veseli nad Moravou",
+            "slug": "veseli-nad-moravou-cz03l017"
+          },
+          "code": {
+            "id": "CZ03L017",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ03L018",
+          "name": {
+            "local": "Brezi",
+            "en": "Brezi",
+            "slug": "brezi-cz03l018"
+          },
+          "code": {
+            "id": "CZ03L018",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ03L019",
+          "name": {
+            "local": "Zdanice",
+            "en": "Zdanice",
+            "slug": "zdanice-cz03l019"
+          },
+          "code": {
+            "id": "CZ03L019",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ03L020",
+          "name": {
+            "local": "Hrusky",
+            "en": "Hrusky",
+            "slug": "hrusky-cz03l020"
+          },
+          "code": {
+            "id": "CZ03L020",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CZ04",
+      "name": {
+        "local": "Vysočina",
+        "en": "Vysocina",
+        "slug": "vysocina-cz04"
+      },
+      "code": {
+        "id": "CZ04",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "CZ04L001",
+          "name": {
+            "local": "Nová Cerekev",
+            "en": "Nova Cerekev",
+            "slug": "nova-cerekev-cz04l001"
+          },
+          "code": {
+            "id": "CZ04L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ04L002",
+          "name": {
+            "local": "Vilémov",
+            "en": "Vilemov",
+            "slug": "vilemov-cz04l002"
+          },
+          "code": {
+            "id": "CZ04L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ04L003",
+          "name": {
+            "local": "Okrouhlice",
+            "en": "Okrouhlice",
+            "slug": "okrouhlice-cz04l003"
+          },
+          "code": {
+            "id": "CZ04L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ04L004",
+          "name": {
+            "local": "Nové Syrovice",
+            "en": "Nove Syrovice",
+            "slug": "nove-syrovice-cz04l004"
+          },
+          "code": {
+            "id": "CZ04L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ04L005",
+          "name": {
+            "local": "Želiv",
+            "en": "Zeliv",
+            "slug": "zeliv-cz04l005"
+          },
+          "code": {
+            "id": "CZ04L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ04L006",
+          "name": {
+            "local": "Lukavec",
+            "en": "Lukavec",
+            "slug": "lukavec-cz04l006"
+          },
+          "code": {
+            "id": "CZ04L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ04L007",
+          "name": {
+            "local": "Jimramov",
+            "en": "Jimramov",
+            "slug": "jimramov-cz04l007"
+          },
+          "code": {
+            "id": "CZ04L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ04L008",
+          "name": {
+            "local": "Bohdalov",
+            "en": "Bohdalov",
+            "slug": "bohdalov-cz04l008"
+          },
+          "code": {
+            "id": "CZ04L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ04L009",
+          "name": {
+            "local": "Dolní Cerekev",
+            "en": "Dolni Cerekev",
+            "slug": "dolni-cerekev-cz04l009"
+          },
+          "code": {
+            "id": "CZ04L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ04L010",
+          "name": {
+            "local": "Herálec",
+            "en": "Heralec",
+            "slug": "heralec-cz04l010"
+          },
+          "code": {
+            "id": "CZ04L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ04L011",
+          "name": {
+            "local": "Vilémov",
+            "en": "Vilemov",
+            "slug": "vilemov-cz04l011"
+          },
+          "code": {
+            "id": "CZ04L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ04L012",
+          "name": {
+            "local": "Herálec",
+            "en": "Heralec",
+            "slug": "heralec-cz04l012"
+          },
+          "code": {
+            "id": "CZ04L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ04L013",
+          "name": {
+            "local": "Habry",
+            "en": "Habry",
+            "slug": "habry-cz04l013"
+          },
+          "code": {
+            "id": "CZ04L013",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ04L014",
+          "name": {
+            "local": "Vladislav",
+            "en": "Vladislav",
+            "slug": "vladislav-cz04l014"
+          },
+          "code": {
+            "id": "CZ04L014",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ04L015",
+          "name": {
+            "local": "Velky Beranov",
+            "en": "Velky Beranov",
+            "slug": "velky-beranov-cz04l015"
+          },
+          "code": {
+            "id": "CZ04L015",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ04L016",
+          "name": {
+            "local": "Krizanov",
+            "en": "Krizanov",
+            "slug": "krizanov-cz04l016"
+          },
+          "code": {
+            "id": "CZ04L016",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CZ05",
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      },
+      "code": {
+        "id": "CZ05",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "CZ05L001",
+          "name": {
+            "local": "Strážov",
+            "en": "Strazov",
+            "slug": "strazov-cz05l001"
+          },
+          "code": {
+            "id": "CZ05L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L002",
+          "name": {
+            "local": "Dobřív",
+            "en": "Dobriv",
+            "slug": "dobriv-cz05l002"
+          },
+          "code": {
+            "id": "CZ05L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L003",
+          "name": {
+            "local": "Merklín",
+            "en": "Merklin",
+            "slug": "merklin-cz05l003"
+          },
+          "code": {
+            "id": "CZ05L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L004",
+          "name": {
+            "local": "Bezdružice",
+            "en": "Bezdruzice",
+            "slug": "bezdruzice-cz05l004"
+          },
+          "code": {
+            "id": "CZ05L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L005",
+          "name": {
+            "local": "Hromnice",
+            "en": "Hromnice",
+            "slug": "hromnice-cz05l005"
+          },
+          "code": {
+            "id": "CZ05L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L006",
+          "name": {
+            "local": "Manětín",
+            "en": "Manetin",
+            "slug": "manetin-cz05l006"
+          },
+          "code": {
+            "id": "CZ05L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L007",
+          "name": {
+            "local": "Kasejovice",
+            "en": "Kasejovice",
+            "slug": "kasejovice-cz05l007"
+          },
+          "code": {
+            "id": "CZ05L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L008",
+          "name": {
+            "local": "Postřekov",
+            "en": "Postrekov",
+            "slug": "postrekov-cz05l008"
+          },
+          "code": {
+            "id": "CZ05L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L009",
+          "name": {
+            "local": "Heřmanova Huť",
+            "en": "Hermanova Hut",
+            "slug": "hermanova-hut-cz05l009"
+          },
+          "code": {
+            "id": "CZ05L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L010",
+          "name": {
+            "local": "Měčín",
+            "en": "Mečin",
+            "slug": "mecin-cz05l010"
+          },
+          "code": {
+            "id": "CZ05L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L011",
+          "name": {
+            "local": "Černošín",
+            "en": "Cernosin",
+            "slug": "cernosin-cz05l011"
+          },
+          "code": {
+            "id": "CZ05L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L012",
+          "name": {
+            "local": "Přimda",
+            "en": "Primda",
+            "slug": "primda-cz05l012"
+          },
+          "code": {
+            "id": "CZ05L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L013",
+          "name": {
+            "local": "Meclov",
+            "en": "Meclov",
+            "slug": "meclov-cz05l013"
+          },
+          "code": {
+            "id": "CZ05L013",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L014",
+          "name": {
+            "local": "Mrákov",
+            "en": "Mrakov",
+            "slug": "mrakov-cz05l014"
+          },
+          "code": {
+            "id": "CZ05L014",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L015",
+          "name": {
+            "local": "Hartmanice",
+            "en": "Hartmanice",
+            "slug": "hartmanice-cz05l015"
+          },
+          "code": {
+            "id": "CZ05L015",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L016",
+          "name": {
+            "local": "Plánice",
+            "en": "Planice",
+            "slug": "planice-cz05l016"
+          },
+          "code": {
+            "id": "CZ05L016",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L017",
+          "name": {
+            "local": "Blížejov",
+            "en": "Blizejov",
+            "slug": "blizejov-cz05l017"
+          },
+          "code": {
+            "id": "CZ05L017",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L018",
+          "name": {
+            "local": "Všeruby",
+            "en": "Vseruby",
+            "slug": "vseruby-cz05l018"
+          },
+          "code": {
+            "id": "CZ05L018",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L019",
+          "name": {
+            "local": "Hostouň",
+            "en": "Hostoun",
+            "slug": "hostoun-cz05l019"
+          },
+          "code": {
+            "id": "CZ05L019",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L020",
+          "name": {
+            "local": "Osek",
+            "en": "Osek",
+            "slug": "osek-cz05l020"
+          },
+          "code": {
+            "id": "CZ05L020",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L021",
+          "name": {
+            "local": "Hradek",
+            "en": "Hradek",
+            "slug": "hradek-cz05l021"
+          },
+          "code": {
+            "id": "CZ05L021",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L022",
+          "name": {
+            "local": "Mirosov",
+            "en": "Mirosov",
+            "slug": "mirosov-cz05l022"
+          },
+          "code": {
+            "id": "CZ05L022",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L023",
+          "name": {
+            "local": "Horni Briza",
+            "en": "Horni Briza",
+            "slug": "horni-briza-cz05l023"
+          },
+          "code": {
+            "id": "CZ05L023",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L024",
+          "name": {
+            "local": "Chlumcany",
+            "en": "Chlumcany",
+            "slug": "chlumcany-cz05l024"
+          },
+          "code": {
+            "id": "CZ05L024",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L025",
+          "name": {
+            "local": "Strasice",
+            "en": "Strasice",
+            "slug": "strasice-cz05l025"
+          },
+          "code": {
+            "id": "CZ05L025",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L026",
+          "name": {
+            "local": "Plana",
+            "en": "Plana",
+            "slug": "plana-cz05l026"
+          },
+          "code": {
+            "id": "CZ05L026",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L027",
+          "name": {
+            "local": "Straz",
+            "en": "Straz",
+            "slug": "straz-cz05l027"
+          },
+          "code": {
+            "id": "CZ05L027",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L028",
+          "name": {
+            "local": "Svihov",
+            "en": "Svihov",
+            "slug": "svihov-cz05l028"
+          },
+          "code": {
+            "id": "CZ05L028",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L029",
+          "name": {
+            "local": "Chrast",
+            "en": "Chrast",
+            "slug": "chrast-cz05l029"
+          },
+          "code": {
+            "id": "CZ05L029",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ05L030",
+          "name": {
+            "local": "Kolinec",
+            "en": "Kolinec",
+            "slug": "kolinec-cz05l030"
+          },
+          "code": {
+            "id": "CZ05L030",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CZ06",
+      "name": {
+        "local": "Hlavní město Praha",
+        "en": "Prague",
+        "slug": "prague-cz06"
+      },
+      "code": {
+        "id": "CZ06",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "CZ06L001",
+          "name": {
+            "local": "Libcice nad Vltavou",
+            "en": "Libcice nad Vltavou",
+            "slug": "libcice-nad-vltavou-cz06l001"
+          },
+          "code": {
+            "id": "CZ06L001",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CZ07",
+      "name": {
+        "local": "Pardubický",
+        "en": "Pardubice",
+        "slug": "pardubice-cz07"
+      },
+      "code": {
+        "id": "CZ07",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "CZ07L001",
+          "name": {
+            "local": "Dolní Roveň",
+            "en": "Dolni Roven",
+            "slug": "dolni-roven-cz07l001"
+          },
+          "code": {
+            "id": "CZ07L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ07L002",
+          "name": {
+            "local": "Městečko Trnávka",
+            "en": "Mestečko Trnavka",
+            "slug": "mestecko-trnavka-cz07l002"
+          },
+          "code": {
+            "id": "CZ07L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ07L003",
+          "name": {
+            "local": "Zaholice",
+            "en": "Zaholice",
+            "slug": "zaholice-cz07l003"
+          },
+          "code": {
+            "id": "CZ07L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ07L004",
+          "name": {
+            "local": "Seč",
+            "en": "Seč",
+            "slug": "sec-cz07l004"
+          },
+          "code": {
+            "id": "CZ07L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ07L005",
+          "name": {
+            "local": "Kunčina",
+            "en": "Kunčina",
+            "slug": "kuncina-cz07l005"
+          },
+          "code": {
+            "id": "CZ07L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ07L006",
+          "name": {
+            "local": "Krouna",
+            "en": "Krouna",
+            "slug": "krouna-cz07l006"
+          },
+          "code": {
+            "id": "CZ07L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ07L007",
+          "name": {
+            "local": "Kunvald",
+            "en": "Kunvald",
+            "slug": "kunvald-cz07l007"
+          },
+          "code": {
+            "id": "CZ07L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ07L008",
+          "name": {
+            "local": "Miřetice",
+            "en": "Miretice",
+            "slug": "miretice-cz07l008"
+          },
+          "code": {
+            "id": "CZ07L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ07L009",
+          "name": {
+            "local": "Horní Čermná",
+            "en": "Horni Cermna",
+            "slug": "horni-cermna-cz07l009"
+          },
+          "code": {
+            "id": "CZ07L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ07L010",
+          "name": {
+            "local": "Býšť",
+            "en": "Byst",
+            "slug": "byst-cz07l010"
+          },
+          "code": {
+            "id": "CZ07L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ07L011",
+          "name": {
+            "local": "Chroustovice",
+            "en": "Chroustovice",
+            "slug": "chroustovice-cz07l011"
+          },
+          "code": {
+            "id": "CZ07L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ07L012",
+          "name": {
+            "local": "Osík",
+            "en": "Osik",
+            "slug": "osik-cz07l012"
+          },
+          "code": {
+            "id": "CZ07L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ07L013",
+          "name": {
+            "local": "Dolni Sloupnice",
+            "en": "Dolni Sloupnice",
+            "slug": "dolni-sloupnice-cz07l013"
+          },
+          "code": {
+            "id": "CZ07L013",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ07L014",
+          "name": {
+            "local": "Brněnec",
+            "en": "Brnenec",
+            "slug": "brnenec-cz07l014"
+          },
+          "code": {
+            "id": "CZ07L014",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ07L015",
+          "name": {
+            "local": "Prosec",
+            "en": "Prosec",
+            "slug": "prosec-cz07l015"
+          },
+          "code": {
+            "id": "CZ07L015",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CZ08",
+      "name": {
+        "local": "Karlovarský",
+        "en": "Karlovy Vary",
+        "slug": "karlovy-vary-cz08"
+      },
+      "code": {
+        "id": "CZ08",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "CZ08L001",
+          "name": {
+            "local": "Klášter",
+            "en": "Klaster",
+            "slug": "klaster-cz08l001"
+          },
+          "code": {
+            "id": "CZ08L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ08L002",
+          "name": {
+            "local": "Oloví",
+            "en": "Olovi",
+            "slug": "olovi-cz08l002"
+          },
+          "code": {
+            "id": "CZ08L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ08L003",
+          "name": {
+            "local": "Sadov",
+            "en": "Sadov",
+            "slug": "sadov-cz08l003"
+          },
+          "code": {
+            "id": "CZ08L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ08L004",
+          "name": {
+            "local": "Dolní Žandov",
+            "en": "Dolni Zandov",
+            "slug": "dolni-zandov-cz08l004"
+          },
+          "code": {
+            "id": "CZ08L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ08L005",
+          "name": {
+            "local": "Merklín",
+            "en": "Merklin",
+            "slug": "merklin-cz08l005"
+          },
+          "code": {
+            "id": "CZ08L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ08L006",
+          "name": {
+            "local": "Město",
+            "en": "Mesto",
+            "slug": "mesto-cz08l006"
+          },
+          "code": {
+            "id": "CZ08L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ08L007",
+          "name": {
+            "local": "Lomnice",
+            "en": "Lomnice",
+            "slug": "lomnice-cz08l007"
+          },
+          "code": {
+            "id": "CZ08L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ08L008",
+          "name": {
+            "local": "Brezova",
+            "en": "Brezova",
+            "slug": "brezova-cz08l008"
+          },
+          "code": {
+            "id": "CZ08L008",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CZ09",
+      "name": {
+        "local": "Moravskoslezský",
+        "en": "Moravian-Silesian",
+        "slug": "moravian-silesian-cz09"
+      },
+      "code": {
+        "id": "CZ09",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "CZ09L001",
+          "name": {
+            "local": "Milíkov",
+            "en": "Milikov",
+            "slug": "milikov-cz09l001"
+          },
+          "code": {
+            "id": "CZ09L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L002",
+          "name": {
+            "local": "Chotěbuz",
+            "en": "Chotebuz",
+            "slug": "chotebuz-cz09l002"
+          },
+          "code": {
+            "id": "CZ09L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L003",
+          "name": {
+            "local": "Stonava",
+            "en": "Stonava",
+            "slug": "stonava-cz09l003"
+          },
+          "code": {
+            "id": "CZ09L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L004",
+          "name": {
+            "local": "Brumovice",
+            "en": "Brumovice",
+            "slug": "brumovice-cz09l004"
+          },
+          "code": {
+            "id": "CZ09L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L005",
+          "name": {
+            "local": "Trinec",
+            "en": "Trinec",
+            "slug": "trinec-cz09l005"
+          },
+          "code": {
+            "id": "CZ09L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L006",
+          "name": {
+            "local": "Jakartovice",
+            "en": "Jakartovice",
+            "slug": "jakartovice-cz09l006"
+          },
+          "code": {
+            "id": "CZ09L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L007",
+          "name": {
+            "local": "Velké Heraltice",
+            "en": "Velke Heraltice",
+            "slug": "velke-heraltice-cz09l007"
+          },
+          "code": {
+            "id": "CZ09L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L008",
+          "name": {
+            "local": "Vlcnov",
+            "en": "Vlcnov",
+            "slug": "vlcnov-cz09l008"
+          },
+          "code": {
+            "id": "CZ09L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L009",
+          "name": {
+            "local": "Horní Bludovice",
+            "en": "Horni Bludovice",
+            "slug": "horni-bludovice-cz09l009"
+          },
+          "code": {
+            "id": "CZ09L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L010",
+          "name": {
+            "local": "Horní Město",
+            "en": "Horni Mesto",
+            "slug": "horni-mesto-cz09l010"
+          },
+          "code": {
+            "id": "CZ09L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L011",
+          "name": {
+            "local": "Stěbořice",
+            "en": "Steborice",
+            "slug": "steborice-cz09l011"
+          },
+          "code": {
+            "id": "CZ09L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L012",
+          "name": {
+            "local": "Ã… tramberk",
+            "en": "A… tramberk",
+            "slug": "a-tramberk-cz09l012"
+          },
+          "code": {
+            "id": "CZ09L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L013",
+          "name": {
+            "local": "Holasovice",
+            "en": "Holasovice",
+            "slug": "holasovice-cz09l013"
+          },
+          "code": {
+            "id": "CZ09L013",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L014",
+          "name": {
+            "local": "Petřvald",
+            "en": "Petrvald",
+            "slug": "petrvald-cz09l014"
+          },
+          "code": {
+            "id": "CZ09L014",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L015",
+          "name": {
+            "local": "Chotbuz",
+            "en": "Chotbuz",
+            "slug": "chotbuz-cz09l015"
+          },
+          "code": {
+            "id": "CZ09L015",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L016",
+          "name": {
+            "local": "Stará Ves nad Ondejnicí",
+            "en": "Stara Ves nad Ondejnici",
+            "slug": "stara-ves-nad-ondejnici-cz09l016"
+          },
+          "code": {
+            "id": "CZ09L016",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L017",
+          "name": {
+            "local": "Krmelin",
+            "en": "Krmelin",
+            "slug": "krmelin-cz09l017"
+          },
+          "code": {
+            "id": "CZ09L017",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L018",
+          "name": {
+            "local": "Zátor",
+            "en": "Zator",
+            "slug": "zator-cz09l018"
+          },
+          "code": {
+            "id": "CZ09L018",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L019",
+          "name": {
+            "local": "Hukvaldy",
+            "en": "Hukvaldy",
+            "slug": "hukvaldy-cz09l019"
+          },
+          "code": {
+            "id": "CZ09L019",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L020",
+          "name": {
+            "local": "Branice",
+            "en": "Branice",
+            "slug": "branice-cz09l020"
+          },
+          "code": {
+            "id": "CZ09L020",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L021",
+          "name": {
+            "local": "Starý Jičín",
+            "en": "Stary Jičin",
+            "slug": "stary-jicin-cz09l021"
+          },
+          "code": {
+            "id": "CZ09L021",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L022",
+          "name": {
+            "local": "Lichnov (o. Nový Jičín)",
+            "en": "Lichnov (o. Novy Jičin)",
+            "slug": "lichnov-o-novy-jicin-cz09l022"
+          },
+          "code": {
+            "id": "CZ09L022",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L023",
+          "name": {
+            "local": "Frydlant nad Ostravici",
+            "en": "Frydlant nad Ostravici",
+            "slug": "frydlant-nad-ostravici-cz09l023"
+          },
+          "code": {
+            "id": "CZ09L023",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L024",
+          "name": {
+            "local": "Staric",
+            "en": "Staric",
+            "slug": "staric-cz09l024"
+          },
+          "code": {
+            "id": "CZ09L024",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L025",
+          "name": {
+            "local": "Hradec nad Moravici",
+            "en": "Hradec nad Moravici",
+            "slug": "hradec-nad-moravici-cz09l025"
+          },
+          "code": {
+            "id": "CZ09L025",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L026",
+          "name": {
+            "local": "Hradek",
+            "en": "Hradek",
+            "slug": "hradek-cz09l026"
+          },
+          "code": {
+            "id": "CZ09L026",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L027",
+          "name": {
+            "local": "Brezova",
+            "en": "Brezova",
+            "slug": "brezova-cz09l027"
+          },
+          "code": {
+            "id": "CZ09L027",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L028",
+          "name": {
+            "local": "Mokre Lazce",
+            "en": "Mokre Lazce",
+            "slug": "mokre-lazce-cz09l028"
+          },
+          "code": {
+            "id": "CZ09L028",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L029",
+          "name": {
+            "local": "Velka Polom",
+            "en": "Velka Polom",
+            "slug": "velka-polom-cz09l029"
+          },
+          "code": {
+            "id": "CZ09L029",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L030",
+          "name": {
+            "local": "Pusta Polom",
+            "en": "Pusta Polom",
+            "slug": "pusta-polom-cz09l030"
+          },
+          "code": {
+            "id": "CZ09L030",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L031",
+          "name": {
+            "local": "Pist'",
+            "en": "Pist'",
+            "slug": "pist-cz09l031"
+          },
+          "code": {
+            "id": "CZ09L031",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L032",
+          "name": {
+            "local": "Dolni Lhota",
+            "en": "Dolni Lhota",
+            "slug": "dolni-lhota-cz09l032"
+          },
+          "code": {
+            "id": "CZ09L032",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L033",
+          "name": {
+            "local": "Sedliste",
+            "en": "Sedliste",
+            "slug": "sedliste-cz09l033"
+          },
+          "code": {
+            "id": "CZ09L033",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ09L034",
+          "name": {
+            "local": "Ticha",
+            "en": "Ticha",
+            "slug": "ticha-cz09l034"
+          },
+          "code": {
+            "id": "CZ09L034",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CZ10",
+      "name": {
+        "local": "Olomoucký",
+        "en": "Olomouc",
+        "slug": "olomouc-cz10"
+      },
+      "code": {
+        "id": "CZ10",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "CZ10L001",
+          "name": {
+            "local": "Dolní Bohdíkov",
+            "en": "Dolni Bohdikov",
+            "slug": "dolni-bohdikov-cz10l001"
+          },
+          "code": {
+            "id": "CZ10L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L002",
+          "name": {
+            "local": "Dolní Studénky",
+            "en": "Dolni Studenky",
+            "slug": "dolni-studenky-cz10l002"
+          },
+          "code": {
+            "id": "CZ10L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L003",
+          "name": {
+            "local": "Příkazy",
+            "en": "Prikazy",
+            "slug": "prikazy-cz10l003"
+          },
+          "code": {
+            "id": "CZ10L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L004",
+          "name": {
+            "local": "Oskava",
+            "en": "Oskava",
+            "slug": "oskava-cz10l004"
+          },
+          "code": {
+            "id": "CZ10L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L005",
+          "name": {
+            "local": "Dolní Libina",
+            "en": "Dolni Libina",
+            "slug": "dolni-libina-cz10l005"
+          },
+          "code": {
+            "id": "CZ10L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L006",
+          "name": {
+            "local": "Horní Å těpánov",
+            "en": "Horni A tepanov",
+            "slug": "horni-a-tepanov-cz10l006"
+          },
+          "code": {
+            "id": "CZ10L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L007",
+          "name": {
+            "local": "Ptení",
+            "en": "Pteni",
+            "slug": "pteni-cz10l007"
+          },
+          "code": {
+            "id": "CZ10L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L008",
+          "name": {
+            "local": "Těšetice",
+            "en": "Tesetice",
+            "slug": "tesetice-cz10l008"
+          },
+          "code": {
+            "id": "CZ10L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L009",
+          "name": {
+            "local": "Bochoř",
+            "en": "Bochor",
+            "slug": "bochor-cz10l009"
+          },
+          "code": {
+            "id": "CZ10L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L010",
+          "name": {
+            "local": "Náklo",
+            "en": "Naklo",
+            "slug": "naklo-cz10l010"
+          },
+          "code": {
+            "id": "CZ10L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L011",
+          "name": {
+            "local": "Tršice",
+            "en": "Trsice",
+            "slug": "trsice-cz10l011"
+          },
+          "code": {
+            "id": "CZ10L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L012",
+          "name": {
+            "local": "Čelechovice na Hané",
+            "en": "Celechovice na Hane",
+            "slug": "celechovice-na-hane-cz10l012"
+          },
+          "code": {
+            "id": "CZ10L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L013",
+          "name": {
+            "local": "Město Libavá",
+            "en": "Mesto Libava",
+            "slug": "mesto-libava-cz10l013"
+          },
+          "code": {
+            "id": "CZ10L013",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L014",
+          "name": {
+            "local": "Věrovany",
+            "en": "Verovany",
+            "slug": "verovany-cz10l014"
+          },
+          "code": {
+            "id": "CZ10L014",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L015",
+          "name": {
+            "local": "Písečná",
+            "en": "Pisečna",
+            "slug": "pisecna-cz10l015"
+          },
+          "code": {
+            "id": "CZ10L015",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L016",
+          "name": {
+            "local": "Ã… ternberk",
+            "en": "A… ternberk",
+            "slug": "a-ternberk-cz10l016"
+          },
+          "code": {
+            "id": "CZ10L016",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L017",
+          "name": {
+            "local": "Potštát",
+            "en": "Potstat",
+            "slug": "potstat-cz10l017"
+          },
+          "code": {
+            "id": "CZ10L017",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L018",
+          "name": {
+            "local": "Drahanovice",
+            "en": "Drahanovice",
+            "slug": "drahanovice-cz10l018"
+          },
+          "code": {
+            "id": "CZ10L018",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L019",
+          "name": {
+            "local": "Vrbátky",
+            "en": "Vrbatky",
+            "slug": "vrbatky-cz10l019"
+          },
+          "code": {
+            "id": "CZ10L019",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L020",
+          "name": {
+            "local": "Ceská Ves",
+            "en": "Ceska Ves",
+            "slug": "ceska-ves-cz10l020"
+          },
+          "code": {
+            "id": "CZ10L020",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L021",
+          "name": {
+            "local": "Bílá Lhota",
+            "en": "Bila Lhota",
+            "slug": "bila-lhota-cz10l021"
+          },
+          "code": {
+            "id": "CZ10L021",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L022",
+          "name": {
+            "local": "Moravičany",
+            "en": "Moravičany",
+            "slug": "moravicany-cz10l022"
+          },
+          "code": {
+            "id": "CZ10L022",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L023",
+          "name": {
+            "local": "Bouzov",
+            "en": "Bouzov",
+            "slug": "bouzov-cz10l023"
+          },
+          "code": {
+            "id": "CZ10L023",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L024",
+          "name": {
+            "local": "Loučná nad Desnou",
+            "en": "Loučna nad Desnou",
+            "slug": "loucna-nad-desnou-cz10l024"
+          },
+          "code": {
+            "id": "CZ10L024",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L025",
+          "name": {
+            "local": "Dub nad Moravou",
+            "en": "Dub nad Moravou",
+            "slug": "dub-nad-moravou-cz10l025"
+          },
+          "code": {
+            "id": "CZ10L025",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L026",
+          "name": {
+            "local": "Medlov",
+            "en": "Medlov",
+            "slug": "medlov-cz10l026"
+          },
+          "code": {
+            "id": "CZ10L026",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L027",
+          "name": {
+            "local": "Kralice na Hane",
+            "en": "Kralice na Hane",
+            "slug": "kralice-na-hane-cz10l027"
+          },
+          "code": {
+            "id": "CZ10L027",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L028",
+          "name": {
+            "local": "Nemcice nad Hanou",
+            "en": "Nemcice nad Hanou",
+            "slug": "nemcice-nad-hanou-cz10l028"
+          },
+          "code": {
+            "id": "CZ10L028",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L029",
+          "name": {
+            "local": "Dolni Ujezd",
+            "en": "Dolni Ujezd",
+            "slug": "dolni-ujezd-cz10l029"
+          },
+          "code": {
+            "id": "CZ10L029",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L030",
+          "name": {
+            "local": "Stepanov",
+            "en": "Stepanov",
+            "slug": "stepanov-cz10l030"
+          },
+          "code": {
+            "id": "CZ10L030",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ10L031",
+          "name": {
+            "local": "Kojetin",
+            "en": "Kojetin",
+            "slug": "kojetin-cz10l031"
+          },
+          "code": {
+            "id": "CZ10L031",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CZ11",
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      },
+      "code": {
+        "id": "CZ11",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "CZ11L001",
+          "name": {
+            "local": "Nehvizdy",
+            "en": "Nehvizdy",
+            "slug": "nehvizdy-cz11l001"
+          },
+          "code": {
+            "id": "CZ11L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L002",
+          "name": {
+            "local": "Tišice",
+            "en": "Tisice",
+            "slug": "tisice-cz11l002"
+          },
+          "code": {
+            "id": "CZ11L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L003",
+          "name": {
+            "local": "Luštěnice",
+            "en": "Lustenice",
+            "slug": "lustenice-cz11l003"
+          },
+          "code": {
+            "id": "CZ11L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L004",
+          "name": {
+            "local": "Loučeň",
+            "en": "Loučen",
+            "slug": "loucen-cz11l004"
+          },
+          "code": {
+            "id": "CZ11L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L005",
+          "name": {
+            "local": "Řež",
+            "en": "Rez",
+            "slug": "rez-cz11l005"
+          },
+          "code": {
+            "id": "CZ11L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L006",
+          "name": {
+            "local": "Kněžmost",
+            "en": "Knezmost",
+            "slug": "knezmost-cz11l006"
+          },
+          "code": {
+            "id": "CZ11L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L007",
+          "name": {
+            "local": "Kamenný Přívoz",
+            "en": "Kamenny Privoz",
+            "slug": "kamenny-privoz-cz11l007"
+          },
+          "code": {
+            "id": "CZ11L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L008",
+          "name": {
+            "local": "Ondřejov",
+            "en": "Ondrejov",
+            "slug": "ondrejov-cz11l008"
+          },
+          "code": {
+            "id": "CZ11L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L009",
+          "name": {
+            "local": "Kosova Hora",
+            "en": "Kosova Hora",
+            "slug": "kosova-hora-cz11l009"
+          },
+          "code": {
+            "id": "CZ11L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L010",
+          "name": {
+            "local": "Pavlíkov",
+            "en": "Pavlikov",
+            "slug": "pavlikov-cz11l010"
+          },
+          "code": {
+            "id": "CZ11L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L011",
+          "name": {
+            "local": "Netvořice",
+            "en": "Netvorice",
+            "slug": "netvorice-cz11l011"
+          },
+          "code": {
+            "id": "CZ11L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L012",
+          "name": {
+            "local": "Křinec",
+            "en": "Krinec",
+            "slug": "krinec-cz11l012"
+          },
+          "code": {
+            "id": "CZ11L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L013",
+          "name": {
+            "local": "Cítov",
+            "en": "Citov",
+            "slug": "citov-cz11l013"
+          },
+          "code": {
+            "id": "CZ11L013",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L014",
+          "name": {
+            "local": "Zlenice",
+            "en": "Zlenice",
+            "slug": "zlenice-cz11l014"
+          },
+          "code": {
+            "id": "CZ11L014",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L015",
+          "name": {
+            "local": "Tuchoměřice",
+            "en": "Tuchomerice",
+            "slug": "tuchomerice-cz11l015"
+          },
+          "code": {
+            "id": "CZ11L015",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L016",
+          "name": {
+            "local": "Nelahozeves",
+            "en": "Nelahozeves",
+            "slug": "nelahozeves-cz11l016"
+          },
+          "code": {
+            "id": "CZ11L016",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L017",
+          "name": {
+            "local": "Jirny",
+            "en": "Jirny",
+            "slug": "jirny-cz11l017"
+          },
+          "code": {
+            "id": "CZ11L017",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L018",
+          "name": {
+            "local": "Å těchovice",
+            "en": "A techovice",
+            "slug": "a-techovice-cz11l018"
+          },
+          "code": {
+            "id": "CZ11L018",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L019",
+          "name": {
+            "local": "Ã… estajovice",
+            "en": "A… estajovice",
+            "slug": "a-estajovice-cz11l019"
+          },
+          "code": {
+            "id": "CZ11L019",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L020",
+          "name": {
+            "local": "Pyšely",
+            "en": "Pysely",
+            "slug": "pysely-cz11l020"
+          },
+          "code": {
+            "id": "CZ11L020",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L021",
+          "name": {
+            "local": "Pchery",
+            "en": "Pchery",
+            "slug": "pchery-cz11l021"
+          },
+          "code": {
+            "id": "CZ11L021",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L022",
+          "name": {
+            "local": "Hovorčovice",
+            "en": "Hovorčovice",
+            "slug": "hovorcovice-cz11l022"
+          },
+          "code": {
+            "id": "CZ11L022",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L023",
+          "name": {
+            "local": "Bohutín",
+            "en": "Bohutin",
+            "slug": "bohutin-cz11l023"
+          },
+          "code": {
+            "id": "CZ11L023",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L024",
+          "name": {
+            "local": "Velké Přílepy",
+            "en": "Velke Prilepy",
+            "slug": "velke-prilepy-cz11l024"
+          },
+          "code": {
+            "id": "CZ11L024",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L025",
+          "name": {
+            "local": "Westetz",
+            "en": "Westetz",
+            "slug": "westetz-cz11l025"
+          },
+          "code": {
+            "id": "CZ11L025",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L026",
+          "name": {
+            "local": "Trhový Å těpánov",
+            "en": "Trhovy A tepanov",
+            "slug": "trhovy-a-tepanov-cz11l026"
+          },
+          "code": {
+            "id": "CZ11L026",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L027",
+          "name": {
+            "local": "Psáry",
+            "en": "Psary",
+            "slug": "psary-cz11l027"
+          },
+          "code": {
+            "id": "CZ11L027",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L028",
+          "name": {
+            "local": "Žiželice",
+            "en": "Zizelice",
+            "slug": "zizelice-cz11l028"
+          },
+          "code": {
+            "id": "CZ11L028",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L029",
+          "name": {
+            "local": "Čechtice",
+            "en": "Cechtice",
+            "slug": "cechtice-cz11l029"
+          },
+          "code": {
+            "id": "CZ11L029",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L030",
+          "name": {
+            "local": "Krásná Hora nad Vltavou",
+            "en": "Krasna Hora nad Vltavou",
+            "slug": "krasna-hora-nad-vltavou-cz11l030"
+          },
+          "code": {
+            "id": "CZ11L030",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L031",
+          "name": {
+            "local": "Církvice",
+            "en": "Cirkvice",
+            "slug": "cirkvice-cz11l031"
+          },
+          "code": {
+            "id": "CZ11L031",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L032",
+          "name": {
+            "local": "Měšice",
+            "en": "Mesice",
+            "slug": "mesice-cz11l032"
+          },
+          "code": {
+            "id": "CZ11L032",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L033",
+          "name": {
+            "local": "Veltruby",
+            "en": "Veltruby",
+            "slug": "veltruby-cz11l033"
+          },
+          "code": {
+            "id": "CZ11L033",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L034",
+          "name": {
+            "local": "Dolní Beřkovice",
+            "en": "Dolni Berkovice",
+            "slug": "dolni-berkovice-cz11l034"
+          },
+          "code": {
+            "id": "CZ11L034",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L035",
+          "name": {
+            "local": "Davle",
+            "en": "Davle",
+            "slug": "davle-cz11l035"
+          },
+          "code": {
+            "id": "CZ11L035",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L036",
+          "name": {
+            "local": "Zdiby",
+            "en": "Zdiby",
+            "slug": "zdiby-cz11l036"
+          },
+          "code": {
+            "id": "CZ11L036",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L037",
+          "name": {
+            "local": "Divišov",
+            "en": "Divisov",
+            "slug": "divisov-cz11l037"
+          },
+          "code": {
+            "id": "CZ11L037",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L038",
+          "name": {
+            "local": "Postupice",
+            "en": "Postupice",
+            "slug": "postupice-cz11l038"
+          },
+          "code": {
+            "id": "CZ11L038",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L039",
+          "name": {
+            "local": "Klobuky",
+            "en": "Klobuky",
+            "slug": "klobuky-cz11l039"
+          },
+          "code": {
+            "id": "CZ11L039",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L040",
+          "name": {
+            "local": "Lochovice",
+            "en": "Lochovice",
+            "slug": "lochovice-cz11l040"
+          },
+          "code": {
+            "id": "CZ11L040",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L041",
+          "name": {
+            "local": "Zaječov",
+            "en": "Zaječov",
+            "slug": "zajecov-cz11l041"
+          },
+          "code": {
+            "id": "CZ11L041",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L042",
+          "name": {
+            "local": "Poříčí nad Sázavou",
+            "en": "Poriči nad Sazavou",
+            "slug": "porici-nad-sazavou-cz11l042"
+          },
+          "code": {
+            "id": "CZ11L042",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L043",
+          "name": {
+            "local": "Třebotov",
+            "en": "Trebotov",
+            "slug": "trebotov-cz11l043"
+          },
+          "code": {
+            "id": "CZ11L043",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L044",
+          "name": {
+            "local": "Zvole",
+            "en": "Zvole",
+            "slug": "zvole-cz11l044"
+          },
+          "code": {
+            "id": "CZ11L044",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L045",
+          "name": {
+            "local": "Starý Kolín",
+            "en": "Stary Kolin",
+            "slug": "stary-kolin-cz11l045"
+          },
+          "code": {
+            "id": "CZ11L045",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L046",
+          "name": {
+            "local": "NaÃ¨eradec",
+            "en": "NaA¨eradec",
+            "slug": "naa-eradec-cz11l046"
+          },
+          "code": {
+            "id": "CZ11L046",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L047",
+          "name": {
+            "local": "Mukařov",
+            "en": "Mukarov",
+            "slug": "mukarov-cz11l047"
+          },
+          "code": {
+            "id": "CZ11L047",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L048",
+          "name": {
+            "local": "Zd'ar",
+            "en": "Zd'ar",
+            "slug": "zd-ar-cz11l048"
+          },
+          "code": {
+            "id": "CZ11L048",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L049",
+          "name": {
+            "local": "Vsetaty",
+            "en": "Vsetaty",
+            "slug": "vsetaty-cz11l049"
+          },
+          "code": {
+            "id": "CZ11L049",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L050",
+          "name": {
+            "local": "Suchdol",
+            "en": "Suchdol",
+            "slug": "suchdol-cz11l050"
+          },
+          "code": {
+            "id": "CZ11L050",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L051",
+          "name": {
+            "local": "Komarov",
+            "en": "Komarov",
+            "slug": "komarov-cz11l051"
+          },
+          "code": {
+            "id": "CZ11L051",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L052",
+          "name": {
+            "local": "Sedlec",
+            "en": "Sedlec",
+            "slug": "sedlec-cz11l052"
+          },
+          "code": {
+            "id": "CZ11L052",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L053",
+          "name": {
+            "local": "Vinarice",
+            "en": "Vinarice",
+            "slug": "vinarice-cz11l053"
+          },
+          "code": {
+            "id": "CZ11L053",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ11L054",
+          "name": {
+            "local": "Mnisek pod Brdy",
+            "en": "Mnisek pod Brdy",
+            "slug": "mnisek-pod-brdy-cz11l054"
+          },
+          "code": {
+            "id": "CZ11L054",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CZ12",
+      "name": {
+        "local": "Královéhradecký",
+        "en": "Hradec Králové",
+        "slug": "hradec-kralove-cz12"
+      },
+      "code": {
+        "id": "CZ12",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "CZ12L001",
+          "name": {
+            "local": "Chotěvice",
+            "en": "Chotevice",
+            "slug": "chotevice-cz12l001"
+          },
+          "code": {
+            "id": "CZ12L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ12L002",
+          "name": {
+            "local": "Å pindlerÅ¯v Mlýn",
+            "en": "A pindlerA¯v Mlyn",
+            "slug": "a-pindlera-v-mlyn-cz12l002"
+          },
+          "code": {
+            "id": "CZ12L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ12L003",
+          "name": {
+            "local": "Skuhrov nad Bělou",
+            "en": "Skuhrov nad Belou",
+            "slug": "skuhrov-nad-belou-cz12l003"
+          },
+          "code": {
+            "id": "CZ12L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ12L004",
+          "name": {
+            "local": "Albrechtice nad Orlicí",
+            "en": "Albrechtice nad Orlici",
+            "slug": "albrechtice-nad-orlici-cz12l004"
+          },
+          "code": {
+            "id": "CZ12L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ12L005",
+          "name": {
+            "local": "Smidary",
+            "en": "Smidary",
+            "slug": "smidary-cz12l005"
+          },
+          "code": {
+            "id": "CZ12L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ12L006",
+          "name": {
+            "local": "Staré Nechanice",
+            "en": "Stare Nechanice",
+            "slug": "stare-nechanice-cz12l006"
+          },
+          "code": {
+            "id": "CZ12L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ12L007",
+          "name": {
+            "local": "Machov",
+            "en": "Machov",
+            "slug": "machov-cz12l007"
+          },
+          "code": {
+            "id": "CZ12L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ12L008",
+          "name": {
+            "local": "Všestary",
+            "en": "Vsestary",
+            "slug": "vsestary-cz12l008"
+          },
+          "code": {
+            "id": "CZ12L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ12L009",
+          "name": {
+            "local": "Velké Svatoňovice",
+            "en": "Velke Svatonovice",
+            "slug": "velke-svatonovice-cz12l009"
+          },
+          "code": {
+            "id": "CZ12L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ12L010",
+          "name": {
+            "local": "Zadní Mostek",
+            "en": "Zadni Mostek",
+            "slug": "zadni-mostek-cz12l010"
+          },
+          "code": {
+            "id": "CZ12L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ12L011",
+          "name": {
+            "local": "Dolní Černilov",
+            "en": "Dolni Cernilov",
+            "slug": "dolni-cernilov-cz12l011"
+          },
+          "code": {
+            "id": "CZ12L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ12L012",
+          "name": {
+            "local": "Železnice",
+            "en": "Zeleznice",
+            "slug": "zeleznice-cz12l012"
+          },
+          "code": {
+            "id": "CZ12L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ12L013",
+          "name": {
+            "local": "Teplice nad Metují",
+            "en": "Teplice nad Metuji",
+            "slug": "teplice-nad-metuji-cz12l013"
+          },
+          "code": {
+            "id": "CZ12L013",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ12L014",
+          "name": {
+            "local": "Pecka",
+            "en": "Pecka",
+            "slug": "pecka-cz12l014"
+          },
+          "code": {
+            "id": "CZ12L014",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ12L015",
+          "name": {
+            "local": "Provodov-Sonov",
+            "en": "Provodov-Sonov",
+            "slug": "provodov-sonov-cz12l015"
+          },
+          "code": {
+            "id": "CZ12L015",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ12L016",
+          "name": {
+            "local": "Tyniste nad Orlici",
+            "en": "Tyniste nad Orlici",
+            "slug": "tyniste-nad-orlici-cz12l016"
+          },
+          "code": {
+            "id": "CZ12L016",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CZ13",
+      "name": {
+        "local": "Ústecký",
+        "en": "Ústí nad Labem",
+        "slug": "usti-nad-labem-cz13"
+      },
+      "code": {
+        "id": "CZ13",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "CZ13L001",
+          "name": {
+            "local": "Staré Křečany",
+            "en": "Stare Krečany",
+            "slug": "stare-krecany-cz13l001"
+          },
+          "code": {
+            "id": "CZ13L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ13L002",
+          "name": {
+            "local": "Údlice",
+            "en": "Udlice",
+            "slug": "udlice-cz13l002"
+          },
+          "code": {
+            "id": "CZ13L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ13L003",
+          "name": {
+            "local": "Radonice",
+            "en": "Radonice",
+            "slug": "radonice-cz13l003"
+          },
+          "code": {
+            "id": "CZ13L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ13L004",
+          "name": {
+            "local": "Bílina Kyselka",
+            "en": "Bilina Kyselka",
+            "slug": "bilina-kyselka-cz13l004"
+          },
+          "code": {
+            "id": "CZ13L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ13L005",
+          "name": {
+            "local": "Velemín",
+            "en": "Velemin",
+            "slug": "velemin-cz13l005"
+          },
+          "code": {
+            "id": "CZ13L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ13L006",
+          "name": {
+            "local": "Úštěk",
+            "en": "Ustek",
+            "slug": "ustek-cz13l006"
+          },
+          "code": {
+            "id": "CZ13L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ13L007",
+          "name": {
+            "local": "Hoštka",
+            "en": "Hostka",
+            "slug": "hostka-cz13l007"
+          },
+          "code": {
+            "id": "CZ13L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ13L008",
+          "name": {
+            "local": "Žitenice",
+            "en": "Zitenice",
+            "slug": "zitenice-cz13l008"
+          },
+          "code": {
+            "id": "CZ13L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ13L009",
+          "name": {
+            "local": "Řehlovice",
+            "en": "Rehlovice",
+            "slug": "rehlovice-cz13l009"
+          },
+          "code": {
+            "id": "CZ13L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ13L010",
+          "name": {
+            "local": "Zabrušany",
+            "en": "Zabrusany",
+            "slug": "zabrusany-cz13l010"
+          },
+          "code": {
+            "id": "CZ13L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ13L011",
+          "name": {
+            "local": "Peruc",
+            "en": "Peruc",
+            "slug": "peruc-cz13l011"
+          },
+          "code": {
+            "id": "CZ13L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ13L012",
+          "name": {
+            "local": "Vernerice",
+            "en": "Vernerice",
+            "slug": "vernerice-cz13l012"
+          },
+          "code": {
+            "id": "CZ13L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ13L013",
+          "name": {
+            "local": "Křešice",
+            "en": "Kresice",
+            "slug": "kresice-cz13l013"
+          },
+          "code": {
+            "id": "CZ13L013",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ13L014",
+          "name": {
+            "local": "Polepy",
+            "en": "Polepy",
+            "slug": "polepy-cz13l014"
+          },
+          "code": {
+            "id": "CZ13L014",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ13L015",
+          "name": {
+            "local": "Jiříkov",
+            "en": "Jirikov",
+            "slug": "jirikov-cz13l015"
+          },
+          "code": {
+            "id": "CZ13L015",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ13L016",
+          "name": {
+            "local": "Krásná Lípa",
+            "en": "Krasna Lipa",
+            "slug": "krasna-lipa-cz13l016"
+          },
+          "code": {
+            "id": "CZ13L016",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ13L017",
+          "name": {
+            "local": "Bechlín",
+            "en": "Bechlin",
+            "slug": "bechlin-cz13l017"
+          },
+          "code": {
+            "id": "CZ13L017",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ13L018",
+          "name": {
+            "local": "Liběšice",
+            "en": "Libesice",
+            "slug": "libesice-cz13l018"
+          },
+          "code": {
+            "id": "CZ13L018",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ13L019",
+          "name": {
+            "local": "Měcholupy",
+            "en": "Mecholupy",
+            "slug": "mecholupy-cz13l019"
+          },
+          "code": {
+            "id": "CZ13L019",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ13L020",
+          "name": {
+            "local": "Perštejn",
+            "en": "Perstejn",
+            "slug": "perstejn-cz13l020"
+          },
+          "code": {
+            "id": "CZ13L020",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ13L021",
+          "name": {
+            "local": "Lom u Mostu",
+            "en": "Lom u Mostu",
+            "slug": "lom-u-mostu-cz13l021"
+          },
+          "code": {
+            "id": "CZ13L021",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ13L022",
+          "name": {
+            "local": "Vilémov",
+            "en": "Vilemov",
+            "slug": "vilemov-cz13l022"
+          },
+          "code": {
+            "id": "CZ13L022",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ13L023",
+          "name": {
+            "local": "Budyne nad Ohri",
+            "en": "Budyne nad Ohri",
+            "slug": "budyne-nad-ohri-cz13l023"
+          },
+          "code": {
+            "id": "CZ13L023",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ13L024",
+          "name": {
+            "local": "Brezno",
+            "en": "Brezno",
+            "slug": "brezno-cz13l024"
+          },
+          "code": {
+            "id": "CZ13L024",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CZ14",
+      "name": {
+        "local": "Liberecký",
+        "en": "Liberec",
+        "slug": "liberec-cz14"
+      },
+      "code": {
+        "id": "CZ14",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "CZ14L001",
+          "name": {
+            "local": "Malá Skála",
+            "en": "Mala Skala",
+            "slug": "mala-skala-cz14l001"
+          },
+          "code": {
+            "id": "CZ14L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ14L002",
+          "name": {
+            "local": "Rokytnice nad Jizerou",
+            "en": "Rokytnice nad Jizerou",
+            "slug": "rokytnice-nad-jizerou-cz14l002"
+          },
+          "code": {
+            "id": "CZ14L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ14L003",
+          "name": {
+            "local": "Višňová",
+            "en": "Visnova",
+            "slug": "visnova-cz14l003"
+          },
+          "code": {
+            "id": "CZ14L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ14L004",
+          "name": {
+            "local": "Plavy",
+            "en": "Plavy",
+            "slug": "plavy-cz14l004"
+          },
+          "code": {
+            "id": "CZ14L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ14L005",
+          "name": {
+            "local": "Vysoké nad Jizerou",
+            "en": "Vysoke nad Jizerou",
+            "slug": "vysoke-nad-jizerou-cz14l005"
+          },
+          "code": {
+            "id": "CZ14L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ14L006",
+          "name": {
+            "local": "Kořenov",
+            "en": "Korenov",
+            "slug": "korenov-cz14l006"
+          },
+          "code": {
+            "id": "CZ14L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ14L007",
+          "name": {
+            "local": "Brniště",
+            "en": "Brniste",
+            "slug": "brniste-cz14l007"
+          },
+          "code": {
+            "id": "CZ14L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ14L008",
+          "name": {
+            "local": "Harrachov",
+            "en": "Harrachov",
+            "slug": "harrachov-cz14l008"
+          },
+          "code": {
+            "id": "CZ14L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ14L009",
+          "name": {
+            "local": "JosefÅ¯v DÅ¯l",
+            "en": "JosefA¯v DA¯l",
+            "slug": "josefa-v-da-l-cz14l009"
+          },
+          "code": {
+            "id": "CZ14L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ14L010",
+          "name": {
+            "local": "Pěnčín",
+            "en": "Penčin",
+            "slug": "pencin-cz14l010"
+          },
+          "code": {
+            "id": "CZ14L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ14L011",
+          "name": {
+            "local": "Osečná",
+            "en": "Osečna",
+            "slug": "osecna-cz14l011"
+          },
+          "code": {
+            "id": "CZ14L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ14L012",
+          "name": {
+            "local": "Benecko",
+            "en": "Benecko",
+            "slug": "benecko-cz14l012"
+          },
+          "code": {
+            "id": "CZ14L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ14L013",
+          "name": {
+            "local": "Janov nad Nisou",
+            "en": "Janov nad Nisou",
+            "slug": "janov-nad-nisou-cz14l013"
+          },
+          "code": {
+            "id": "CZ14L013",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ14L014",
+          "name": {
+            "local": "Horni Branna",
+            "en": "Horni Branna",
+            "slug": "horni-branna-cz14l014"
+          },
+          "code": {
+            "id": "CZ14L014",
+            "iso": null
+          }
+        },
+        {
+          "id": "CZ14L015",
+          "name": {
+            "local": "Straz pod Ralskem",
+            "en": "Straz pod Ralskem",
+            "slug": "straz-pod-ralskem-cz14l015"
+          },
+          "code": {
+            "id": "CZ14L015",
+            "iso": null
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CZ05L003",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Merklín",
+    "en": "Merklin",
+    "slug": "merklin-cz05l003"
+  },
+  "code": {
+    "id": "CZ05L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ05",
+    "level": 1,
+    "name": {
+      "local": "Plzeňský",
+      "en": "Plzeň",
+      "slug": "plzen-cz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ05",
+      "level": 1,
+      "name": {
+        "local": "Plzeňský",
+        "en": "Plzeň",
+        "slug": "plzen-cz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.56",
+    "lon": "13.198"
+  },
+  "metadata": {},
+  "source": {}
+}

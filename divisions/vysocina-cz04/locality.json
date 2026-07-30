@@ -1,0 +1,722 @@
+[
+  {
+    "id": "CZ04L008",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bohdalov",
+      "en": "Bohdalov",
+      "slug": "bohdalov-cz04l008"
+    },
+    "code": {
+      "id": "CZ04L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ04",
+      "level": 1,
+      "name": {
+        "local": "Vysočina",
+        "en": "Vysocina",
+        "slug": "vysocina-cz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ04",
+        "level": 1,
+        "name": {
+          "local": "Vysočina",
+          "en": "Vysocina",
+          "slug": "vysocina-cz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.479",
+      "lon": "15.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ04L009",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dolní Cerekev",
+      "en": "Dolni Cerekev",
+      "slug": "dolni-cerekev-cz04l009"
+    },
+    "code": {
+      "id": "CZ04L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ04",
+      "level": 1,
+      "name": {
+        "local": "Vysočina",
+        "en": "Vysocina",
+        "slug": "vysocina-cz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ04",
+        "level": 1,
+        "name": {
+          "local": "Vysočina",
+          "en": "Vysocina",
+          "slug": "vysocina-cz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.344",
+      "lon": "15.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ04L013",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Habry",
+      "en": "Habry",
+      "slug": "habry-cz04l013"
+    },
+    "code": {
+      "id": "CZ04L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ04",
+      "level": 1,
+      "name": {
+        "local": "Vysočina",
+        "en": "Vysocina",
+        "slug": "vysocina-cz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ04",
+        "level": 1,
+        "name": {
+          "local": "Vysočina",
+          "en": "Vysocina",
+          "slug": "vysocina-cz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.756",
+      "lon": "15.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ04L010",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Herálec",
+      "en": "Heralec",
+      "slug": "heralec-cz04l010"
+    },
+    "code": {
+      "id": "CZ04L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ04",
+      "level": 1,
+      "name": {
+        "local": "Vysočina",
+        "en": "Vysocina",
+        "slug": "vysocina-cz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ04",
+        "level": 1,
+        "name": {
+          "local": "Vysočina",
+          "en": "Vysocina",
+          "slug": "vysocina-cz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.531",
+      "lon": "15.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ04L012",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Herálec",
+      "en": "Heralec",
+      "slug": "heralec-cz04l012"
+    },
+    "code": {
+      "id": "CZ04L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ04",
+      "level": 1,
+      "name": {
+        "local": "Vysočina",
+        "en": "Vysocina",
+        "slug": "vysocina-cz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ04",
+        "level": 1,
+        "name": {
+          "local": "Vysočina",
+          "en": "Vysocina",
+          "slug": "vysocina-cz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.689",
+      "lon": "15.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ04L007",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jimramov",
+      "en": "Jimramov",
+      "slug": "jimramov-cz04l007"
+    },
+    "code": {
+      "id": "CZ04L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ04",
+      "level": 1,
+      "name": {
+        "local": "Vysočina",
+        "en": "Vysocina",
+        "slug": "vysocina-cz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ04",
+        "level": 1,
+        "name": {
+          "local": "Vysočina",
+          "en": "Vysocina",
+          "slug": "vysocina-cz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.637",
+      "lon": "16.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ04L016",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Krizanov",
+      "en": "Krizanov",
+      "slug": "krizanov-cz04l016"
+    },
+    "code": {
+      "id": "CZ04L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ04",
+      "level": 1,
+      "name": {
+        "local": "Vysočina",
+        "en": "Vysocina",
+        "slug": "vysocina-cz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ04",
+        "level": 1,
+        "name": {
+          "local": "Vysočina",
+          "en": "Vysocina",
+          "slug": "vysocina-cz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.389",
+      "lon": "16.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ04L006",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lukavec",
+      "en": "Lukavec",
+      "slug": "lukavec-cz04l006"
+    },
+    "code": {
+      "id": "CZ04L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ04",
+      "level": 1,
+      "name": {
+        "local": "Vysočina",
+        "en": "Vysocina",
+        "slug": "vysocina-cz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ04",
+        "level": 1,
+        "name": {
+          "local": "Vysočina",
+          "en": "Vysocina",
+          "slug": "vysocina-cz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.565",
+      "lon": "14.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ04L001",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nová Cerekev",
+      "en": "Nova Cerekev",
+      "slug": "nova-cerekev-cz04l001"
+    },
+    "code": {
+      "id": "CZ04L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ04",
+      "level": 1,
+      "name": {
+        "local": "Vysočina",
+        "en": "Vysocina",
+        "slug": "vysocina-cz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ04",
+        "level": 1,
+        "name": {
+          "local": "Vysočina",
+          "en": "Vysocina",
+          "slug": "vysocina-cz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.417",
+      "lon": "15.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ04L004",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nové Syrovice",
+      "en": "Nove Syrovice",
+      "slug": "nove-syrovice-cz04l004"
+    },
+    "code": {
+      "id": "CZ04L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ04",
+      "level": 1,
+      "name": {
+        "local": "Vysočina",
+        "en": "Vysocina",
+        "slug": "vysocina-cz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ04",
+        "level": 1,
+        "name": {
+          "local": "Vysočina",
+          "en": "Vysocina",
+          "slug": "vysocina-cz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.018",
+      "lon": "15.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ04L003",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Okrouhlice",
+      "en": "Okrouhlice",
+      "slug": "okrouhlice-cz04l003"
+    },
+    "code": {
+      "id": "CZ04L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ04",
+      "level": 1,
+      "name": {
+        "local": "Vysočina",
+        "en": "Vysocina",
+        "slug": "vysocina-cz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ04",
+        "level": 1,
+        "name": {
+          "local": "Vysočina",
+          "en": "Vysocina",
+          "slug": "vysocina-cz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.63",
+      "lon": "15.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ04L015",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Velky Beranov",
+      "en": "Velky Beranov",
+      "slug": "velky-beranov-cz04l015"
+    },
+    "code": {
+      "id": "CZ04L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ04",
+      "level": 1,
+      "name": {
+        "local": "Vysočina",
+        "en": "Vysocina",
+        "slug": "vysocina-cz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ04",
+        "level": 1,
+        "name": {
+          "local": "Vysočina",
+          "en": "Vysocina",
+          "slug": "vysocina-cz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.405",
+      "lon": "15.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ04L002",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Vilémov",
+      "en": "Vilemov",
+      "slug": "vilemov-cz04l002"
+    },
+    "code": {
+      "id": "CZ04L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ04",
+      "level": 1,
+      "name": {
+        "local": "Vysočina",
+        "en": "Vysocina",
+        "slug": "vysocina-cz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ04",
+        "level": 1,
+        "name": {
+          "local": "Vysočina",
+          "en": "Vysocina",
+          "slug": "vysocina-cz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.816",
+      "lon": "15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ04L011",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Vilémov",
+      "en": "Vilemov",
+      "slug": "vilemov-cz04l011"
+    },
+    "code": {
+      "id": "CZ04L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ04",
+      "level": 1,
+      "name": {
+        "local": "Vysočina",
+        "en": "Vysocina",
+        "slug": "vysocina-cz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ04",
+        "level": 1,
+        "name": {
+          "local": "Vysočina",
+          "en": "Vysocina",
+          "slug": "vysocina-cz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.536",
+      "lon": "15.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ04L014",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Vladislav",
+      "en": "Vladislav",
+      "slug": "vladislav-cz04l014"
+    },
+    "code": {
+      "id": "CZ04L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ04",
+      "level": 1,
+      "name": {
+        "local": "Vysočina",
+        "en": "Vysocina",
+        "slug": "vysocina-cz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ04",
+        "level": 1,
+        "name": {
+          "local": "Vysočina",
+          "en": "Vysocina",
+          "slug": "vysocina-cz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.21",
+      "lon": "15.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CZ04L005",
+    "level": 2,
+    "level_name": {
+      "local": "Obec",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Želiv",
+      "en": "Zeliv",
+      "slug": "zeliv-cz04l005"
+    },
+    "code": {
+      "id": "CZ04L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CZ04",
+      "level": 1,
+      "name": {
+        "local": "Vysočina",
+        "en": "Vysocina",
+        "slug": "vysocina-cz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CZ04",
+        "level": 1,
+        "name": {
+          "local": "Vysočina",
+          "en": "Vysocina",
+          "slug": "vysocina-cz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.53",
+      "lon": "15.222"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

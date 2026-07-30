@@ -1,0 +1,45 @@
+{
+  "id": "CZ11L036",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Zdiby",
+    "en": "Zdiby",
+    "slug": "zdiby-cz11l036"
+  },
+  "code": {
+    "id": "CZ11L036",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ11",
+    "level": 1,
+    "name": {
+      "local": "Středočeský",
+      "en": "Central Bohemian",
+      "slug": "central-bohemian-cz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.168",
+    "lon": "14.451"
+  },
+  "metadata": {},
+  "source": {}
+}

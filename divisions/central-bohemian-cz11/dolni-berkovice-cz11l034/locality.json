@@ -1,0 +1,45 @@
+{
+  "id": "CZ11L034",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Dolní Beřkovice",
+    "en": "Dolni Berkovice",
+    "slug": "dolni-berkovice-cz11l034"
+  },
+  "code": {
+    "id": "CZ11L034",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ11",
+    "level": 1,
+    "name": {
+      "local": "Středočeský",
+      "en": "Central Bohemian",
+      "slug": "central-bohemian-cz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.393",
+    "lon": "14.45"
+  },
+  "metadata": {},
+  "source": {}
+}

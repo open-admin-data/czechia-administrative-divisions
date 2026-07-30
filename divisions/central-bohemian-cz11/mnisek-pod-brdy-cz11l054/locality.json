@@ -1,0 +1,45 @@
+{
+  "id": "CZ11L054",
+  "level": 2,
+  "level_name": {
+    "local": "Obec",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Mnisek pod Brdy",
+    "en": "Mnisek pod Brdy",
+    "slug": "mnisek-pod-brdy-cz11l054"
+  },
+  "code": {
+    "id": "CZ11L054",
+    "iso": null
+  },
+  "parent": {
+    "id": "CZ11",
+    "level": 1,
+    "name": {
+      "local": "Středočeský",
+      "en": "Central Bohemian",
+      "slug": "central-bohemian-cz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CZ11",
+      "level": 1,
+      "name": {
+        "local": "Středočeský",
+        "en": "Central Bohemian",
+        "slug": "central-bohemian-cz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.867",
+    "lon": "14.262"
+  },
+  "metadata": {},
+  "source": {}
+}

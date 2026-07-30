@@ -1,0 +1,9 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+CZ08L008,Brezova,Brezova,brezova-cz08l008,CZ08L008,50.146,12.65
+CZ08L004,Dolní Žandov,Dolni Zandov,dolni-zandov-cz08l004,CZ08L004,50.018,12.551
+CZ08L001,Klášter,Klaster,klaster-cz08l001,CZ08L001,49.968,12.876
+CZ08L007,Lomnice,Lomnice,lomnice-cz08l007,CZ08L007,50.212,12.633
+CZ08L005,Merklín,Merklin,merklin-cz08l005,CZ08L005,50.328,12.864
+CZ08L006,Město,Mesto,mesto-cz08l006,CZ08L006,49.98,12.864
+CZ08L002,Oloví,Olovi,olovi-cz08l002,CZ08L002,50.251,12.559
+CZ08L003,Sadov,Sadov,sadov-cz08l003,CZ08L003,50.267,12.897
