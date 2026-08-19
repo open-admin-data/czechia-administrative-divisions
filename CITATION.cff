@@ -4,8 +4,8 @@ type: dataset
 authors:
   - name: "jakkrapongt"
 title: "Czechia Administrative Divisions Dataset"
-version: "2026.07"
-date-released: "2026-07-30"
+version: "2026.08"
+date-released: "2026-08-19"
 url: "https://github.com/open-admin-data/czechia-administrative-divisions"
 repository-code: "https://github.com/open-admin-data/czechia-administrative-divisions"
 license: CC-BY-4.0

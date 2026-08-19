@@ -3,7 +3,7 @@
 > 34 localitys
 > Code: CZ09
 > Coordinates: 49.759, 18.109
-> Last updated: 2026-07-30. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Localitys
 

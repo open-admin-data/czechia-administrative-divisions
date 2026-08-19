@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-07-30 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/cz](https://openadmindata.org/cz/) |
 | API | [openadmindata.org/api/cz](https://openadmindata.org/api/cz/) |
+| National Anthem | [🎵 Listen & Download Czechia National Anthem MP3](https://onlygames.me/national-anthems/cz/) |
 
 ## Browse by Region
 
